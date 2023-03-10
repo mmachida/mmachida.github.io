@@ -7,3 +7,4 @@ Games:
 
 Others:
 - [Public Privacy Policy (Google Play, Ad Supported)](https://mmachida.github.io/PrivacyPolicyAdSupported/)
+- [About Me](https://mmachida.github.io/aboutme/)
