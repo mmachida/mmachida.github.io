@@ -4,7 +4,6 @@
     <meta charset="utf-8">
     <title>GrandeMOficial Metas e Desafios</title>
     
-
     <link href="https://fonts.googleapis.com/css2?family=Patua+One&display=swap" rel="stylesheet">
 
     <style>
@@ -668,6 +667,28 @@
         }
       }
     });
+    
+  //Redimencionar
+  window.addEventListener("resize", ajustarLargura);
+  ajustarLargura(); // Chama a função para definir a largura inicial
+  
+  function ajustarLargura() {
+  var gallery = document.querySelector('.gallery');
+  
+  var itensGaleria = gallery.querySelectorAll('.gallery-item');
+    for (var i = 0; i < itensGaleria.length; i++) {
+      var item = itensGaleria[i];
+
+		if (window.matchMedia("(orientation: portrait)").matches) {
+		  item.style.display = 'flex';
+		  item.style.width = "100%";
+		} else {
+		  item.style.display = 'flex';
+		  item.style.width = "50%";
+		}
+	}
+  }
+    
   </script>
 
     <footer>
