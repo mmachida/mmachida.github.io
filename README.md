@@ -6,7 +6,4 @@ Games:
 - [Flappy Bird Clone](https://mmachida.github.io/FlappyBirdClone/)
 
 Others:
-- [Playlist (live)](https://mmachida.github.io/playlist/)
-- [Metas (live)](https://mmachida.github.io/metas/)
 - [Public Privacy Policy (Google Play, Ad Supported)](https://mmachida.github.io/PrivacyPolicyAdSupported/)
-- [About Me](https://mmachida.github.io/aboutme/)
