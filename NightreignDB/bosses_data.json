@@ -1,0 +1,5697 @@
+{
+  "version": "1.1",
+  "source": "enemiesdata2 + bosses_elites",
+  "modes": [
+    "solo",
+    "duo",
+    "trio"
+  ],
+  "categories": [
+    {
+      "id": "night_lords_enhanced",
+      "title": "Night Lords / Enhanced",
+      "rows": [
+        {
+          "category": "Night Lords / Enhanced",
+          "type": "Night Lords / Enhanced",
+          "name": "Tricephalos",
+          "variant": "Normal",
+          "hp": {
+            "solo": 11328,
+            "duo": 22656,
+            "trio": 33984
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": 0,
+            "strike": 0,
+            "pierce": -10,
+            "magic": 0,
+            "fire": 50,
+            "lightning": 0,
+            "holy": -35
+          },
+          "affinityResistance": {
+            "poison": 543,
+            "rot": 253,
+            "bleed": 253,
+            "frostbite": 543,
+            "sleep": 155,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Night Lords / Enhanced",
+          "type": "Night Lords / Enhanced",
+          "name": "Enhanced Tricephalos",
+          "variant": "Enhanced / Phase",
+          "hp": {
+            "solo": 17558,
+            "duo": 35117,
+            "trio": 52675
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": 0,
+            "strike": 0,
+            "pierce": -10,
+            "magic": 0,
+            "fire": 50,
+            "lightning": 0,
+            "holy": -35
+          },
+          "affinityResistance": {
+            "poison": 543,
+            "rot": 253,
+            "bleed": 253,
+            "frostbite": 543,
+            "sleep": 155,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Night Lords / Enhanced",
+          "type": "Night Lords / Enhanced",
+          "name": "Gaping Jaw",
+          "variant": "Normal",
+          "hp": {
+            "solo": 13140,
+            "duo": 26281,
+            "trio": 39421
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": 0,
+            "strike": 0,
+            "pierce": 0,
+            "magic": 0,
+            "fire": 20,
+            "lightning": 50,
+            "holy": 0
+          },
+          "affinityResistance": {
+            "poison": 155,
+            "rot": 155,
+            "bleed": 543,
+            "frostbite": 155,
+            "sleep": 155,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "Yes"
+          }
+        },
+        {
+          "category": "Night Lords / Enhanced",
+          "type": "Night Lords / Enhanced",
+          "name": "Enhanced Gaping Jaw",
+          "variant": "Enhanced / Phase",
+          "hp": {
+            "solo": 16426,
+            "duo": 32851,
+            "trio": 49277
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": 0,
+            "strike": 0,
+            "pierce": 0,
+            "magic": 0,
+            "fire": 20,
+            "lightning": 50,
+            "holy": 0
+          },
+          "affinityResistance": {
+            "poison": 155,
+            "rot": 155,
+            "bleed": 543,
+            "frostbite": 155,
+            "sleep": 155,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "Yes"
+          }
+        },
+        {
+          "category": "Night Lords / Enhanced",
+          "type": "Night Lords / Enhanced",
+          "name": "Gnoster (Moth)",
+          "variant": "Normal",
+          "hp": {
+            "solo": 13027,
+            "duo": 26054,
+            "trio": 39082
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": "",
+            "slash": "",
+            "strike": "",
+            "pierce": "",
+            "magic": "",
+            "fire": "",
+            "lightning": "",
+            "holy": ""
+          },
+          "affinityResistance": {
+            "poison": "",
+            "rot": "",
+            "bleed": "",
+            "frostbite": "",
+            "sleep": "",
+            "madness": "",
+            "deathBlight": ""
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Night Lords / Enhanced",
+          "type": "Night Lords / Enhanced",
+          "name": "Gnoster (Faurtis)",
+          "variant": "Normal",
+          "hp": {
+            "solo": 12234,
+            "duo": 24468,
+            "trio": 36703
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": "",
+            "slash": "",
+            "strike": "",
+            "pierce": "",
+            "magic": "",
+            "fire": "",
+            "lightning": "",
+            "holy": ""
+          },
+          "affinityResistance": {
+            "poison": "",
+            "rot": "",
+            "bleed": "",
+            "frostbite": "",
+            "sleep": "",
+            "madness": "",
+            "deathBlight": ""
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Night Lords / Enhanced",
+          "type": "Night Lords / Enhanced",
+          "name": "Gnoster (Animus)",
+          "variant": "Enhanced / Phase",
+          "hp": {
+            "solo": 6364,
+            "duo": 12727,
+            "trio": 19091
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": 0,
+            "strike": 0,
+            "pierce": 0,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0
+          },
+          "affinityResistance": {
+            "poison": "Immune",
+            "rot": "Immune",
+            "bleed": "Immune",
+            "frostbite": "Immune",
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Night Lords / Enhanced",
+          "type": "Night Lords / Enhanced",
+          "name": "Gnoster (Moth) 2",
+          "variant": "Enhanced / Phase",
+          "hp": {
+            "solo": 7816,
+            "duo": 15633,
+            "trio": 23449
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": "",
+            "slash": "",
+            "strike": "",
+            "pierce": "",
+            "magic": "",
+            "fire": "",
+            "lightning": "",
+            "holy": ""
+          },
+          "affinityResistance": {
+            "poison": "",
+            "rot": "",
+            "bleed": "",
+            "frostbite": "",
+            "sleep": "",
+            "madness": "",
+            "deathBlight": ""
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Night Lords / Enhanced",
+          "type": "Night Lords / Enhanced",
+          "name": "Gnoster (Faurtis) 2",
+          "variant": "Enhanced / Phase",
+          "hp": {
+            "solo": 8564,
+            "duo": 17128,
+            "trio": 25692
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": "",
+            "slash": "",
+            "strike": "",
+            "pierce": "",
+            "magic": "",
+            "fire": "",
+            "lightning": "",
+            "holy": ""
+          },
+          "affinityResistance": {
+            "poison": "",
+            "rot": "",
+            "bleed": "",
+            "frostbite": "",
+            "sleep": "",
+            "madness": "",
+            "deathBlight": ""
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Night Lords / Enhanced",
+          "type": "Night Lords / Enhanced",
+          "name": "Augur",
+          "variant": "Normal",
+          "hp": {
+            "solo": 12687,
+            "duo": 25375,
+            "trio": 38062
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": -15,
+            "strike": 20,
+            "pierce": 10,
+            "magic": 20,
+            "fire": 50,
+            "lightning": -40,
+            "holy": 15
+          },
+          "affinityResistance": {
+            "poison": "Immune",
+            "rot": 253,
+            "bleed": "Immune",
+            "frostbite": 253,
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "Yes",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Night Lords / Enhanced",
+          "type": "Night Lords / Enhanced",
+          "name": "Maris ph.1",
+          "variant": "Enhanced / Phase",
+          "hp": {
+            "solo": 3172,
+            "duo": 6344,
+            "trio": 9515
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": "",
+            "slash": "",
+            "strike": "",
+            "pierce": "",
+            "magic": "",
+            "fire": "",
+            "lightning": "",
+            "holy": ""
+          },
+          "affinityResistance": {
+            "poison": "",
+            "rot": "",
+            "bleed": "",
+            "frostbite": "",
+            "sleep": "",
+            "madness": "",
+            "deathBlight": ""
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Night Lords / Enhanced",
+          "type": "Night Lords / Enhanced",
+          "name": "Maris ph.2",
+          "variant": "Enhanced / Phase",
+          "hp": {
+            "solo": 25771,
+            "duo": 51542.75,
+            "trio": 77313
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": "",
+            "slash": "",
+            "strike": "",
+            "pierce": "",
+            "magic": "",
+            "fire": "",
+            "lightning": "",
+            "holy": ""
+          },
+          "affinityResistance": {
+            "poison": "",
+            "rot": "",
+            "bleed": "",
+            "frostbite": "",
+            "sleep": "",
+            "madness": "",
+            "deathBlight": ""
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Night Lords / Enhanced",
+          "type": "Night Lords / Enhanced",
+          "name": "Equilibrious Beast",
+          "variant": "Normal",
+          "hp": {
+            "solo": 13048,
+            "duo": 26097,
+            "trio": 39145
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": -10,
+            "strike": 0,
+            "pierce": 0,
+            "magic": 20,
+            "fire": -20,
+            "lightning": 0,
+            "holy": -35
+          },
+          "affinityResistance": {
+            "poison": 155,
+            "rot": 155,
+            "bleed": 253,
+            "frostbite": 253,
+            "sleep": "Immune",
+            "madness": 155,
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Night Lords / Enhanced",
+          "type": "Night Lords / Enhanced",
+          "name": "Enhanced Equilibrious Beast",
+          "variant": "Enhanced / Phase",
+          "hp": {
+            "solo": 18268,
+            "duo": 36536,
+            "trio": 54803
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": -10,
+            "strike": 0,
+            "pierce": 0,
+            "magic": 20,
+            "fire": -20,
+            "lightning": 0,
+            "holy": -35
+          },
+          "affinityResistance": {
+            "poison": 155,
+            "rot": 155,
+            "bleed": 253,
+            "frostbite": 253,
+            "sleep": "Immune",
+            "madness": 155,
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Night Lords / Enhanced",
+          "type": "Night Lords / Enhanced",
+          "name": "Darkdrift Knight",
+          "variant": "Normal",
+          "hp": {
+            "solo": 11894,
+            "duo": 23789,
+            "trio": 35683
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": 0,
+            "strike": 0,
+            "pierce": 0,
+            "magic": 0,
+            "fire": 0,
+            "lightning": -20,
+            "holy": 30
+          },
+          "affinityResistance": {
+            "poison": 155,
+            "rot": 155,
+            "bleed": 155,
+            "frostbite": 155,
+            "sleep": 155,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Night Lords / Enhanced",
+          "type": "Night Lords / Enhanced",
+          "name": "Enhanced Darkdrift Knight",
+          "variant": "Enhanced / Phase",
+          "hp": {
+            "solo": 14273,
+            "duo": 28547,
+            "trio": 42820
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": 0,
+            "strike": 0,
+            "pierce": 0,
+            "magic": 0,
+            "fire": 0,
+            "lightning": -20,
+            "holy": 30
+          },
+          "affinityResistance": {
+            "poison": 155,
+            "rot": 155,
+            "bleed": 155,
+            "frostbite": 155,
+            "sleep": 155,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Night Lords / Enhanced",
+          "type": "Night Lords / Enhanced",
+          "name": "Fissure in the Fog",
+          "variant": "Normal",
+          "hp": {
+            "solo": 12008,
+            "duo": 24015,
+            "trio": 36023
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": 15,
+            "strike": -15,
+            "pierce": 10,
+            "magic": 20,
+            "fire": -35,
+            "lightning": 20,
+            "holy": 20
+          },
+          "affinityResistance": {
+            "poison": 253,
+            "rot": 253,
+            "bleed": 253,
+            "frostbite": 543,
+            "sleep": 543,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "Yes",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Night Lords / Enhanced",
+          "type": "Night Lords / Enhanced",
+          "name": "Enhanced Fissure in the Fog",
+          "variant": "Enhanced / Phase",
+          "hp": {
+            "solo": 16811,
+            "duo": 33622,
+            "trio": 50432
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": 15,
+            "strike": -15,
+            "pierce": 10,
+            "magic": 20,
+            "fire": -35,
+            "lightning": 20,
+            "holy": 20
+          },
+          "affinityResistance": {
+            "poison": 253,
+            "rot": 253,
+            "bleed": 253,
+            "frostbite": 543,
+            "sleep": 543,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "Yes",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Night Lords / Enhanced",
+          "type": "Night Lords / Enhanced",
+          "name": "Heolstor Ph.1",
+          "variant": "Enhanced / Phase",
+          "hp": {
+            "solo": 4984,
+            "duo": 9969,
+            "trio": 14953
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": -15,
+            "strike": 10,
+            "pierce": -10,
+            "magic": 0,
+            "fire": -20,
+            "lightning": 0,
+            "holy": -35
+          },
+          "affinityResistance": {
+            "poison": "Immune",
+            "rot": 253,
+            "bleed": "Immune",
+            "frostbite": "Immune",
+            "sleep": 543,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Night Lords / Enhanced",
+          "type": "Night Lords / Enhanced",
+          "name": "Heolstor Ph.2",
+          "variant": "Enhanced / Phase",
+          "hp": {
+            "solo": 11215,
+            "duo": 22429,
+            "trio": 33644
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": 10,
+            "strike": -10,
+            "pierce": -15,
+            "magic": 0,
+            "fire": 0,
+            "lightning": -20,
+            "holy": -20
+          },
+          "affinityResistance": {
+            "poison": "Immune",
+            "rot": 253,
+            "bleed": "Immune",
+            "frostbite": "Immune",
+            "sleep": 543,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        }
+      ]
+    },
+    {
+      "id": "field_elites",
+      "title": "Field Elites",
+      "rows": [
+        {
+          "category": "Field Elites",
+          "type": "Field Elites",
+          "name": "Tree Sentinel",
+          "variant": "Normal",
+          "hp": {
+            "solo": 4920,
+            "duo": 8561,
+            "trio": 12201
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.41,
+              "frost": 0.41,
+              "sleep": 0.41,
+              "madness": 0.41
+            },
+            "trio": {
+              "bleed": 0.315,
+              "frost": 0.315,
+              "sleep": 0.315,
+              "madness": 0.315
+            }
+          },
+          "damageResistance": {
+            "phys": 10,
+            "slash": 35,
+            "strike": 10,
+            "pierce": 10,
+            "magic": 20,
+            "fire": 40,
+            "lightning": 0,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": 154,
+            "rot": 154,
+            "bleed": 252,
+            "frostbite": 252,
+            "sleep": 154,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Field Elites",
+          "type": "Field Elites",
+          "name": "Ulcerated Tree Spirit",
+          "variant": "Normal",
+          "hp": {
+            "solo": 6907,
+            "duo": 12018,
+            "trio": 17129
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.41,
+              "frost": 0.41,
+              "sleep": 0.41,
+              "madness": 0.41
+            },
+            "trio": {
+              "bleed": 0.315,
+              "frost": 0.315,
+              "sleep": 0.315,
+              "madness": 0.315
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": 0,
+            "strike": 0,
+            "pierce": 0,
+            "magic": 20,
+            "fire": -20,
+            "lightning": 20,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": 252,
+            "rot": 252,
+            "bleed": 252,
+            "frostbite": 112,
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Field Elites",
+          "type": "Field Elites",
+          "name": "Erdtree Avatar",
+          "variant": "Normal",
+          "hp": {
+            "solo": 5617,
+            "duo": 9773,
+            "trio": 13930
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.41,
+              "frost": 0.41,
+              "sleep": 0.41,
+              "madness": 0.41
+            },
+            "trio": {
+              "bleed": 0.315,
+              "frost": 0.315,
+              "sleep": 0.315,
+              "madness": 0.315
+            }
+          },
+          "damageResistance": {
+            "phys": 10,
+            "slash": 10,
+            "strike": 0,
+            "pierce": 10,
+            "magic": 20,
+            "fire": -40,
+            "lightning": 20,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": 154,
+            "rot": 154,
+            "bleed": "Immune",
+            "frostbite": 112,
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Field Elites",
+          "type": "Field Elites",
+          "name": "Bell Bearing Hunter",
+          "variant": "Normal",
+          "hp": {
+            "solo": 5709,
+            "duo": 9933,
+            "trio": 14158
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.41,
+              "frost": 0.41,
+              "sleep": 0.41,
+              "madness": 0.41
+            },
+            "trio": {
+              "bleed": 0.315,
+              "frost": 0.315,
+              "sleep": 0.315,
+              "madness": 0.315
+            }
+          },
+          "damageResistance": {
+            "phys": 35,
+            "slash": 35,
+            "strike": 35,
+            "pierce": 10,
+            "magic": 40,
+            "fire": 40,
+            "lightning": 20,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": 154,
+            "rot": 154,
+            "bleed": 252,
+            "frostbite": 252,
+            "sleep": 154,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Field Elites",
+          "type": "Field Elites",
+          "name": "Ancestor Spirit",
+          "variant": "Normal",
+          "hp": {
+            "solo": 4554,
+            "duo": 7925,
+            "trio": 11295
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.41,
+              "frost": 0.41,
+              "sleep": 0.41,
+              "madness": 0.41
+            },
+            "trio": {
+              "bleed": 0.315,
+              "frost": 0.315,
+              "sleep": 0.315,
+              "madness": 0.315
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": -10,
+            "strike": 0,
+            "pierce": 0,
+            "magic": 20,
+            "fire": -20,
+            "lightning": 0,
+            "holy": -20
+          },
+          "affinityResistance": {
+            "poison": 542,
+            "rot": 542,
+            "bleed": 542,
+            "frostbite": 542,
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Field Elites",
+          "type": "Field Elites",
+          "name": "Magma Wyrm",
+          "variant": "Crater",
+          "hp": {
+            "solo": 6486,
+            "duo": 11285,
+            "trio": 16084
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.41,
+              "frost": 0.41,
+              "sleep": 0.41,
+              "madness": 0.41
+            },
+            "trio": {
+              "bleed": 0.315,
+              "frost": 0.315,
+              "sleep": 0.315,
+              "madness": 0.315
+            }
+          },
+          "damageResistance": {
+            "phys": 10,
+            "slash": 35,
+            "strike": 10,
+            "pierce": 10,
+            "magic": 40,
+            "fire": 80,
+            "lightning": 40,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": 252,
+            "rot": 252,
+            "bleed": 252,
+            "frostbite": 542,
+            "sleep": 112,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "Yes"
+          }
+        },
+        {
+          "category": "Field Elites",
+          "type": "Field Elites",
+          "name": "Flying Dragon",
+          "variant": "Normal",
+          "hp": {
+            "solo": 3674,
+            "duo": 6392,
+            "trio": 9110
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.41,
+              "frost": 0.41,
+              "sleep": 0.41,
+              "madness": 0.41
+            },
+            "trio": {
+              "bleed": 0.315,
+              "frost": 0.315,
+              "sleep": 0.315,
+              "madness": 0.315
+            }
+          },
+          "damageResistance": {
+            "phys": 35,
+            "slash": 35,
+            "strike": 35,
+            "pierce": 10,
+            "magic": 40,
+            "fire": 40,
+            "lightning": 40,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": 252,
+            "rot": 252,
+            "bleed": 252,
+            "frostbite": 252,
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "Yes"
+          }
+        },
+        {
+          "category": "Field Elites",
+          "type": "Field Elites",
+          "name": "Dragonkin Soldier",
+          "variant": "Noklateo",
+          "hp": {
+            "solo": 4738,
+            "duo": 8245,
+            "trio": 11751
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.41,
+              "frost": 0.41,
+              "sleep": 0.41,
+              "madness": 0.41
+            },
+            "trio": {
+              "bleed": 0.315,
+              "frost": 0.315,
+              "sleep": 0.315,
+              "madness": 0.315
+            }
+          },
+          "damageResistance": {
+            "phys": 10,
+            "slash": 0,
+            "strike": 10,
+            "pierce": 10,
+            "magic": 20,
+            "fire": 20,
+            "lightning": 40,
+            "holy": 20
+          },
+          "affinityResistance": {
+            "poison": 252,
+            "rot": 252,
+            "bleed": 252,
+            "frostbite": 542,
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Field Elites",
+          "type": "Field Elites",
+          "name": "Death Rite Bird",
+          "variant": "Normal",
+          "hp": {
+            "solo": 5479,
+            "duo": 9533,
+            "trio": 13588
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.41,
+              "frost": 0.41,
+              "sleep": 0.41,
+              "madness": 0.41
+            },
+            "trio": {
+              "bleed": 0.315,
+              "frost": 0.315,
+              "sleep": 0.315,
+              "madness": 0.315
+            }
+          },
+          "damageResistance": {
+            "phys": 10,
+            "slash": 10,
+            "strike": -40,
+            "pierce": 35,
+            "magic": 20,
+            "fire": 20,
+            "lightning": 40,
+            "holy": -40
+          },
+          "affinityResistance": {
+            "poison": "Immune",
+            "rot": 252,
+            "bleed": "Immune",
+            "frostbite": "Immune",
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "Yes",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Field Elites",
+          "type": "Field Elites",
+          "name": "Black Blade Kindred",
+          "variant": "Normal",
+          "hp": {
+            "solo": 4223,
+            "duo": 7348,
+            "trio": 10473
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.41,
+              "frost": 0.41,
+              "sleep": 0.41,
+              "madness": 0.41
+            },
+            "trio": {
+              "bleed": 0.315,
+              "frost": 0.315,
+              "sleep": 0.315,
+              "madness": 0.315
+            }
+          },
+          "damageResistance": {
+            "phys": 10,
+            "slash": 35,
+            "strike": 0,
+            "pierce": 35,
+            "magic": 20,
+            "fire": 40,
+            "lightning": 40,
+            "holy": 80
+          },
+          "affinityResistance": {
+            "poison": "Immune",
+            "rot": "Immune",
+            "bleed": "Immune",
+            "frostbite": "Immune",
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Field Elites",
+          "type": "Field Elites",
+          "name": "Draconic Tree Sentinel",
+          "variant": "Normal",
+          "hp": {
+            "solo": 5624,
+            "duo": 9786,
+            "trio": 13948
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.41,
+              "frost": 0.41,
+              "sleep": 0.41,
+              "madness": 0.41
+            },
+            "trio": {
+              "bleed": 0.315,
+              "frost": 0.315,
+              "sleep": 0.315,
+              "madness": 0.315
+            }
+          },
+          "damageResistance": {
+            "phys": 10,
+            "slash": 35,
+            "strike": 10,
+            "pierce": 10,
+            "magic": 20,
+            "fire": 40,
+            "lightning": 40,
+            "holy": 20
+          },
+          "affinityResistance": {
+            "poison": 154,
+            "rot": 154,
+            "bleed": 252,
+            "frostbite": 252,
+            "sleep": 154,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Field Elites",
+          "type": "Field Elites",
+          "name": "Royal Carian Loretta",
+          "variant": "Normal",
+          "hp": {
+            "solo": 5198,
+            "duo": 9045,
+            "trio": 12891
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.41,
+              "frost": 0.41,
+              "sleep": 0.41,
+              "madness": 0.41
+            },
+            "trio": {
+              "bleed": 0.315,
+              "frost": 0.315,
+              "sleep": 0.315,
+              "madness": 0.315
+            }
+          },
+          "damageResistance": {
+            "phys": 10,
+            "slash": 10,
+            "strike": 10,
+            "pierce": 10,
+            "magic": 40,
+            "fire": 40,
+            "lightning": 0,
+            "holy": 20
+          },
+          "affinityResistance": {
+            "poison": 154,
+            "rot": 154,
+            "bleed": 252,
+            "frostbite": 252,
+            "sleep": 154,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Field Elites",
+          "type": "Field Elites",
+          "name": "Valiant Gargoyle",
+          "variant": "Crater",
+          "hp": {
+            "solo": 3040,
+            "duo": 5289,
+            "trio": 7538
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.41,
+              "frost": 0.41,
+              "sleep": 0.41,
+              "madness": 0.41
+            },
+            "trio": {
+              "bleed": 0.315,
+              "frost": 0.315,
+              "sleep": 0.315,
+              "madness": 0.315
+            }
+          },
+          "damageResistance": {
+            "phys": 10,
+            "slash": 35,
+            "strike": 0,
+            "pierce": 35,
+            "magic": 20,
+            "fire": 40,
+            "lightning": 40,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": "Immune",
+            "rot": "Immune",
+            "bleed": "Immune",
+            "frostbite": "Immune",
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Field Elites",
+          "type": "Field Elites",
+          "name": "Fallingstar Beast",
+          "variant": "Crater",
+          "hp": {
+            "solo": 3877,
+            "duo": 6746,
+            "trio": 9615
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.41,
+              "frost": 0.41,
+              "sleep": 0.41,
+              "madness": 0.41
+            },
+            "trio": {
+              "bleed": 0.315,
+              "frost": 0.315,
+              "sleep": 0.315,
+              "madness": 0.315
+            }
+          },
+          "damageResistance": {
+            "phys": 35,
+            "slash": 35,
+            "strike": 35,
+            "pierce": 35,
+            "magic": 20,
+            "fire": 20,
+            "lightning": 20,
+            "holy": 20
+          },
+          "affinityResistance": {
+            "poison": 252,
+            "rot": 252,
+            "bleed": 252,
+            "frostbite": "Immune",
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "Yes",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Field Elites",
+          "type": "Field Elites",
+          "name": "Ice Dragon Borealis",
+          "variant": "MountainTops",
+          "hp": {
+            "solo": 5184,
+            "duo": 9020,
+            "trio": 12855
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.41,
+              "frost": 0.41,
+              "sleep": 0.41,
+              "madness": 0.41
+            },
+            "trio": {
+              "bleed": 0.315,
+              "frost": 0.315,
+              "sleep": 0.315,
+              "madness": 0.315
+            }
+          },
+          "damageResistance": {
+            "phys": 35,
+            "slash": 80,
+            "strike": 10,
+            "pierce": 80,
+            "magic": 40,
+            "fire": 40,
+            "lightning": 40,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": 252,
+            "rot": 252,
+            "bleed": 252,
+            "frostbite": 542,
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "Yes"
+          }
+        },
+        {
+          "category": "Field Elites",
+          "type": "Field Elites",
+          "name": "Naturalborn Astel",
+          "variant": "Noklateo",
+          "hp": {
+            "solo": 6553,
+            "duo": 11403,
+            "trio": 16252
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.41,
+              "frost": 0.41,
+              "sleep": 0.41,
+              "madness": 0.41
+            },
+            "trio": {
+              "bleed": 0.315,
+              "frost": 0.315,
+              "sleep": 0.315,
+              "madness": 0.315
+            }
+          },
+          "damageResistance": {
+            "phys": 10,
+            "slash": 10,
+            "strike": 10,
+            "pierce": 10,
+            "magic": 40,
+            "fire": 40,
+            "lightning": 40,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": 252,
+            "rot": 252,
+            "bleed": 252,
+            "frostbite": "Immune",
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "Yes",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        }
+      ]
+    },
+    {
+      "id": "evergaol_extra_bosses",
+      "title": "Evergaol / Extra Bosses",
+      "rows": [
+        {
+          "category": "Evergaol / Extra Bosses",
+          "type": "Evergaol / Extra Bosses",
+          "name": "Banished Knight Trio",
+          "variant": "Tier 1",
+          "hp": {
+            "solo": 7836,
+            "duo": 10188,
+            "trio": 12540
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 1,
+              "frost": 1,
+              "sleep": 1,
+              "madness": 1
+            },
+            "duo": {
+              "bleed": 0.82,
+              "frost": 0.82,
+              "sleep": 0.82,
+              "madness": 0.92
+            },
+            "trio": {
+              "bleed": 0.85,
+              "frost": 0.85,
+              "sleep": 0.85,
+              "madness": 0.85
+            }
+          },
+          "damageResistance": {
+            "phys": 10,
+            "slash": 35,
+            "strike": 10,
+            "pierce": 0,
+            "magic": 20,
+            "fire": 20,
+            "lightning": -40,
+            "holy": 20
+          },
+          "affinityResistance": {
+            "poison": 112,
+            "rot": 112,
+            "bleed": 154,
+            "frostbite": 154,
+            "sleep": 112,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "Yes"
+          }
+        },
+        {
+          "category": "Evergaol / Extra Bosses",
+          "type": "Evergaol / Extra Bosses",
+          "name": "Bloodhound Knight",
+          "variant": "Tier 1",
+          "hp": {
+            "solo": 2421,
+            "duo": 4213,
+            "trio": 6005
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 1,
+              "frost": 1,
+              "sleep": 1,
+              "madness": 1
+            },
+            "duo": {
+              "bleed": 0.82,
+              "frost": 0.82,
+              "sleep": 0.82,
+              "madness": 0.82
+            },
+            "trio": {
+              "bleed": 0.63,
+              "frost": 0.63,
+              "sleep": 0.63,
+              "madness": 0.63
+            }
+          },
+          "damageResistance": {
+            "phys": 10,
+            "slash": 10,
+            "strike": 10,
+            "pierce": 0,
+            "magic": 0,
+            "fire": 0,
+            "lightning": -20,
+            "holy": 0
+          },
+          "affinityResistance": {
+            "poison": 154,
+            "rot": 154,
+            "bleed": 154,
+            "frostbite": 154,
+            "sleep": 112,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Evergaol / Extra Bosses",
+          "type": "Evergaol / Extra Bosses",
+          "name": "Crystalian Trio",
+          "variant": "Tier 1",
+          "hp": {
+            "solo": 3486,
+            "duo": 4530,
+            "trio": 5577
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 1,
+              "frost": 1,
+              "sleep": 1,
+              "madness": 1
+            },
+            "duo": {
+              "bleed": 0.92,
+              "frost": 0.92,
+              "sleep": 0.92,
+              "madness": 0.92
+            },
+            "trio": {
+              "bleed": 0.85,
+              "frost": 0.85,
+              "sleep": 0.85,
+              "madness": 0.85
+            }
+          },
+          "damageResistance": {
+            "phys": 91,
+            "slash": 91,
+            "strike": 35,
+            "pierce": 93.5,
+            "magic": 94,
+            "fire": 94,
+            "lightning": 94,
+            "holy": 94
+          },
+          "affinityResistance": {
+            "poison": 252,
+            "rot": 252,
+            "bleed": "Immune",
+            "frostbite": 252,
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Evergaol / Extra Bosses",
+          "type": "Evergaol / Extra Bosses",
+          "name": "Grave Warden Duelist",
+          "variant": "Tier 1",
+          "hp": {
+            "solo": 2611,
+            "duo": 4543,
+            "trio": 6476
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 1,
+              "frost": 1,
+              "sleep": 1,
+              "madness": 1
+            },
+            "duo": {
+              "bleed": 0.92,
+              "frost": 0.92,
+              "sleep": 0.92,
+              "madness": 0.92
+            },
+            "trio": {
+              "bleed": 0.85,
+              "frost": 0.85,
+              "sleep": 0.85,
+              "madness": 0.85
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": -10,
+            "strike": 0,
+            "pierce": 0,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0
+          },
+          "affinityResistance": {
+            "poison": 112,
+            "rot": 112,
+            "bleed": 84,
+            "frostbite": 112,
+            "sleep": 112,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Evergaol / Extra Bosses",
+          "type": "Evergaol / Extra Bosses",
+          "name": "Nox Monk Duo",
+          "variant": "Tier 1",
+          "hp": {
+            "solo": 5536,
+            "duo": 7196,
+            "trio": 8856
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 1,
+              "frost": 1,
+              "sleep": 1,
+              "madness": 1
+            },
+            "duo": {
+              "bleed": 0.92,
+              "frost": 0.92,
+              "sleep": 0.92,
+              "madness": 0.92
+            },
+            "trio": {
+              "bleed": 0.85,
+              "frost": 0.85,
+              "sleep": 0.85,
+              "madness": 0.85
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": -10,
+            "strike": 0,
+            "pierce": 0,
+            "magic": 20,
+            "fire": 0,
+            "lightning": 0,
+            "holy": -20
+          },
+          "affinityResistance": {
+            "poison": 154,
+            "rot": 154,
+            "bleed": 154,
+            "frostbite": 154,
+            "sleep": 112,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Evergaol / Extra Bosses",
+          "type": "Evergaol / Extra Bosses",
+          "name": "Omen",
+          "variant": "Tier 1",
+          "hp": {
+            "solo": 5351,
+            "duo": 6956,
+            "trio": 8561
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 1,
+              "frost": 1,
+              "sleep": 1,
+              "madness": 1
+            },
+            "duo": {
+              "bleed": 0.92,
+              "frost": 0.92,
+              "sleep": 0.92,
+              "madness": 0.92
+            },
+            "trio": {
+              "bleed": 0.85,
+              "frost": 0.85,
+              "sleep": 0.85,
+              "madness": 0.85
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": -10,
+            "strike": 0,
+            "pierce": 0,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": 112,
+            "rot": 112,
+            "bleed": 112,
+            "frostbite": 112,
+            "sleep": 112,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Evergaol / Extra Bosses",
+          "type": "Evergaol / Extra Bosses",
+          "name": "Onyx Lord Duo",
+          "variant": "Tier 1",
+          "hp": {
+            "solo": 4018,
+            "duo": 6992,
+            "trio": 9966
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 1,
+              "frost": 1,
+              "sleep": 1,
+              "madness": 1
+            },
+            "duo": {
+              "bleed": 0.82,
+              "frost": 0.82,
+              "sleep": 0.82,
+              "madness": 0.82
+            },
+            "trio": {
+              "bleed": 0.63,
+              "frost": 0.63,
+              "sleep": 0.63,
+              "madness": 0.63
+            }
+          },
+          "damageResistance": {
+            "phys": 10,
+            "slash": 10,
+            "strike": 10,
+            "pierce": 10,
+            "magic": 20,
+            "fire": 20,
+            "lightning": 20,
+            "holy": 20
+          },
+          "affinityResistance": {
+            "poison": 154,
+            "rot": 154,
+            "bleed": 154,
+            "frostbite": "Immune",
+            "sleep": 112,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "Yes",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Evergaol / Extra Bosses",
+          "type": "Evergaol / Extra Bosses",
+          "name": "Azula Beastman Gang",
+          "variant": "Tier 1",
+          "hp": {
+            "solo": "WIP",
+            "duo": "WIP",
+            "trio": "WIP"
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 1,
+              "frost": 1,
+              "sleep": 1,
+              "madness": 1
+            },
+            "duo": {
+              "bleed": 0.92,
+              "frost": 0.92,
+              "sleep": 0.92,
+              "madness": 0.92
+            },
+            "trio": {
+              "bleed": 0.85,
+              "frost": 0.85,
+              "sleep": 0.85,
+              "madness": 0.85
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": -10,
+            "strike": 0,
+            "pierce": 0,
+            "magic": 0,
+            "fire": -20,
+            "lightning": 20,
+            "holy": 0
+          },
+          "affinityResistance": {
+            "poison": 112,
+            "rot": 112,
+            "bleed": 154,
+            "frostbite": 154,
+            "sleep": 84,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Evergaol / Extra Bosses",
+          "type": "Evergaol / Extra Bosses",
+          "name": "Misbegotten Gang",
+          "variant": "Tier 1",
+          "hp": {
+            "solo": "WIP",
+            "duo": "WIP",
+            "trio": "WIP"
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 1,
+              "frost": 1,
+              "sleep": 1,
+              "madness": 1
+            },
+            "duo": {
+              "bleed": 0.92,
+              "frost": 0.92,
+              "sleep": 0.92,
+              "madness": 0.92
+            },
+            "trio": {
+              "bleed": 0.85,
+              "frost": 0.85,
+              "sleep": 0.85,
+              "madness": 0.85
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": 0,
+            "strike": 0,
+            "pierce": 0,
+            "magic": 0,
+            "fire": -20,
+            "lightning": 0,
+            "holy": 0
+          },
+          "affinityResistance": {
+            "poison": 112,
+            "rot": 112,
+            "bleed": 112,
+            "frostbite": 112,
+            "sleep": 112,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Evergaol / Extra Bosses",
+          "type": "Evergaol / Extra Bosses",
+          "name": "Crucible Knight",
+          "variant": "Tier 2",
+          "hp": {
+            "solo": 2215,
+            "duo": 3855,
+            "trio": 5494
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 1,
+              "frost": 1,
+              "sleep": 1,
+              "madness": 1
+            },
+            "duo": {
+              "bleed": 0.82,
+              "frost": 0.82,
+              "sleep": 0.82,
+              "madness": 0.82
+            },
+            "trio": {
+              "bleed": 0.63,
+              "frost": 0.63,
+              "sleep": 0.63,
+              "madness": 0.63
+            }
+          },
+          "damageResistance": {
+            "phys": 35,
+            "slash": 35,
+            "strike": 35,
+            "pierce": 35,
+            "magic": 40,
+            "fire": 20,
+            "lightning": 20,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": 252,
+            "rot": 252,
+            "bleed": "Immune",
+            "frostbite": 252,
+            "sleep": 252,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Evergaol / Extra Bosses",
+          "type": "Evergaol / Extra Bosses",
+          "name": "Crucible Knight Siluria",
+          "variant": "Tier 2",
+          "hp": {
+            "solo": 2215,
+            "duo": 3855,
+            "trio": 5494
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 1,
+              "frost": 1,
+              "sleep": 1,
+              "madness": 1
+            },
+            "duo": {
+              "bleed": 0.82,
+              "frost": 0.82,
+              "sleep": 0.82,
+              "madness": 0.82
+            },
+            "trio": {
+              "bleed": 0.63,
+              "frost": 0.63,
+              "sleep": 0.63,
+              "madness": 0.63
+            }
+          },
+          "damageResistance": {
+            "phys": 35,
+            "slash": 35,
+            "strike": 35,
+            "pierce": 35,
+            "magic": 40,
+            "fire": 20,
+            "lightning": 20,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": 252,
+            "rot": 252,
+            "bleed": "Immune",
+            "frostbite": 252,
+            "sleep": 252,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Evergaol / Extra Bosses",
+          "type": "Evergaol / Extra Bosses",
+          "name": "Dragonkin Soldier",
+          "variant": "Tier 2",
+          "hp": {
+            "solo": 5169,
+            "duo": 8995,
+            "trio": 12820
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 1,
+              "frost": 1,
+              "sleep": 1,
+              "madness": 1
+            },
+            "duo": {
+              "bleed": 0.82,
+              "frost": 0.82,
+              "sleep": 0.82,
+              "madness": 0.82
+            },
+            "trio": {
+              "bleed": 0.63,
+              "frost": 0.63,
+              "sleep": 0.63,
+              "madness": 0.63
+            }
+          },
+          "damageResistance": {
+            "phys": 10,
+            "slash": 0,
+            "strike": 10,
+            "pierce": 10,
+            "magic": 20,
+            "fire": 20,
+            "lightning": 40,
+            "holy": 20
+          },
+          "affinityResistance": {
+            "poison": 252,
+            "rot": 252,
+            "bleed": 252,
+            "frostbite": 542,
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Evergaol / Extra Bosses",
+          "type": "Evergaol / Extra Bosses",
+          "name": "Godskin Apostle",
+          "variant": "Tier 2",
+          "hp": {
+            "solo": 3756,
+            "duo": 6535,
+            "trio": 9314
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 1,
+              "frost": 1,
+              "sleep": 1,
+              "madness": 1
+            },
+            "duo": {
+              "bleed": 0.82,
+              "frost": 0.82,
+              "sleep": 0.82,
+              "madness": 0.82
+            },
+            "trio": {
+              "bleed": 0.63,
+              "frost": 0.63,
+              "sleep": 0.63,
+              "madness": 0.63
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": -10,
+            "strike": 10,
+            "pierce": 0,
+            "magic": 20,
+            "fire": 40,
+            "lightning": 20,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": 154,
+            "rot": 154,
+            "bleed": 112,
+            "frostbite": 154,
+            "sleep": 112,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Evergaol / Extra Bosses",
+          "type": "Evergaol / Extra Bosses",
+          "name": "Godskin Noble",
+          "variant": "Tier 2",
+          "hp": {
+            "solo": 4584,
+            "duo": 7976,
+            "trio": 11368
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 1,
+              "frost": 1,
+              "sleep": 1,
+              "madness": 1
+            },
+            "duo": {
+              "bleed": 0.82,
+              "frost": 0.82,
+              "sleep": 0.82,
+              "madness": 0.82
+            },
+            "trio": {
+              "bleed": 0.63,
+              "frost": 0.63,
+              "sleep": 0.63,
+              "madness": 0.63
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": -10,
+            "strike": 35,
+            "pierce": 0,
+            "magic": 20,
+            "fire": 40,
+            "lightning": 20,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": 154,
+            "rot": 154,
+            "bleed": 112,
+            "frostbite": 154,
+            "sleep": 112,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Evergaol / Extra Bosses",
+          "type": "Evergaol / Extra Bosses",
+          "name": "Godskin Duo (Apostle)",
+          "variant": "Tier 3",
+          "hp": {
+            "solo": 4418,
+            "duo": 7688,
+            "trio": 10958
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.41,
+              "frost": 0.41,
+              "sleep": 0.41,
+              "madness": 0.41
+            },
+            "trio": {
+              "bleed": 0.315,
+              "frost": 0.315,
+              "sleep": 0.315,
+              "madness": 0.315
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": -10,
+            "strike": 10,
+            "pierce": 0,
+            "magic": 20,
+            "fire": 40,
+            "lightning": 20,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": 154,
+            "rot": 154,
+            "bleed": 112,
+            "frostbite": 154,
+            "sleep": 112,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Evergaol / Extra Bosses",
+          "type": "Evergaol / Extra Bosses",
+          "name": "Godskin Duo (Noble)",
+          "variant": "Tier 3",
+          "hp": {
+            "solo": 5393,
+            "duo": 9383,
+            "trio": 13374
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.41,
+              "frost": 0.41,
+              "sleep": 0.41,
+              "madness": 0.41
+            },
+            "trio": {
+              "bleed": 0.315,
+              "frost": 0.315,
+              "sleep": 0.315,
+              "madness": 0.315
+            }
+          },
+          "damageResistance": {
+            "phys": "",
+            "slash": "",
+            "strike": 35,
+            "pierce": "",
+            "magic": "",
+            "fire": "",
+            "lightning": "",
+            "holy": ""
+          },
+          "affinityResistance": {
+            "poison": "",
+            "rot": "",
+            "bleed": "",
+            "frostbite": "",
+            "sleep": "",
+            "madness": "",
+            "deathBlight": ""
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Evergaol / Extra Bosses",
+          "type": "Evergaol / Extra Bosses",
+          "name": "Death Rite Bird",
+          "variant": "Tier 3",
+          "hp": {
+            "solo": 6912,
+            "duo": 12027,
+            "trio": 17142
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.41,
+              "frost": 0.41,
+              "sleep": 0.41,
+              "madness": 0.41
+            },
+            "trio": {
+              "bleed": 0.315,
+              "frost": 0.315,
+              "sleep": 0.315,
+              "madness": 0.315
+            }
+          },
+          "damageResistance": {
+            "phys": 10,
+            "slash": 10,
+            "strike": -40,
+            "pierce": 35,
+            "magic": 20,
+            "fire": 20,
+            "lightning": 40,
+            "holy": -40
+          },
+          "affinityResistance": {
+            "poison": "Immune",
+            "rot": 252,
+            "bleed": "Immune",
+            "frostbite": "Immune",
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "Yes",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Evergaol / Extra Bosses",
+          "type": "Evergaol / Extra Bosses",
+          "name": "Ancient Dragon",
+          "variant": "Tier 3",
+          "hp": {
+            "solo": 3703,
+            "duo": 6444,
+            "trio": 9184
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.41,
+              "frost": 0.41,
+              "sleep": 0.41,
+              "madness": 0.41
+            },
+            "trio": {
+              "bleed": 0.315,
+              "frost": 0.315,
+              "sleep": 0.315,
+              "madness": 0.315
+            }
+          },
+          "damageResistance": {
+            "phys": 35,
+            "slash": 35,
+            "strike": 35,
+            "pierce": 10,
+            "magic": 40,
+            "fire": 40,
+            "lightning": 80,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": 252,
+            "rot": 252,
+            "bleed": 252,
+            "frostbite": 252,
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "Yes",
+            "dragonWyrm": "No"
+          }
+        }
+      ]
+    },
+    {
+      "id": "castle_bosses",
+      "title": "Castle Bosses",
+      "rows": [
+        {
+          "category": "Castle Bosses",
+          "type": "Castle Bosses",
+          "name": "Black Knife Assassin",
+          "variant": "Basement",
+          "hp": {
+            "solo": 2464,
+            "duo": 3204,
+            "trio": 3943
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 1,
+              "frost": 1,
+              "sleep": 1,
+              "madness": 1
+            },
+            "duo": {
+              "bleed": 0.92,
+              "frost": 0.92,
+              "sleep": 0.92,
+              "madness": 0.92
+            },
+            "trio": {
+              "bleed": 0.85,
+              "frost": 0.85,
+              "sleep": 0.85,
+              "madness": 0.85
+            }
+          },
+          "damageResistance": {
+            "phys": 10,
+            "slash": 10,
+            "strike": 10,
+            "pierce": 35,
+            "magic": 20,
+            "fire": 20,
+            "lightning": 20,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": "Immune",
+            "rot": "Immune",
+            "bleed": "Immune",
+            "frostbite": 154,
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Castle Bosses",
+          "type": "Castle Bosses",
+          "name": "Ancient Hero Zamor",
+          "variant": "Basement",
+          "hp": {
+            "solo": 3865,
+            "duo": 5025,
+            "trio": 6185
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 1,
+              "frost": 1,
+              "sleep": 1,
+              "madness": 1
+            },
+            "duo": {
+              "bleed": 0.92,
+              "frost": 0.92,
+              "sleep": 0.92,
+              "madness": 0.92
+            },
+            "trio": {
+              "bleed": 0.85,
+              "frost": 0.85,
+              "sleep": 0.85,
+              "madness": 0.85
+            }
+          },
+          "damageResistance": {
+            "phys": 10,
+            "slash": 10,
+            "strike": 10,
+            "pierce": 0,
+            "magic": 0,
+            "fire": -20,
+            "lightning": -20,
+            "holy": 0
+          },
+          "affinityResistance": {
+            "poison": 154,
+            "rot": 154,
+            "bleed": 252,
+            "frostbite": 542,
+            "sleep": 112,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Castle Bosses",
+          "type": "Castle Bosses",
+          "name": "Grafted Scion",
+          "variant": "Basement",
+          "hp": {
+            "solo": 4937,
+            "duo": 6418,
+            "trio": 7899
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 1,
+              "frost": 1,
+              "sleep": 1,
+              "madness": 1
+            },
+            "duo": {
+              "bleed": 0.92,
+              "frost": 0.92,
+              "sleep": 0.92,
+              "madness": 0.92
+            },
+            "trio": {
+              "bleed": 0.85,
+              "frost": 0.85,
+              "sleep": 0.85,
+              "madness": 0.85
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": -10,
+            "strike": 0,
+            "pierce": 0,
+            "magic": 20,
+            "fire": 20,
+            "lightning": 20,
+            "holy": 20
+          },
+          "affinityResistance": {
+            "poison": 154,
+            "rot": 154,
+            "bleed": 112,
+            "frostbite": 112,
+            "sleep": 112,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Castle Bosses",
+          "type": "Castle Bosses",
+          "name": "Leonine Misbegotten",
+          "variant": "Basement",
+          "hp": {
+            "solo": 3380,
+            "duo": 4394,
+            "trio": 5408
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 1,
+              "frost": 1,
+              "sleep": 1,
+              "madness": 1
+            },
+            "duo": {
+              "bleed": 0.92,
+              "frost": 0.92,
+              "sleep": 0.92,
+              "madness": 0.92
+            },
+            "trio": {
+              "bleed": 0.85,
+              "frost": 0.85,
+              "sleep": 0.85,
+              "madness": 0.85
+            }
+          },
+          "damageResistance": {
+            "phys": 10,
+            "slash": 0,
+            "strike": 10,
+            "pierce": 10,
+            "magic": 20,
+            "fire": 0,
+            "lightning": 20,
+            "holy": 20
+          },
+          "affinityResistance": {
+            "poison": 154,
+            "rot": 154,
+            "bleed": 154,
+            "frostbite": 154,
+            "sleep": 154,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Castle Bosses",
+          "type": "Castle Bosses",
+          "name": "Red Wolf of Radagon",
+          "variant": "Basement",
+          "hp": {
+            "solo": 3176,
+            "duo": 4129,
+            "trio": 5081
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 1,
+              "frost": 1,
+              "sleep": 1,
+              "madness": 1
+            },
+            "duo": {
+              "bleed": 0.92,
+              "frost": 0.92,
+              "sleep": 0.92,
+              "madness": 0.92
+            },
+            "trio": {
+              "bleed": 0.85,
+              "frost": 0.85,
+              "sleep": 0.85,
+              "madness": 0.85
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": -10,
+            "strike": 0,
+            "pierce": 0,
+            "magic": 40,
+            "fire": 20,
+            "lightning": 20,
+            "holy": 20
+          },
+          "affinityResistance": {
+            "poison": 154,
+            "rot": 154,
+            "bleed": 252,
+            "frostbite": 252,
+            "sleep": 154,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Castle Bosses",
+          "type": "Castle Bosses",
+          "name": "Royal Revenant",
+          "variant": "Basement",
+          "hp": {
+            "solo": 6213,
+            "duo": 8076,
+            "trio": 9940
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 1,
+              "frost": 1,
+              "sleep": 1,
+              "madness": 1
+            },
+            "duo": {
+              "bleed": 0.92,
+              "frost": 0.92,
+              "sleep": 0.92,
+              "madness": 0.92
+            },
+            "trio": {
+              "bleed": 0.85,
+              "frost": 0.85,
+              "sleep": 0.85,
+              "madness": 0.85
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": -10,
+            "strike": 0,
+            "pierce": 0,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": 154,
+            "rot": 154,
+            "bleed": 154,
+            "frostbite": 154,
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Castle Bosses",
+          "type": "Castle Bosses",
+          "name": "Bell Bearing Hunter",
+          "variant": "Basement",
+          "hp": {
+            "solo": 6871,
+            "duo": 11955,
+            "trio": 17039
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.41,
+              "frost": 0.41,
+              "sleep": 0.41,
+              "madness": 0.41
+            },
+            "trio": {
+              "bleed": 0.315,
+              "frost": 0.315,
+              "sleep": 0.315,
+              "madness": 0.315
+            }
+          },
+          "damageResistance": {
+            "phys": 35,
+            "slash": 35,
+            "strike": 35,
+            "pierce": 10,
+            "magic": 40,
+            "fire": 40,
+            "lightning": 20,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": 154,
+            "rot": 154,
+            "bleed": 252,
+            "frostbite": 252,
+            "sleep": 154,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Castle Bosses",
+          "type": "Castle Bosses",
+          "name": "Black Blade Kindred",
+          "variant": "Rooftop",
+          "hp": {
+            "solo": 5067,
+            "duo": 8817,
+            "trio": 12567
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.41,
+              "frost": 0.41,
+              "sleep": 0.41,
+              "madness": 0.41
+            },
+            "trio": {
+              "bleed": 0.315,
+              "frost": 0.315,
+              "sleep": 0.315,
+              "madness": 0.315
+            }
+          },
+          "damageResistance": {
+            "phys": 10,
+            "slash": 35,
+            "strike": 0,
+            "pierce": 35,
+            "magic": 20,
+            "fire": 40,
+            "lightning": 40,
+            "holy": 80
+          },
+          "affinityResistance": {
+            "poison": "Immune",
+            "rot": "Immune",
+            "bleed": "Immune",
+            "frostbite": "Immune",
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Castle Bosses",
+          "type": "Castle Bosses",
+          "name": "Death Rite Bird",
+          "variant": "Rooftop",
+          "hp": {
+            "solo": 6575,
+            "duo": 11440,
+            "trio": 16305
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.41,
+              "frost": 0.41,
+              "sleep": 0.41,
+              "madness": 0.41
+            },
+            "trio": {
+              "bleed": 0.315,
+              "frost": 0.315,
+              "sleep": 0.315,
+              "madness": 0.315
+            }
+          },
+          "damageResistance": {
+            "phys": 10,
+            "slash": 10,
+            "strike": -40,
+            "pierce": 35,
+            "magic": 20,
+            "fire": 20,
+            "lightning": 40,
+            "holy": -40
+          },
+          "affinityResistance": {
+            "poison": "Immune",
+            "rot": 252,
+            "bleed": "Immune",
+            "frostbite": "Immune",
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "Yes",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Castle Bosses",
+          "type": "Castle Bosses",
+          "name": "Draconic Tree Sentinel",
+          "variant": "Rooftop",
+          "hp": {
+            "solo": 6749,
+            "duo": 11743,
+            "trio": 16737
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.41,
+              "frost": 0.41,
+              "sleep": 0.41,
+              "madness": 0.41
+            },
+            "trio": {
+              "bleed": 0.315,
+              "frost": 0.315,
+              "sleep": 0.315,
+              "madness": 0.315
+            }
+          },
+          "damageResistance": {
+            "phys": 10,
+            "slash": 35,
+            "strike": 10,
+            "pierce": 10,
+            "magic": 20,
+            "fire": 40,
+            "lightning": 40,
+            "holy": 20
+          },
+          "affinityResistance": {
+            "poison": 154,
+            "rot": 154,
+            "bleed": 252,
+            "frostbite": 252,
+            "sleep": 154,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Castle Bosses",
+          "type": "Castle Bosses",
+          "name": "Erdtree Avatar",
+          "variant": "Rooftop",
+          "hp": {
+            "solo": 6740,
+            "duo": 11728,
+            "trio": 16716
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.41,
+              "frost": 0.41,
+              "sleep": 0.41,
+              "madness": 0.41
+            },
+            "trio": {
+              "bleed": 0.315,
+              "frost": 0.315,
+              "sleep": 0.315,
+              "madness": 0.315
+            }
+          },
+          "damageResistance": {
+            "phys": 10,
+            "slash": 10,
+            "strike": 0,
+            "pierce": 10,
+            "magic": 20,
+            "fire": -40,
+            "lightning": 20,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": 154,
+            "rot": 154,
+            "bleed": "Immune",
+            "frostbite": 112,
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Castle Bosses",
+          "type": "Castle Bosses",
+          "name": "Magma Wyrm",
+          "variant": "Rooftop",
+          "hp": {
+            "solo": 7783,
+            "duo": 13542,
+            "trio": 19301
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.41,
+              "frost": 0.41,
+              "sleep": 0.41,
+              "madness": 0.41
+            },
+            "trio": {
+              "bleed": 0.315,
+              "frost": 0.315,
+              "sleep": 0.315,
+              "madness": 0.315
+            }
+          },
+          "damageResistance": {
+            "phys": 10,
+            "slash": 35,
+            "strike": 10,
+            "pierce": 10,
+            "magic": 40,
+            "fire": 80,
+            "lightning": 40,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": 252,
+            "rot": 252,
+            "bleed": 252,
+            "frostbite": 542,
+            "sleep": 112,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "Yes"
+          }
+        },
+        {
+          "category": "Castle Bosses",
+          "type": "Castle Bosses",
+          "name": "Royal Carian Loretta",
+          "variant": "Rooftop",
+          "hp": {
+            "solo": 6238,
+            "duo": 10854,
+            "trio": 15470
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.41,
+              "frost": 0.41,
+              "sleep": 0.41,
+              "madness": 0.41
+            },
+            "trio": {
+              "bleed": 0.315,
+              "frost": 0.315,
+              "sleep": 0.315,
+              "madness": 0.315
+            }
+          },
+          "damageResistance": {
+            "phys": 10,
+            "slash": 10,
+            "strike": 10,
+            "pierce": 10,
+            "magic": 40,
+            "fire": 40,
+            "lightning": 0,
+            "holy": 20
+          },
+          "affinityResistance": {
+            "poison": 154,
+            "rot": 154,
+            "bleed": 252,
+            "frostbite": 252,
+            "sleep": 154,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Castle Bosses",
+          "type": "Castle Bosses",
+          "name": "Tree Sentinel",
+          "variant": "Rooftop",
+          "hp": {
+            "solo": 5904,
+            "duo": 10273,
+            "trio": 14642
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.41,
+              "frost": 0.41,
+              "sleep": 0.41,
+              "madness": 0.41
+            },
+            "trio": {
+              "bleed": 0.315,
+              "frost": 0.315,
+              "sleep": 0.315,
+              "madness": 0.315
+            }
+          },
+          "damageResistance": {
+            "phys": 10,
+            "slash": 35,
+            "strike": 10,
+            "pierce": 10,
+            "magic": 20,
+            "fire": 40,
+            "lightning": 0,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": 154,
+            "rot": 154,
+            "bleed": 252,
+            "frostbite": 252,
+            "sleep": 154,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Castle Bosses",
+          "type": "Castle Bosses",
+          "name": "Ulcerated Tree Spirit",
+          "variant": "Rooftop",
+          "hp": {
+            "solo": 8288,
+            "duo": 14421,
+            "trio": 20554
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.41,
+              "frost": 0.41,
+              "sleep": 0.41,
+              "madness": 0.41
+            },
+            "trio": {
+              "bleed": 0.315,
+              "frost": 0.315,
+              "sleep": 0.315,
+              "madness": 0.315
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": 0,
+            "strike": 0,
+            "pierce": 0,
+            "magic": 20,
+            "fire": -20,
+            "lightning": 20,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": 252,
+            "rot": 252,
+            "bleed": 252,
+            "frostbite": 112,
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Castle Bosses",
+          "type": "Castle Bosses",
+          "name": "Ancestor Spirit",
+          "variant": "Rooftop",
+          "hp": {
+            "solo": 5465,
+            "duo": 9510,
+            "trio": 13554
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.41,
+              "frost": 0.41,
+              "sleep": 0.41,
+              "madness": 0.41
+            },
+            "trio": {
+              "bleed": 0.315,
+              "frost": 0.315,
+              "sleep": 0.315,
+              "madness": 0.315
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": -10,
+            "strike": 0,
+            "pierce": 0,
+            "magic": 20,
+            "fire": -20,
+            "lightning": 0,
+            "holy": -20
+          },
+          "affinityResistance": {
+            "poison": 542,
+            "rot": 542,
+            "bleed": 542,
+            "frostbite": 542,
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Castle Bosses",
+          "type": "Castle Bosses",
+          "name": "Bell Bearing Hunter",
+          "variant": "Rooftop",
+          "hp": {
+            "solo": 6851,
+            "duo": 11920,
+            "trio": 16989
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.41,
+              "frost": 0.41,
+              "sleep": 0.41,
+              "madness": 0.41
+            },
+            "trio": {
+              "bleed": 0.315,
+              "frost": 0.315,
+              "sleep": 0.315,
+              "madness": 0.315
+            }
+          },
+          "damageResistance": {
+            "phys": 35,
+            "slash": 35,
+            "strike": 35,
+            "pierce": 10,
+            "magic": 40,
+            "fire": 40,
+            "lightning": 20,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": 154,
+            "rot": 154,
+            "bleed": 252,
+            "frostbite": 252,
+            "sleep": 154,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day_1_2_bosses",
+      "title": "Day 1-2 Bosses",
+      "rows": [
+        {
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "Ulcerated Tree Spirit",
+          "variant": "Day 1",
+          "hp": {
+            "solo": 5223,
+            "duo": 10446,
+            "trio": 15668
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": 0,
+            "strike": 0,
+            "pierce": 0,
+            "magic": 20,
+            "fire": -20,
+            "lightning": 20,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": 252,
+            "rot": 252,
+            "bleed": 252,
+            "frostbite": 112,
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "Night's Cavalry Duo",
+          "variant": "Day 1",
+          "hp": {
+            "solo": 3074,
+            "duo": 6148,
+            "trio": 9224
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": 35,
+            "slash": 35,
+            "strike": 35,
+            "pierce": 10,
+            "magic": 40,
+            "fire": 40,
+            "lightning": 20,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": 154,
+            "rot": 154,
+            "bleed": 252,
+            "frostbite": 252,
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "Grafted Monarch Godrick",
+          "variant": "Day 1",
+          "hp": {
+            "solo": 4685,
+            "duo": 9370,
+            "trio": 14054
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": 0,
+            "strike": 0,
+            "pierce": 0,
+            "magic": 20,
+            "fire": 20,
+            "lightning": 20,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": 154,
+            "rot": 154,
+            "bleed": 154,
+            "frostbite": 154,
+            "sleep": 154,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "Bell Bearing Hunter",
+          "variant": "Day 1",
+          "hp": {
+            "solo": 3111,
+            "duo": 6222,
+            "trio": 9334
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": 35,
+            "slash": 35,
+            "strike": 35,
+            "pierce": 10,
+            "magic": 40,
+            "fire": 40,
+            "lightning": 20,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": 154,
+            "rot": 154,
+            "bleed": 252,
+            "frostbite": 252,
+            "sleep": 154,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "Commander (O'Neill)",
+          "variant": "Day 1",
+          "hp": {
+            "solo": 3162,
+            "duo": 6324,
+            "trio": 9487
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": 10,
+            "slash": 35,
+            "strike": 10,
+            "pierce": 0,
+            "magic": 20,
+            "fire": 20,
+            "lightning": 20,
+            "holy": 20
+          },
+          "affinityResistance": {
+            "poison": 154,
+            "rot": 154,
+            "bleed": 154,
+            "frostbite": 154,
+            "sleep": 154,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "Royal Revenant",
+          "variant": "Day 1",
+          "hp": {
+            "solo": 4171,
+            "duo": 8341,
+            "trio": 12512
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": -10,
+            "strike": 0,
+            "pierce": 0,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": 154,
+            "rot": 154,
+            "bleed": 154,
+            "frostbite": 154,
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "Demi-Human Queen",
+          "variant": "Day 1",
+          "hp": {
+            "solo": 2614,
+            "duo": 5228,
+            "trio": 7841
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": -10,
+            "strike": 0,
+            "pierce": 0,
+            "magic": 0,
+            "fire": -20,
+            "lightning": 0,
+            "holy": 0
+          },
+          "affinityResistance": {
+            "poison": 84,
+            "rot": 84,
+            "bleed": 112,
+            "frostbite": 112,
+            "sleep": 112,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "Swordmaster",
+          "variant": "Day 1",
+          "hp": {
+            "solo": 1397,
+            "duo": 2793,
+            "trio": 4190
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 1,
+              "frost": 1,
+              "sleep": 1,
+              "madness": 1
+            },
+            "duo": {
+              "bleed": 0.75,
+              "frost": 0.75,
+              "sleep": 0.75,
+              "madness": 0.75
+            },
+            "trio": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            }
+          },
+          "damageResistance": {
+            "phys": "",
+            "slash": -20,
+            "strike": "",
+            "pierce": "",
+            "magic": "",
+            "fire": "",
+            "lightning": "",
+            "holy": ""
+          },
+          "affinityResistance": {
+            "poison": "",
+            "rot": "",
+            "bleed": "",
+            "frostbite": "",
+            "sleep": "",
+            "madness": "",
+            "deathBlight": ""
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "Duke's Dear Freja",
+          "variant": "Day 1",
+          "hp": {
+            "solo": 2335,
+            "duo": 4670,
+            "trio": 7005
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.75,
+              "frost": 0.75,
+              "sleep": 0.75,
+              "madness": 0.75
+            },
+            "trio": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            }
+          },
+          "damageResistance": {
+            "phys": 16,
+            "slash": 7,
+            "strike": -10,
+            "pierce": 30,
+            "magic": 50,
+            "fire": 30,
+            "lightning": 50,
+            "holy": 50
+          },
+          "affinityResistance": {
+            "poison": "Immune",
+            "rot": 252,
+            "bleed": 252,
+            "frostbite": 252,
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "Gaping Dragon",
+          "variant": "Day 1",
+          "hp": {
+            "solo": 5399,
+            "duo": 10797,
+            "trio": 16196
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.75,
+              "frost": 0.75,
+              "sleep": 0.75,
+              "madness": 0.75
+            },
+            "trio": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": 0,
+            "strike": 0,
+            "pierce": 0,
+            "magic": -10,
+            "fire": -15,
+            "lightning": -20,
+            "holy": -10
+          },
+          "affinityResistance": {
+            "poison": "Immune",
+            "rot": "Immune",
+            "bleed": 154,
+            "frostbite": 154,
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "Yes",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "Wormface",
+          "variant": "Day 1",
+          "hp": {
+            "solo": 2613,
+            "duo": 5226,
+            "trio": 7840
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.75,
+              "frost": 0.75,
+              "sleep": 0.75,
+              "madness": 0.75
+            },
+            "trio": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": -10,
+            "strike": 0,
+            "pierce": 0,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": 308,
+            "rot": 231,
+            "bleed": 231,
+            "frostbite": 231,
+            "sleep": 231,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "Smelter Demon",
+          "variant": "Day 1",
+          "hp": {
+            "solo": 6828,
+            "duo": 13655,
+            "trio": 20483
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.75,
+              "frost": 0.75,
+              "sleep": 0.75,
+              "madness": 0.75
+            },
+            "trio": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            }
+          },
+          "damageResistance": {
+            "phys": -10,
+            "slash": 6,
+            "strike": -10,
+            "pierce": 8,
+            "magic": 30,
+            "fire": 80,
+            "lightning": 30,
+            "holy": 30
+          },
+          "affinityResistance": {
+            "poison": 154,
+            "rot": 154,
+            "bleed": "Immune",
+            "frostbite": 252,
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "Valiant Gargoyle",
+          "variant": "Day 1",
+          "hp": {
+            "solo": 3005,
+            "duo": 6010,
+            "trio": 9015
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.75,
+              "frost": 0.75,
+              "sleep": 0.75,
+              "madness": 0.75
+            },
+            "trio": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            }
+          },
+          "damageResistance": {
+            "phys": 10,
+            "slash": 35,
+            "strike": 0,
+            "pierce": 35,
+            "magic": 20,
+            "fire": 40,
+            "lightning": 40,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": "Immune",
+            "rot": "Immune",
+            "bleed": "Immune",
+            "frostbite": "Immune",
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "Tibia Mariner",
+          "variant": "Day 1",
+          "hp": {
+            "solo": 2792,
+            "duo": 5585,
+            "trio": 8377
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.75,
+              "frost": 0.75,
+              "sleep": 0.75,
+              "madness": 0.75
+            },
+            "trio": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            }
+          },
+          "damageResistance": {
+            "phys": 10,
+            "slash": 10,
+            "strike": -40,
+            "pierce": 35,
+            "magic": 20,
+            "fire": 20,
+            "lightning": 40,
+            "holy": -40
+          },
+          "affinityResistance": {
+            "poison": "Immune",
+            "rot": 154,
+            "bleed": "Immune",
+            "frostbite": "Immune",
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "Crucible Knight",
+          "variant": "Day 2",
+          "hp": {
+            "solo": 2932,
+            "duo": 5864,
+            "trio": 8797
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.75,
+              "frost": 0.75,
+              "sleep": 0.75,
+              "madness": 0.75
+            },
+            "trio": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            }
+          },
+          "damageResistance": {
+            "phys": 35,
+            "slash": 35,
+            "strike": 35,
+            "pierce": 35,
+            "magic": 40,
+            "fire": 20,
+            "lightning": 20,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": 252,
+            "rot": 252,
+            "bleed": "Immune",
+            "frostbite": 252,
+            "sleep": 252,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "Golden Hippopotamus",
+          "variant": "Day 2",
+          "hp": {
+            "solo": 4320,
+            "duo": 8640,
+            "trio": 12960
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.75,
+              "frost": 0.75,
+              "sleep": 0.75,
+              "madness": 0.75
+            },
+            "trio": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": -10,
+            "strike": 0,
+            "pierce": 0,
+            "magic": 0,
+            "fire": -20,
+            "lightning": -20,
+            "holy": 0
+          },
+          "affinityResistance": {
+            "poison": 154,
+            "rot": 154,
+            "bleed": 252,
+            "frostbite": "",
+            "sleep": "Immune",
+            "madness": "",
+            "deathBlight": ""
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "Dancer of the Boreal Valley",
+          "variant": "Day 2",
+          "hp": {
+            "solo": 4838,
+            "duo": 9677,
+            "trio": 14515
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.75,
+              "frost": 0.75,
+              "sleep": 0.75,
+              "madness": 0.75
+            },
+            "trio": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            }
+          },
+          "damageResistance": {
+            "phys": 20,
+            "slash": 22,
+            "strike": 19,
+            "pierce": 20,
+            "magic": 19,
+            "fire": 18,
+            "lightning": 17,
+            "holy": -26
+          },
+          "affinityResistance": {
+            "poison": "Immune",
+            "rot": 252,
+            "bleed": 252,
+            "frostbite": "Immune",
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "Great Magma Wyrm",
+          "variant": "Day 2",
+          "hp": {
+            "solo": 7965,
+            "duo": 15930,
+            "trio": 23895
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.75,
+              "frost": 0.75,
+              "sleep": 0.75,
+              "madness": 0.75
+            },
+            "trio": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            }
+          },
+          "damageResistance": {
+            "phys": 10,
+            "slash": 35,
+            "strike": 10,
+            "pierce": 10,
+            "magic": 40,
+            "fire": 80,
+            "lightning": 40,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": 252,
+            "rot": 252,
+            "bleed": 252,
+            "frostbite": 542,
+            "sleep": 112,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "Yes"
+          }
+        },
+        {
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "Dragonkin Soldier",
+          "variant": "Day 2",
+          "hp": {
+            "solo": 7447,
+            "duo": 14893,
+            "trio": 22340
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.75,
+              "frost": 0.75,
+              "sleep": 0.75,
+              "madness": 0.75
+            },
+            "trio": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            }
+          },
+          "damageResistance": {
+            "phys": 10,
+            "slash": 0,
+            "strike": 10,
+            "pierce": 10,
+            "magic": 20,
+            "fire": 20,
+            "lightning": 40,
+            "holy": 20
+          },
+          "affinityResistance": {
+            "poison": 252,
+            "rot": 252,
+            "bleed": 252,
+            "frostbite": 542,
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "Ancient Dragon",
+          "variant": "Day 2",
+          "hp": {
+            "solo": 6167,
+            "duo": 12333,
+            "trio": 18500
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.75,
+              "frost": 0.75,
+              "sleep": 0.75,
+              "madness": 0.75
+            },
+            "trio": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            }
+          },
+          "damageResistance": {
+            "phys": 35,
+            "slash": 35,
+            "strike": 35,
+            "pierce": 10,
+            "magic": 40,
+            "fire": 40,
+            "lightning": 80,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": 252,
+            "rot": 252,
+            "bleed": 252,
+            "frostbite": 252,
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "Yes",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "Commander (Niall)",
+          "variant": "Day 2",
+          "hp": {
+            "solo": 5600,
+            "duo": 11200,
+            "trio": 16799
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.75,
+              "frost": 0.75,
+              "sleep": 0.75,
+              "madness": 0.75
+            },
+            "trio": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            }
+          },
+          "damageResistance": {
+            "phys": 10,
+            "slash": 35,
+            "strike": 10,
+            "pierce": 0,
+            "magic": 20,
+            "fire": 20,
+            "lightning": 20,
+            "holy": 20
+          },
+          "affinityResistance": {
+            "poison": 154,
+            "rot": 154,
+            "bleed": 154,
+            "frostbite": 154,
+            "sleep": 154,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "Death Rite Bird",
+          "variant": "Day 2",
+          "hp": {
+            "solo": 5662,
+            "duo": 11324,
+            "trio": 16986
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.75,
+              "frost": 0.75,
+              "sleep": 0.75,
+              "madness": 0.75
+            },
+            "trio": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            }
+          },
+          "damageResistance": {
+            "phys": 10,
+            "slash": 10,
+            "strike": -40,
+            "pierce": 35,
+            "magic": 20,
+            "fire": 20,
+            "lightning": 40,
+            "holy": -40
+          },
+          "affinityResistance": {
+            "poison": "Immune",
+            "rot": 252,
+            "bleed": "Immune",
+            "frostbite": "Immune",
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "Yes",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "Fallingstar Beast",
+          "variant": "Day 2",
+          "hp": {
+            "solo": 6269,
+            "duo": 12539,
+            "trio": 18808
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.75,
+              "frost": 0.75,
+              "sleep": 0.75,
+              "madness": 0.75
+            },
+            "trio": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            }
+          },
+          "damageResistance": {
+            "phys": 35,
+            "slash": 35,
+            "strike": 35,
+            "pierce": 35,
+            "magic": 20,
+            "fire": 20,
+            "lightning": 20,
+            "holy": 20
+          },
+          "affinityResistance": {
+            "poison": 252,
+            "rot": 252,
+            "bleed": 252,
+            "frostbite": "Immune",
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "Yes",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "Godskin Duo (Apostle)",
+          "variant": "Day 2",
+          "hp": {
+            "solo": 3934,
+            "duo": 7868,
+            "trio": 11802
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.75,
+              "frost": 0.75,
+              "sleep": 0.75,
+              "madness": 0.75
+            },
+            "trio": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": -10,
+            "strike": 10,
+            "pierce": 0,
+            "magic": 20,
+            "fire": 40,
+            "lightning": 20,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": 154,
+            "rot": 154,
+            "bleed": 112,
+            "frostbite": 154,
+            "sleep": 112,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "Godskin Duo (Noble)",
+          "variant": "Day 2",
+          "hp": {
+            "solo": 5549,
+            "duo": 11097,
+            "trio": 16646
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.75,
+              "frost": 0.75,
+              "sleep": 0.75,
+              "madness": 0.75
+            },
+            "trio": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            }
+          },
+          "damageResistance": {
+            "phys": "",
+            "slash": "",
+            "strike": 35,
+            "pierce": "",
+            "magic": "",
+            "fire": "",
+            "lightning": "",
+            "holy": ""
+          },
+          "affinityResistance": {
+            "poison": "",
+            "rot": "",
+            "bleed": "",
+            "frostbite": "",
+            "sleep": "",
+            "madness": "",
+            "deathBlight": ""
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "King of the Storms",
+          "variant": "Day 2",
+          "hp": {
+            "solo": 2211,
+            "duo": 4423,
+            "trio": 6634
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.75,
+              "frost": 0.75,
+              "sleep": 0.75,
+              "madness": 0.75
+            },
+            "trio": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            }
+          },
+          "damageResistance": {
+            "phys": 20,
+            "slash": 21,
+            "strike": 18,
+            "pierce": 2,
+            "magic": 10,
+            "fire": 35,
+            "lightning": -31,
+            "holy": 0
+          },
+          "affinityResistance": {
+            "poison": 252,
+            "rot": 252,
+            "bleed": 252,
+            "frostbite": 154,
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "Yes",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "Nameless King",
+          "variant": "Day 2",
+          "hp": {
+            "solo": 4779,
+            "duo": 9558,
+            "trio": 14337
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.75,
+              "frost": 0.75,
+              "sleep": 0.75,
+              "madness": 0.75
+            },
+            "trio": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            }
+          },
+          "damageResistance": {
+            "phys": 21,
+            "slash": 22,
+            "strike": 19,
+            "pierce": 20,
+            "magic": 24,
+            "fire": 23,
+            "lightning": 83,
+            "holy": -8
+          },
+          "affinityResistance": {
+            "poison": "Immune",
+            "rot": "",
+            "bleed": "",
+            "frostbite": 252,
+            "sleep": "",
+            "madness": "",
+            "deathBlight": ""
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "Draconic Tree Sentinel",
+          "variant": "Day 2",
+          "hp": {
+            "solo": 3748,
+            "duo": 7495,
+            "trio": 11243
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.75,
+              "frost": 0.75,
+              "sleep": 0.75,
+              "madness": 0.75
+            },
+            "trio": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            }
+          },
+          "damageResistance": {
+            "phys": 10,
+            "slash": 35,
+            "strike": 10,
+            "pierce": 10,
+            "magic": 20,
+            "fire": 40,
+            "lightning": 40,
+            "holy": 20
+          },
+          "affinityResistance": {
+            "poison": 154,
+            "rot": 154,
+            "bleed": 252,
+            "frostbite": 252,
+            "sleep": 154,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "Tree Sentinel",
+          "variant": "Day 2",
+          "hp": {
+            "solo": 3741,
+            "duo": 7482,
+            "trio": 11223
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.75,
+              "frost": 0.75,
+              "sleep": 0.75,
+              "madness": 0.75
+            },
+            "trio": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            }
+          },
+          "damageResistance": {
+            "phys": 10,
+            "slash": 35,
+            "strike": 10,
+            "pierce": 10,
+            "magic": 20,
+            "fire": 40,
+            "lightning": 0,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": 154,
+            "rot": 154,
+            "bleed": 252,
+            "frostbite": 252,
+            "sleep": 154,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+        {
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "Morgott",
+          "variant": "Day 2",
+          "hp": {
+            "solo": 5443,
+            "duo": 10886,
+            "trio": 16330
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.75,
+              "frost": 0.75,
+              "sleep": 0.75,
+              "madness": 0.75
+            },
+            "trio": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": -10,
+            "strike": 0,
+            "pierce": 0,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": 154,
+            "rot": 154,
+            "bleed": 154,
+            "frostbite": 154,
+            "sleep": 252,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        }
+      ]
+    }
+  ]
+}
