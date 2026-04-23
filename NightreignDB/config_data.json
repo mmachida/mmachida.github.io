@@ -1,0 +1,2888 @@
+{
+  "header": "Nightreign Boss Prediction (Unknown Night Lord)",
+  "sub_header": "Depth 3 and above can run unknown bosses, see the combinations below to identify which boss you are going to fight",
+  "app_ver": "v1.0 - sep 30/2025",
+  "fields": ["Night Lord","Shifting Earth","Day 1 Boss","Day 2 Boss","Extra Boss","Event","Merchant?"],
+  "data": [
+    [
+      "Gladius",
+      "Default",
+      "Demi-Human Queen and Swordmaster",
+      "Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "Day 2 Night Horde",
+      "No"
+    ],
+    [
+      "Gladius",
+      "Default",
+      "Demi-Human Queen and Swordmaster",
+      "Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Gladius",
+      "Default",
+      "Bell Bearing Hunter",
+      "Morgott",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Gladius",
+      "Default",
+      "Bell Bearing Hunter",
+      "Morgott",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Gladius",
+      "Default",
+      "Demi-Human Queen and Swordmaster",
+      "Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "Day 2 Night Horde",
+      "No"
+    ],
+    [
+      "Gladius",
+      "Default",
+      "Demi-Human Queen and Swordmaster",
+      "Morgott",
+      "No",
+      "Day 1 Night Horde",
+      "No"
+    ],
+    [
+      "Gladius",
+      "Default",
+      "Demi-Human Queen and Swordmaster",
+      "Morgott",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Gladius",
+      "Default",
+      "Bell Bearing Hunter",
+      "Morgott",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Gladius",
+      "Default",
+      "Bell Bearing Hunter",
+      "Morgott",
+      "No",
+      "Day 2 Night Horde",
+      "No"
+    ],
+    [
+      "Gladius",
+      "Default",
+      "Bell Bearing Hunter",
+      "Morgott",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Gladius",
+      "Default",
+      "Bell Bearing Hunter",
+      "Morgott",
+      "No",
+      "Day 2 Night Horde",
+      "No"
+    ],
+    [
+      "Gladius",
+      "Default",
+      "Demi-Human Queen and Swordmaster",
+      "Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "Day 2 Meteor Strike",
+      "No"
+    ],
+    [
+      "Gladius",
+      "Default",
+      "Demi-Human Queen and Swordmaster",
+      "Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Gladius",
+      "Default",
+      "Demi-Human Queen and Swordmaster",
+      "Morgott",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Gladius",
+      "Default",
+      "Bell Bearing Hunter",
+      "Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Gladius",
+      "Default",
+      "Bell Bearing Hunter",
+      "Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Gladius",
+      "Default",
+      "Demi-Human Queen and Swordmaster",
+      "Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "Day 1 Meteor Strike",
+      "No"
+    ],
+    [
+      "Gladius",
+      "Default",
+      "Bell Bearing Hunter",
+      "Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Gladius",
+      "Default",
+      "Bell Bearing Hunter",
+      "Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "Day 1 Meteor Strike",
+      "No"
+    ],
+    [
+      "Gladius",
+      "Default",
+      "Demi-Human Queen and Swordmaster",
+      "Morgott",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Gladius",
+      "Mountaintop",
+      "Bell Bearing Hunter",
+      "Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "Day 2 Night Horde",
+      "Yes"
+    ],
+    [
+      "Gladius",
+      "Mountaintop",
+      "Bell Bearing Hunter",
+      "Morgott",
+      "No",
+      "Day 1 Meteor Strike",
+      "No"
+    ],
+    [
+      "Gladius",
+      "Mountaintop",
+      "Demi-Human Queen and Swordmaster",
+      "Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Gladius",
+      "Mountaintop",
+      "Bell Bearing Hunter",
+      "Morgott",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Gladius",
+      "Mountaintop",
+      "Demi-Human Queen and Swordmaster",
+      "Morgott",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Gladius",
+      "Crater",
+      "Bell Bearing Hunter",
+      "Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Gladius",
+      "Crater",
+      "Demi-Human Queen and Swordmaster",
+      "Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Gladius",
+      "Crater",
+      "Demi-Human Queen and Swordmaster",
+      "Morgott",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Gladius",
+      "Crater",
+      "Bell Bearing Hunter",
+      "Morgott",
+      "No",
+      "Day 2 Night Horde",
+      "No"
+    ],
+    [
+      "Gladius",
+      "Crater",
+      "Bell Bearing Hunter",
+      "Morgott",
+      "No",
+      "Day 1 Meteor Strike",
+      "Yes"
+    ],
+    [
+      "Gladius",
+      "Rotted Woods",
+      "Demi-Human Queen and Swordmaster",
+      "Morgott",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Gladius",
+      "Rotted Woods",
+      "Demi-Human Queen and Swordmaster",
+      "Morgott",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Gladius",
+      "Rotted Woods",
+      "Bell Bearing Hunter",
+      "Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "Day 2 Meteor Strike",
+      "No"
+    ],
+    [
+      "Gladius",
+      "Rotted Woods",
+      "Demi-Human Queen and Swordmaster",
+      "Morgott",
+      "No",
+      "Day 2 Night Horde",
+      "No"
+    ],
+    [
+      "Gladius",
+      "Rotted Woods",
+      "Bell Bearing Hunter",
+      "Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Gladius",
+      "Noklateo",
+      "Demi-Human Queen and Swordmaster",
+      "Morgott",
+      "No",
+      "Day 1 Night Horde",
+      "No"
+    ],
+    [
+      "Gladius",
+      "Noklateo",
+      "Bell Bearing Hunter",
+      "Morgott",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Gladius",
+      "Noklateo",
+      "Bell Bearing Hunter",
+      "Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "Day 2 Meteor Strike",
+      "No"
+    ],
+    [
+      "Gladius",
+      "Noklateo",
+      "Demi-Human Queen and Swordmaster",
+      "Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Gladius",
+      "Noklateo",
+      "Demi-Human Queen and Swordmaster",
+      "Morgott",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Adel",
+      "Default",
+      "Night's Cavalry Duo",
+      "Ancient Dragon",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Adel",
+      "Default",
+      "Gaping Dragon",
+      "Ancient Dragon",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Adel",
+      "Default",
+      "The Duke's Dear Freja",
+      "Crucible Knight and Golden Hippopotamus",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Adel",
+      "Default",
+      "Wormface",
+      "Ancient Dragon",
+      "No",
+      "Day 1 Morgott Invasion",
+      "No"
+    ],
+    [
+      "Adel",
+      "Default",
+      "Gaping Dragon",
+      "Ancient Dragon",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Adel",
+      "Default",
+      "Night's Cavalry Duo",
+      "Outland Commander",
+      "No",
+      "Day 2 Morgott Invasion",
+      "No"
+    ],
+    [
+      "Adel",
+      "Default",
+      "The Duke's Dear Freja",
+      "Ancient Dragon",
+      "Dragonkin Soldier",
+      "Day 2 Extra Night Boss",
+      "Yes"
+    ],
+    [
+      "Adel",
+      "Default",
+      "Gaping Dragon",
+      "Ancient Dragon",
+      "Death Rite Bird",
+      "Day 2 Extra Night Boss",
+      "Yes"
+    ],
+    [
+      "Adel",
+      "Default",
+      "Night's Cavalry Duo",
+      "Outland Commander",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Adel",
+      "Default",
+      "The Duke's Dear Freja",
+      "Crucible Knight and Golden Hippopotamus",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Adel",
+      "Default",
+      "Valiant Gargoyle",
+      "Outland Commander",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Adel",
+      "Default",
+      "The Duke's Dear Freja",
+      "Ancient Dragon",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Adel",
+      "Default",
+      "Night's Cavalry Duo",
+      "Crucible Knight and Golden Hippopotamus",
+      "No",
+      "Day 2 Meteor Strike",
+      "No"
+    ],
+    [
+      "Adel",
+      "Default",
+      "Valiant Gargoyle",
+      "Crucible Knight and Golden Hippopotamus",
+      "No",
+      "Day 1 Morgott Invasion",
+      "No"
+    ],
+    [
+      "Adel",
+      "Default",
+      "Valiant Gargoyle",
+      "Ancient Dragon",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Adel",
+      "Default",
+      "Wormface",
+      "Outland Commander",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Adel",
+      "Default",
+      "Wormface",
+      "Ancient Dragon",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Adel",
+      "Default",
+      "Valiant Gargoyle",
+      "Ancient Dragon",
+      "No",
+      "Day 2 Morgott Invasion",
+      "No"
+    ],
+    [
+      "Adel",
+      "Default",
+      "Wormface",
+      "Outland Commander",
+      "No",
+      "Day 1 Morgott Invasion",
+      "No"
+    ],
+    [
+      "Adel",
+      "Default",
+      "Gaping Dragon",
+      "Crucible Knight and Golden Hippopotamus",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Adel",
+      "Mountaintop",
+      "The Duke's Dear Freja",
+      "Ancient Dragon",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Adel",
+      "Mountaintop",
+      "Gaping Dragon",
+      "Crucible Knight and Golden Hippopotamus",
+      "No",
+      "Day 1 Meteor Strike",
+      "No"
+    ],
+    [
+      "Adel",
+      "Mountaintop",
+      "Wormface",
+      "Outland Commander",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Adel",
+      "Mountaintop",
+      "Valiant Gargoyle",
+      "Crucible Knight and Golden Hippopotamus",
+      "No",
+      "Day 1 Morgott Invasion",
+      "No"
+    ],
+    [
+      "Adel",
+      "Mountaintop",
+      "Night's Cavalry Duo",
+      "Ancient Dragon",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Adel",
+      "Crater",
+      "Valiant Gargoyle",
+      "Crucible Knight and Golden Hippopotamus",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Adel",
+      "Crater",
+      "Gaping Dragon",
+      "Outland Commander",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Adel",
+      "Crater",
+      "Night's Cavalry Duo",
+      "Ancient Dragon",
+      "No",
+      "Day 2 Morgott Invasion",
+      "No"
+    ],
+    [
+      "Adel",
+      "Crater",
+      "The Duke's Dear Freja",
+      "Ancient Dragon",
+      "Crucible Knight and Golden Hippopotamus",
+      "Day 2 Extra Night Boss",
+      "No"
+    ],
+    [
+      "Adel",
+      "Crater",
+      "Wormface",
+      "Crucible Knight and Golden Hippopotamus",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Adel",
+      "Rotted Woods",
+      "Valiant Gargoyle",
+      "Ancient Dragon",
+      "Smelter Demon",
+      "Day 1 Extra Night Boss",
+      "No"
+    ],
+    [
+      "Adel",
+      "Rotted Woods",
+      "The Duke's Dear Freja",
+      "Outland Commander",
+      "No",
+      "Day 1 Morgott Invasion",
+      "No"
+    ],
+    [
+      "Adel",
+      "Rotted Woods",
+      "Wormface",
+      "Outland Commander",
+      "No",
+      "Day 2 Meteor Strike",
+      "No"
+    ],
+    [
+      "Adel",
+      "Rotted Woods",
+      "Gaping Dragon",
+      "Ancient Dragon",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Adel",
+      "Rotted Woods",
+      "Night's Cavalry Duo",
+      "Crucible Knight and Golden Hippopotamus",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Adel",
+      "Noklateo",
+      "Valiant Gargoyle",
+      "Outland Commander",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Adel",
+      "Noklateo",
+      "Night's Cavalry Duo",
+      "Ancient Dragon",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Adel",
+      "Noklateo",
+      "The Duke's Dear Freja",
+      "Crucible Knight and Golden Hippopotamus",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Adel",
+      "Noklateo",
+      "Wormface",
+      "Outland Commander",
+      "No",
+      "Day 1 Morgott Invasion",
+      "No"
+    ],
+    [
+      "Adel",
+      "Noklateo",
+      "Gaping Dragon",
+      "Ancient Dragon",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Sentient Pest",
+      "Default",
+      "Tibia Mariner",
+      "Great Wyrm",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Sentient Pest",
+      "Default",
+      "Smelter Demon",
+      "Dragonkin Soldier",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Sentient Pest",
+      "Default",
+      "Smelter Demon",
+      "Dragonkin Soldier",
+      "No",
+      "Day 2 Augur Bubbles",
+      "No"
+    ],
+    [
+      "Sentient Pest",
+      "Default",
+      "Battlefield Commander",
+      "Draconic Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "Frenzy Tower",
+      "No"
+    ],
+    [
+      "Sentient Pest",
+      "Default",
+      "Tibia Mariner",
+      "Draconic Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Sentient Pest",
+      "Default",
+      "Tibia Mariner",
+      "Dragonkin Soldier",
+      "No",
+      "Day 2 Morgott Invasion",
+      "Yes"
+    ],
+    [
+      "Sentient Pest",
+      "Default",
+      "Smelter Demon",
+      "Draconic Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Sentient Pest",
+      "Default",
+      "Battlefield Commander",
+      "Draconic Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Sentient Pest",
+      "Default",
+      "Ulcerated Tree Spirit",
+      "Great Wyrm",
+      "No",
+      "Day 1 Morgott Invasion",
+      "No"
+    ],
+    [
+      "Sentient Pest",
+      "Default",
+      "Smelter Demon",
+      "Dragonkin Soldier",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Sentient Pest",
+      "Default",
+      "Centipede Demon",
+      "Dragonkin Soldier",
+      "No",
+      "Difficult Sorcerer's Rise",
+      "No"
+    ],
+    [
+      "Sentient Pest",
+      "Default",
+      "Centipede Demon",
+      "Great Wyrm",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Sentient Pest",
+      "Default",
+      "Battlefield Commander",
+      "Dragonkin Soldier",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Sentient Pest",
+      "Default",
+      "Ulcerated Tree Spirit",
+      "Great Wyrm",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Sentient Pest",
+      "Default",
+      "Battlefield Commander",
+      "Great Wyrm",
+      "No",
+      "Day 1 Augur Bubbles",
+      "Yes"
+    ],
+    [
+      "Sentient Pest",
+      "Default",
+      "Ulcerated Tree Spirit",
+      "Draconic Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Sentient Pest",
+      "Default",
+      "Ulcerated Tree Spirit",
+      "Great Wyrm",
+      "No",
+      "Day 2 Augur Bubbles",
+      "No"
+    ],
+    [
+      "Sentient Pest",
+      "Default",
+      "Centipede Demon",
+      "Great Wyrm",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Sentient Pest",
+      "Default",
+      "Tibia Mariner",
+      "Great Wyrm",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Sentient Pest",
+      "Default",
+      "Centipede Demon",
+      "Draconic Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "Day 1 Augur Bubbles",
+      "No"
+    ],
+    [
+      "Sentient Pest",
+      "Mountaintop",
+      "Smelter Demon",
+      "Draconic Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Sentient Pest",
+      "Mountaintop",
+      "Centipede Demon",
+      "Great Wyrm",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Sentient Pest",
+      "Mountaintop",
+      "Tibia Mariner",
+      "Draconic Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "Day 1 Morgott Invasion",
+      "Yes"
+    ],
+    [
+      "Sentient Pest",
+      "Mountaintop",
+      "Battlefield Commander",
+      "Great Wyrm",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Sentient Pest",
+      "Mountaintop",
+      "Ulcerated Tree Spirit",
+      "Dragonkin Soldier",
+      "No",
+      "Day 2 Augur Bubbles",
+      "No"
+    ],
+    [
+      "Sentient Pest",
+      "Crater",
+      "Centipede Demon",
+      "Dragonkin Soldier",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Sentient Pest",
+      "Crater",
+      "Tibia Mariner",
+      "Dragonkin Soldier",
+      "No",
+      "Day 1 Augur Bubbles",
+      "No"
+    ],
+    [
+      "Sentient Pest",
+      "Crater",
+      "Smelter Demon",
+      "Draconic Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Sentient Pest",
+      "Crater",
+      "Ulcerated Tree Spirit",
+      "Draconic Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Sentient Pest",
+      "Crater",
+      "Battlefield Commander",
+      "Draconic Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "Frenzy Tower",
+      "No"
+    ],
+    [
+      "Sentient Pest",
+      "Rotted Woods",
+      "Smelter Demon",
+      "Great Wyrm",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Sentient Pest",
+      "Rotted Woods",
+      "Centipede Demon",
+      "Great Wyrm",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Sentient Pest",
+      "Rotted Woods",
+      "Ulcerated Tree Spirit",
+      "Dragonkin Soldier",
+      "No",
+      "Difficult Sorcerer's Rise",
+      "No"
+    ],
+    [
+      "Sentient Pest",
+      "Rotted Woods",
+      "Tibia Mariner",
+      "Draconic Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "Day 1 Morgott Invasion",
+      "No"
+    ],
+    [
+      "Sentient Pest",
+      "Rotted Woods",
+      "Battlefield Commander",
+      "Dragonkin Soldier",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Sentient Pest",
+      "Noklateo",
+      "Ulcerated Tree Spirit",
+      "Draconic Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "Day 2 Augur Bubbles",
+      "Yes"
+    ],
+    [
+      "Sentient Pest",
+      "Noklateo",
+      "Centipede Demon",
+      "Dragonkin Soldier",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Sentient Pest",
+      "Noklateo",
+      "Battlefield Commander",
+      "Great Wyrm",
+      "No",
+      "Day 2 Morgott Invasion",
+      "No"
+    ],
+    [
+      "Sentient Pest",
+      "Noklateo",
+      "Tibia Mariner",
+      "Great Wyrm",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Sentient Pest",
+      "Noklateo",
+      "Smelter Demon",
+      "Dragonkin Soldier",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Augur",
+      "Default",
+      "Gaping Dragon",
+      "Godskin Duo",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Augur",
+      "Default",
+      "Valiant Gargoyle",
+      "Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "Day 1 Sentient Pest Plague",
+      "No"
+    ],
+    [
+      "Augur",
+      "Default",
+      "Wormface",
+      "Godskin Duo",
+      "No",
+      "Day 2 Sentient Pest Plague",
+      "No"
+    ],
+    [
+      "Augur",
+      "Default",
+      "Gaping Dragon",
+      "Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Augur",
+      "Default",
+      "Wormface",
+      "Fallingstar Beast",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Augur",
+      "Default",
+      "Smelter Demon",
+      "Fallingstar Beast",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Augur",
+      "Default",
+      "Valiant Gargoyle",
+      "Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Augur",
+      "Default",
+      "Grafted Monarch",
+      "Fallingstar Beast",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Augur",
+      "Default",
+      "Smelter Demon",
+      "Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "Walking Mausoleum",
+      "No"
+    ],
+    [
+      "Augur",
+      "Default",
+      "Grafted Monarch",
+      "Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Augur",
+      "Default",
+      "Smelter Demon",
+      "Fallingstar Beast",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Augur",
+      "Default",
+      "Gaping Dragon",
+      "Fallingstar Beast",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Augur",
+      "Default",
+      "Smelter Demon",
+      "Godskin Duo",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Augur",
+      "Default",
+      "Valiant Gargoyle",
+      "Fallingstar Beast",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Augur",
+      "Default",
+      "Wormface",
+      "Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "Walking Mausoleum",
+      "No"
+    ],
+    [
+      "Augur",
+      "Default",
+      "Gaping Dragon",
+      "Fallingstar Beast",
+      "No",
+      "Day 1 Night Horde",
+      "No"
+    ],
+    [
+      "Augur",
+      "Default",
+      "Wormface",
+      "Godskin Duo",
+      "No",
+      "Day 1 Sentient Pest Plague",
+      "No"
+    ],
+    [
+      "Augur",
+      "Default",
+      "Valiant Gargoyle",
+      "Godskin Duo",
+      "No",
+      "Day 2 Night Horde",
+      "No"
+    ],
+    [
+      "Augur",
+      "Default",
+      "Grafted Monarch",
+      "Godskin Duo",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Augur",
+      "Default",
+      "Grafted Monarch",
+      "Fallingstar Beast",
+      "No",
+      "Day 2 Sentient Pest Plague",
+      "Yes"
+    ],
+    [
+      "Augur",
+      "Mountaintop",
+      "Valiant Gargoyle",
+      "Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "Day 1 Night Horde",
+      "Yes"
+    ],
+    [
+      "Augur",
+      "Mountaintop",
+      "Grafted Monarch",
+      "Godskin Duo",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Augur",
+      "Mountaintop",
+      "Smelter Demon",
+      "Fallingstar Beast",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Augur",
+      "Mountaintop",
+      "Wormface",
+      "Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "Day 2 Sentient Pest Plague",
+      "No"
+    ],
+    [
+      "Augur",
+      "Mountaintop",
+      "Gaping Dragon",
+      "Fallingstar Beast",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Augur",
+      "Crater",
+      "Wormface",
+      "Godskin Duo",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Augur",
+      "Crater",
+      "Smelter Demon",
+      "Fallingstar Beast",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Augur",
+      "Crater",
+      "Grafted Monarch",
+      "Fallingstar Beast",
+      "No",
+      "Walking Mausoleum",
+      "No"
+    ],
+    [
+      "Augur",
+      "Crater",
+      "Gaping Dragon",
+      "Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "Day 1 Sentient Pest Plague",
+      "No"
+    ],
+    [
+      "Augur",
+      "Crater",
+      "Valiant Gargoyle",
+      "Godskin Duo",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Augur",
+      "Rotted Woods",
+      "Wormface",
+      "Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "Day 2 Sentient Pest Plague",
+      "No"
+    ],
+    [
+      "Augur",
+      "Rotted Woods",
+      "Gaping Dragon",
+      "Fallingstar Beast",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Augur",
+      "Rotted Woods",
+      "Grafted Monarch",
+      "Fallingstar Beast",
+      "No",
+      "Walking Mausoleum",
+      "Yes"
+    ],
+    [
+      "Augur",
+      "Rotted Woods",
+      "Smelter Demon",
+      "Godskin Duo",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Augur",
+      "Rotted Woods",
+      "Valiant Gargoyle",
+      "Godskin Duo",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Augur",
+      "Noklateo",
+      "Grafted Monarch",
+      "Godskin Duo",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Augur",
+      "Noklateo",
+      "Gaping Dragon",
+      "Fallingstar Beast",
+      "No",
+      "Day 2 Night Horde",
+      "No"
+    ],
+    [
+      "Augur",
+      "Noklateo",
+      "Valiant Gargoyle",
+      "Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Augur",
+      "Noklateo",
+      "Smelter Demon",
+      "Fallingstar Beast",
+      "No",
+      "Day 1 Sentient Pest Plague",
+      "Yes"
+    ],
+    [
+      "Augur",
+      "Noklateo",
+      "Wormface",
+      "Godskin Duo",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Libra",
+      "Default",
+      "Battlefield Commander",
+      "Crucible Knight and Golden Hippopotamus",
+      "No",
+      "Difficult Sorcerer's Rise",
+      "No"
+    ],
+    [
+      "Libra",
+      "Default",
+      "Tibia Mariner",
+      "Death Rite Bird",
+      "No",
+      "Day 2 Sentient Pest Plague",
+      "No"
+    ],
+    [
+      "Libra",
+      "Default",
+      "Centipede Demon",
+      "Death Rite Bird",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Libra",
+      "Default",
+      "Tibia Mariner",
+      "Crucible Knight and Golden Hippopotamus",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Libra",
+      "Default",
+      "Centipede Demon",
+      "Godskin Duo",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Libra",
+      "Default",
+      "Battlefield Commander",
+      "Death Rite Bird",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Libra",
+      "Default",
+      "The Duke's Dear Freja",
+      "Crucible Knight and Golden Hippopotamus",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Libra",
+      "Default",
+      "The Duke's Dear Freja",
+      "Death Rite Bird",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Libra",
+      "Default",
+      "Royal Revenant",
+      "Death Rite Bird",
+      "No",
+      "Day 1 Sentient Pest Plague",
+      "No"
+    ],
+    [
+      "Libra",
+      "Default",
+      "Tibia Mariner",
+      "Godskin Duo",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Libra",
+      "Default",
+      "Royal Revenant",
+      "Death Rite Bird",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Libra",
+      "Default",
+      "The Duke's Dear Freja",
+      "Death Rite Bird",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Libra",
+      "Default",
+      "Centipede Demon",
+      "Godskin Duo",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Libra",
+      "Default",
+      "The Duke's Dear Freja",
+      "Death Rite Bird",
+      "No",
+      "Day 1 Sentient Pest Plague",
+      "No"
+    ],
+    [
+      "Libra",
+      "Default",
+      "Centipede Demon",
+      "Crucible Knight and Golden Hippopotamus",
+      "No",
+      "Difficult Sorcerer's Rise",
+      "No"
+    ],
+    [
+      "Libra",
+      "Default",
+      "Tibia Mariner",
+      "Crucible Knight and Golden Hippopotamus",
+      "No",
+      "Day 2 Sentient Pest Plague",
+      "No"
+    ],
+    [
+      "Libra",
+      "Default",
+      "Battlefield Commander",
+      "Godskin Duo",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Libra",
+      "Default",
+      "Battlefield Commander",
+      "Death Rite Bird",
+      "No",
+      "Frenzy Tower",
+      "No"
+    ],
+    [
+      "Libra",
+      "Default",
+      "Royal Revenant",
+      "Crucible Knight and Golden Hippopotamus",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Libra",
+      "Default",
+      "Royal Revenant",
+      "Death Rite Bird",
+      "No",
+      "Frenzy Tower",
+      "No"
+    ],
+    [
+      "Libra",
+      "Mountaintop",
+      "Royal Revenant",
+      "Crucible Knight and Golden Hippopotamus",
+      "No",
+      "Frenzy Tower",
+      "No"
+    ],
+    [
+      "Libra",
+      "Mountaintop",
+      "Centipede Demon",
+      "Godskin Duo",
+      "No",
+      "Day 1 Sentient Pest Plague",
+      "No"
+    ],
+    [
+      "Libra",
+      "Mountaintop",
+      "Battlefield Commander",
+      "Death Rite Bird",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Libra",
+      "Mountaintop",
+      "The Duke's Dear Freja",
+      "Crucible Knight and Golden Hippopotamus",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Libra",
+      "Mountaintop",
+      "Tibia Mariner",
+      "Death Rite Bird",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Libra",
+      "Crater",
+      "Centipede Demon",
+      "Death Rite Bird",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Libra",
+      "Crater",
+      "Royal Revenant",
+      "Godskin Duo",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Libra",
+      "Crater",
+      "The Duke's Dear Freja",
+      "Crucible Knight and Golden Hippopotamus",
+      "No",
+      "Day 2 Sentient Pest Plague",
+      "No"
+    ],
+    [
+      "Libra",
+      "Crater",
+      "Tibia Mariner",
+      "Death Rite Bird",
+      "No",
+      "Difficult Sorcerer's Rise",
+      "No"
+    ],
+    [
+      "Libra",
+      "Crater",
+      "Battlefield Commander",
+      "Crucible Knight and Golden Hippopotamus",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Libra",
+      "Rotted Woods",
+      "The Duke's Dear Freja",
+      "Crucible Knight and Golden Hippopotamus",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Libra",
+      "Rotted Woods",
+      "Battlefield Commander",
+      "Crucible Knight and Golden Hippopotamus",
+      "No",
+      "Difficult Sorcerer's Rise",
+      "No"
+    ],
+    [
+      "Libra",
+      "Rotted Woods",
+      "Centipede Demon",
+      "Death Rite Bird",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Libra",
+      "Rotted Woods",
+      "Royal Revenant",
+      "Godskin Duo",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Libra",
+      "Rotted Woods",
+      "Tibia Mariner",
+      "Death Rite Bird",
+      "No",
+      "Day 2 Sentient Pest Plague",
+      "No"
+    ],
+    [
+      "Libra",
+      "Noklateo",
+      "Battlefield Commander",
+      "Godskin Duo",
+      "No",
+      "Frenzy Tower",
+      "No"
+    ],
+    [
+      "Libra",
+      "Noklateo",
+      "The Duke's Dear Freja",
+      "Crucible Knight and Golden Hippopotamus",
+      "No",
+      "Day 1 Sentient Pest Plague",
+      "No"
+    ],
+    [
+      "Libra",
+      "Noklateo",
+      "Centipede Demon",
+      "Crucible Knight and Golden Hippopotamus",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Libra",
+      "Noklateo",
+      "Tibia Mariner",
+      "Death Rite Bird",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Libra",
+      "Noklateo",
+      "Royal Revenant",
+      "Death Rite Bird",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Fulghor",
+      "Default",
+      "Gaping Dragon",
+      "Nameless King",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Fulghor",
+      "Default",
+      "Royal Revenant",
+      "Outland Commander",
+      "No",
+      "Day 2 Libra Curse",
+      "No"
+    ],
+    [
+      "Fulghor",
+      "Default",
+      "Centipede Demon",
+      "Outland Commander",
+      "No",
+      "Day 1 Libra Curse",
+      "No"
+    ],
+    [
+      "Fulghor",
+      "Default",
+      "Wormface",
+      "Nameless King",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Fulghor",
+      "Default",
+      "Night's Cavalry Duo",
+      "Outland Commander",
+      "No",
+      "Day 1 Night Horde",
+      "Yes"
+    ],
+    [
+      "Fulghor",
+      "Default",
+      "Centipede Demon",
+      "Nameless King",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Fulghor",
+      "Default",
+      "Night's Cavalry Duo",
+      "Dragonkin Soldier",
+      "No",
+      "Day 1 Libra Curse",
+      "No"
+    ],
+    [
+      "Fulghor",
+      "Default",
+      "Wormface",
+      "Dragonkin Soldier",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Fulghor",
+      "Default",
+      "Wormface",
+      "Outland Commander",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Fulghor",
+      "Default",
+      "Centipede Demon",
+      "Nameless King",
+      "Morgott",
+      "Day 2 Extra Night Boss",
+      "No"
+    ],
+    [
+      "Fulghor",
+      "Default",
+      "Centipede Demon",
+      "Nameless King",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Fulghor",
+      "Default",
+      "Gaping Dragon",
+      "Dragonkin Soldier",
+      "Valiant Gargoyle",
+      "Day 1 Extra Night Boss",
+      "No"
+    ],
+    [
+      "Fulghor",
+      "Default",
+      "Gaping Dragon",
+      "Nameless King",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Fulghor",
+      "Default",
+      "Royal Revenant",
+      "Dragonkin Soldier",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Fulghor",
+      "Default",
+      "Night's Cavalry Duo",
+      "Nameless King",
+      "No",
+      "Day 2 Libra Curse",
+      "No"
+    ],
+    [
+      "Fulghor",
+      "Default",
+      "Night's Cavalry Duo",
+      "Nameless King",
+      "No",
+      "Day 1 Libra Curse",
+      "No"
+    ],
+    [
+      "Fulghor",
+      "Default",
+      "Gaping Dragon",
+      "Dragonkin Soldier",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Fulghor",
+      "Default",
+      "Royal Revenant",
+      "Outland Commander",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Fulghor",
+      "Default",
+      "Wormface",
+      "Nameless King",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Fulghor",
+      "Default",
+      "Royal Revenant",
+      "Nameless King",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Fulghor",
+      "Mountaintop",
+      "Wormface",
+      "Dragonkin Soldier",
+      "Bell Bearing Hunter",
+      "Day 1 Extra Night Boss",
+      "Yes"
+    ],
+    [
+      "Fulghor",
+      "Mountaintop",
+      "Gaping Dragon",
+      "Outland Commander",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Fulghor",
+      "Mountaintop",
+      "Royal Revenant",
+      "Nameless King",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Fulghor",
+      "Mountaintop",
+      "Centipede Demon",
+      "Nameless King",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Fulghor",
+      "Mountaintop",
+      "Night's Cavalry Duo",
+      "Dragonkin Soldier",
+      "No",
+      "Day 1 Libra Curse",
+      "No"
+    ],
+    [
+      "Fulghor",
+      "Crater",
+      "Centipede Demon",
+      "Outland Commander",
+      "No",
+      "Day 1 Libra Curse",
+      "No"
+    ],
+    [
+      "Fulghor",
+      "Crater",
+      "Royal Revenant",
+      "Dragonkin Soldier",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Fulghor",
+      "Crater",
+      "Gaping Dragon",
+      "Nameless King",
+      "No",
+      "Day 2 Night Horde",
+      "No"
+    ],
+    [
+      "Fulghor",
+      "Crater",
+      "Wormface",
+      "Dragonkin Soldier",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Fulghor",
+      "Crater",
+      "Night's Cavalry Duo",
+      "Nameless King",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Fulghor",
+      "Rotted Woods",
+      "Centipede Demon",
+      "Dragonkin Soldier",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Fulghor",
+      "Rotted Woods",
+      "Wormface",
+      "Nameless King",
+      "No",
+      "Day 1 Libra Curse",
+      "No"
+    ],
+    [
+      "Fulghor",
+      "Rotted Woods",
+      "Gaping Dragon",
+      "Outland Commander",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Fulghor",
+      "Rotted Woods",
+      "Royal Revenant",
+      "Nameless King",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Fulghor",
+      "Rotted Woods",
+      "Night's Cavalry Duo",
+      "Outland Commander",
+      "Dancer of the Boreal Valley",
+      "Day 2 Extra Night Boss",
+      "No"
+    ],
+    [
+      "Fulghor",
+      "Noklateo",
+      "Wormface",
+      "Dragonkin Soldier",
+      "No",
+      "Day 1 Night Horde",
+      "No"
+    ],
+    [
+      "Fulghor",
+      "Noklateo",
+      "Gaping Dragon",
+      "Nameless King",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Fulghor",
+      "Noklateo",
+      "Royal Revenant",
+      "Outland Commander",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Fulghor",
+      "Noklateo",
+      "Night's Cavalry Duo",
+      "Nameless King",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Fulghor",
+      "Noklateo",
+      "Centipede Demon",
+      "Outland Commander",
+      "No",
+      "Day 2 Libra Curse",
+      "No"
+    ],
+    [
+      "Caligo",
+      "Default",
+      "Ulcerated Tree Spirit",
+      "Dancer of the Boreal Valley",
+      "No",
+      "Day 1 Libra Curse",
+      "No"
+    ],
+    [
+      "Caligo",
+      "Default",
+      "Ulcerated Tree Spirit",
+      "Dancer of the Boreal Valley",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Caligo",
+      "Default",
+      "Smelter Demon",
+      "Dancer of the Boreal Valley",
+      "No",
+      "Day 1 Meteor Strike",
+      "No"
+    ],
+    [
+      "Caligo",
+      "Default",
+      "Grafted Monarch",
+      "Dancer of the Boreal Valley",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Caligo",
+      "Default",
+      "Smelter Demon",
+      "Draconic Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Caligo",
+      "Default",
+      "The Duke's Dear Freja",
+      "Godskin Duo",
+      "No",
+      "Day 1 Augur Bubbles",
+      "No"
+    ],
+    [
+      "Caligo",
+      "Default",
+      "Grafted Monarch",
+      "Dancer of the Boreal Valley",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Caligo",
+      "Default",
+      "The Duke's Dear Freja",
+      "Draconic Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Caligo",
+      "Default",
+      "Tibia Mariner",
+      "Draconic Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Caligo",
+      "Default",
+      "Smelter Demon",
+      "Dancer of the Boreal Valley",
+      "No",
+      "Day 2 Libra Curse",
+      "No"
+    ],
+    [
+      "Caligo",
+      "Default",
+      "Grafted Monarch",
+      "Draconic Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Caligo",
+      "Default",
+      "Ulcerated Tree Spirit",
+      "Dancer of the Boreal Valley",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Caligo",
+      "Default",
+      "Grafted Monarch",
+      "Godskin Duo",
+      "No",
+      "Day 2 Augur Bubbles",
+      "No"
+    ],
+    [
+      "Caligo",
+      "Default",
+      "Smelter Demon",
+      "Dancer of the Boreal Valley",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Caligo",
+      "Default",
+      "Tibia Mariner",
+      "Godskin Duo",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Caligo",
+      "Default",
+      "The Duke's Dear Freja",
+      "Draconic Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "Day 2 Augur Bubbles",
+      "No"
+    ],
+    [
+      "Caligo",
+      "Default",
+      "Ulcerated Tree Spirit",
+      "Godskin Duo",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Caligo",
+      "Default",
+      "The Duke's Dear Freja",
+      "Dancer of the Boreal Valley",
+      "No",
+      "Day 1 Augur Bubbles",
+      "No"
+    ],
+    [
+      "Caligo",
+      "Default",
+      "Tibia Mariner",
+      "Draconic Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Caligo",
+      "Default",
+      "Tibia Mariner",
+      "Dancer of the Boreal Valley",
+      "No",
+      "Walking Mausoleum",
+      "Yes"
+    ],
+    [
+      "Caligo",
+      "Mountaintop",
+      "Ulcerated Tree Spirit",
+      "Godskin Duo",
+      "No",
+      "Day 2 Augur Bubbles",
+      "No"
+    ],
+    [
+      "Caligo",
+      "Mountaintop",
+      "Smelter Demon",
+      "Dancer of the Boreal Valley",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Caligo",
+      "Mountaintop",
+      "Grafted Monarch",
+      "Draconic Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "Day 2 Libra Curse",
+      "No"
+    ],
+    [
+      "Caligo",
+      "Mountaintop",
+      "Tibia Mariner",
+      "Dancer of the Boreal Valley",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Caligo",
+      "Mountaintop",
+      "The Duke's Dear Freja",
+      "Draconic Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Caligo",
+      "Crater",
+      "Grafted Monarch",
+      "Dancer of the Boreal Valley",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Caligo",
+      "Crater",
+      "The Duke's Dear Freja",
+      "Dancer of the Boreal Valley",
+      "No",
+      "Day 1 Augur Bubbles",
+      "No"
+    ],
+    [
+      "Caligo",
+      "Crater",
+      "Smelter Demon",
+      "Godskin Duo",
+      "No",
+      "Walking Mausoleum",
+      "No"
+    ],
+    [
+      "Caligo",
+      "Crater",
+      "Ulcerated Tree Spirit",
+      "Draconic Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Caligo",
+      "Crater",
+      "Tibia Mariner",
+      "Draconic Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Caligo",
+      "Rotted Woods",
+      "The Duke's Dear Freja",
+      "Dancer of the Boreal Valley",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Caligo",
+      "Rotted Woods",
+      "Smelter Demon",
+      "Godskin Duo",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Caligo",
+      "Rotted Woods",
+      "Tibia Mariner",
+      "Draconic Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "Day 1 Libra Curse",
+      "No"
+    ],
+    [
+      "Caligo",
+      "Rotted Woods",
+      "Ulcerated Tree Spirit",
+      "Draconic Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "Walking Mausoleum",
+      "Yes"
+    ],
+    [
+      "Caligo",
+      "Rotted Woods",
+      "Grafted Monarch",
+      "Dancer of the Boreal Valley",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Caligo",
+      "Noklateo",
+      "Grafted Monarch",
+      "Godskin Duo",
+      "No",
+      "Day 2 Augur Bubbles",
+      "No"
+    ],
+    [
+      "Caligo",
+      "Noklateo",
+      "The Duke's Dear Freja",
+      "Dancer of the Boreal Valley",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Caligo",
+      "Noklateo",
+      "Tibia Mariner",
+      "Draconic Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Caligo",
+      "Noklateo",
+      "Ulcerated Tree Spirit",
+      "Draconic Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "Day 2 Meteor Strike",
+      "No"
+    ],
+    [
+      "Caligo",
+      "Noklateo",
+      "Smelter Demon",
+      "Dancer of the Boreal Valley",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Heolstor",
+      "Default",
+      "Valiant Gargoyle",
+      "Death Rite Bird",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Heolstor",
+      "Default",
+      "Smelter Demon",
+      "Great Wyrm",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Heolstor",
+      "Default",
+      "The Duke's Dear Freja",
+      "Ancient Dragon",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Heolstor",
+      "Default",
+      "Valiant Gargoyle",
+      "Dancer of the Boreal Valley",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Heolstor",
+      "Default",
+      "Battlefield Commander",
+      "Crucible Knight and Golden Hippopotamus",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Heolstor",
+      "Default",
+      "Wormface",
+      "Morgott",
+      "No",
+      "Day 2 Sentient Pest Plague",
+      "No"
+    ],
+    [
+      "Heolstor",
+      "Default",
+      "Ulcerated Tree Spirit",
+      "Death Rite Bird",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Heolstor",
+      "Default",
+      "Royal Revenant",
+      "Nameless King",
+      "No",
+      "Day 2 Morgott Invasion",
+      "Yes"
+    ],
+    [
+      "Heolstor",
+      "Default",
+      "Demi-Human Queen and Swordmaster",
+      "Draconic Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "Day 2 Morgott Invasion",
+      "Yes"
+    ],
+    [
+      "Heolstor",
+      "Default",
+      "Bell Bearing Hunter",
+      "Dragonkin Soldier",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Heolstor",
+      "Default",
+      "Night's Cavalry Duo",
+      "Fallingstar Beast",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Heolstor",
+      "Default",
+      "Gaping Dragon",
+      "Ancient Dragon",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Heolstor",
+      "Default",
+      "Centipede Demon",
+      "Nameless King",
+      "No",
+      "Day 1 Augur Bubbles",
+      "Yes"
+    ],
+    [
+      "Heolstor",
+      "Default",
+      "Ulcerated Tree Spirit",
+      "Outland Commander",
+      "No",
+      "Day 1 Augur Bubbles",
+      "No"
+    ],
+    [
+      "Heolstor",
+      "Default",
+      "Royal Revenant",
+      "Great Wyrm",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Heolstor",
+      "Default",
+      "Grafted Monarch",
+      "Godskin Duo",
+      "No",
+      "Day 2 Libra Curse",
+      "No"
+    ],
+    [
+      "Heolstor",
+      "Default",
+      "Tibia Mariner",
+      "Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "Day 2 Sentient Pest Plague",
+      "Yes"
+    ],
+    [
+      "Heolstor",
+      "Default",
+      "Night's Cavalry Duo",
+      "Outland Commander",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Heolstor",
+      "Default",
+      "Battlefield Commander",
+      "Fallingstar Beast",
+      "No",
+      "Day 1 Libra Curse",
+      "No"
+    ],
+    [
+      "Heolstor",
+      "Default",
+      "Grafted Monarch",
+      "Dancer of the Boreal Valley",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Heolstor",
+      "Mountaintop",
+      "Valiant Gargoyle",
+      "Great Wyrm",
+      "No",
+      "Day 1 Sentient Pest Plague",
+      "Yes"
+    ],
+    [
+      "Heolstor",
+      "Mountaintop",
+      "Night's Cavalry Duo",
+      "Dragonkin Soldier",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Heolstor",
+      "Mountaintop",
+      "Tibia Mariner",
+      "Fallingstar Beast",
+      "No",
+      "Day 2 Augur Bubbles",
+      "No"
+    ],
+    [
+      "Heolstor",
+      "Mountaintop",
+      "Battlefield Commander",
+      "Great Wyrm",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Heolstor",
+      "Mountaintop",
+      "Wormface",
+      "Death Rite Bird",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Heolstor",
+      "Crater",
+      "Grafted Monarch",
+      "Crucible Knight and Golden Hippopotamus",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Heolstor",
+      "Crater",
+      "Bell Bearing Hunter",
+      "Morgott",
+      "No",
+      "Day 1 Sentient Pest Plague",
+      "Yes"
+    ],
+    [
+      "Heolstor",
+      "Crater",
+      "Royal Revenant",
+      "Draconic Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Heolstor",
+      "Crater",
+      "Demi-Human Queen and Swordmaster",
+      "Outland Commander",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Heolstor",
+      "Crater",
+      "Ulcerated Tree Spirit",
+      "Tree Sentinel and Royal Cavalrymen",
+      "No",
+      "Day 2 Morgott Invasion",
+      "Yes"
+    ],
+    [
+      "Heolstor",
+      "Rotted Woods",
+      "Gaping Dragon",
+      "Nameless King",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Heolstor",
+      "Rotted Woods",
+      "Demi-Human Queen and Swordmaster",
+      "Ancient Dragon",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Heolstor",
+      "Rotted Woods",
+      "The Duke's Dear Freja",
+      "Dancer of the Boreal Valley",
+      "No",
+      "Day 2 Libra Curse",
+      "No"
+    ],
+    [
+      "Heolstor",
+      "Rotted Woods",
+      "Smelter Demon",
+      "Great Wyrm",
+      "No",
+      "Day 1 Morgott Invasion",
+      "No"
+    ],
+    [
+      "Heolstor",
+      "Rotted Woods",
+      "Centipede Demon",
+      "Morgott",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Heolstor",
+      "Noklateo",
+      "Valiant Gargoyle",
+      "Dancer of the Boreal Valley",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Heolstor",
+      "Noklateo",
+      "Royal Revenant",
+      "Ancient Dragon",
+      "No",
+      "Day 2 Augur Bubbles",
+      "No"
+    ],
+    [
+      "Heolstor",
+      "Noklateo",
+      "Bell Bearing Hunter",
+      "Fallingstar Beast",
+      "No",
+      "No",
+      "Yes"
+    ],
+    [
+      "Heolstor",
+      "Noklateo",
+      "Ulcerated Tree Spirit",
+      "Death Rite Bird",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Heolstor",
+      "Noklateo",
+      "Grafted Monarch",
+      "Nameless King",
+      "No",
+      "Day 2 Libra Curse",
+      "No"
+    ]
+  ]
+}
