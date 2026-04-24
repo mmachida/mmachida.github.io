@@ -3,7 +3,7 @@ let fields = [];
 let filters = {};
 
 async function loadPrediction() {
-    const res = await fetch("config_data.json?v=2");
+    const res = await fetch(`config_data.json?v=${window.APP_VERSION || 2}`);
     const config = await res.json();
 
     fields = config.fields;
@@ -49,7 +49,11 @@ function renderFilters() {
     el.innerHTML = "";
 
     fields.slice(1).forEach(f => {
-        const label = document.createElement("div");
+        const wrapper = document.createElement("div");
+        wrapper.className = "filter-field";
+
+        const label = document.createElement("label");
+        label.className = "filter-label";
         label.textContent = f;
 
         const s = document.createElement("select");
@@ -72,8 +76,9 @@ function renderFilters() {
             s.appendChild(opt);
         });
 
-        el.appendChild(label);
-        el.appendChild(s);
+        wrapper.appendChild(label);
+        wrapper.appendChild(s);
+        el.appendChild(wrapper);
     });
 }
 
