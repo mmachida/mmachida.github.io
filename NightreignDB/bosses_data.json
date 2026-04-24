@@ -14,7 +14,7 @@
         {
           "category": "Night Lords / Enhanced",
           "type": "Night Lords / Enhanced",
-          "name": "Tricephalos",
+          "name": "Gladius",
           "variant": "Normal",
           "hp": {
             "solo": 11328,
@@ -70,7 +70,7 @@
         {
           "category": "Night Lords / Enhanced",
           "type": "Night Lords / Enhanced",
-          "name": "Enhanced Tricephalos",
+          "name": "Enhanced Gladius",
           "variant": "Enhanced / Phase",
           "hp": {
             "solo": 17558,
@@ -126,7 +126,7 @@
         {
           "category": "Night Lords / Enhanced",
           "type": "Night Lords / Enhanced",
-          "name": "Gaping Jaw",
+          "name": "Adel",
           "variant": "Normal",
           "hp": {
             "solo": 13140,
@@ -182,7 +182,7 @@
         {
           "category": "Night Lords / Enhanced",
           "type": "Night Lords / Enhanced",
-          "name": "Enhanced Gaping Jaw",
+          "name": "Enhanced Adel",
           "variant": "Enhanced / Phase",
           "hp": {
             "solo": 16426,
@@ -266,23 +266,23 @@
             }
           },
           "damageResistance": {
-            "phys": "",
-            "slash": "",
-            "strike": "",
-            "pierce": "",
-            "magic": "",
-            "fire": "",
-            "lightning": "",
-            "holy": ""
+            "phys": -15,
+            "slash": -25,
+            "strike": -15,
+            "pierce": -25,
+            "magic": 50,
+            "fire": -40,
+            "lightning": 10,
+            "holy": 10
           },
           "affinityResistance": {
-            "poison": "",
-            "rot": "",
-            "bleed": "",
-            "frostbite": "",
-            "sleep": "",
-            "madness": "",
-            "deathBlight": ""
+            "poison": 543,
+            "rot": 155,
+            "bleed": 155,
+            "frostbite": 155,
+            "sleep": 543,
+            "madness": "Immune",
+            "deathBlight": "Immune"
           },
           "weakDamageType": {
             "gravityVoid": "No",
@@ -322,23 +322,23 @@
             }
           },
           "damageResistance": {
-            "phys": "",
-            "slash": "",
-            "strike": "",
-            "pierce": "",
-            "magic": "",
-            "fire": "",
-            "lightning": "",
-            "holy": ""
+            "phys": 10,
+            "slash": 20,
+            "strike": -20,
+            "pierce": -10,
+            "magic": 10,
+            "fire": -35,
+            "lightning": 10,
+            "holy": 10
           },
           "affinityResistance": {
-            "poison": "",
-            "rot": "",
-            "bleed": "",
-            "frostbite": "",
-            "sleep": "",
-            "madness": "",
-            "deathBlight": ""
+            "poison": 253,
+            "rot": 155,
+            "bleed": 155,
+            "frostbite": 155,
+            "sleep": 155,
+            "madness": "Immune",
+            "deathBlight": "Immune"
           },
           "weakDamageType": {
             "gravityVoid": "No",
@@ -350,7 +350,7 @@
         {
           "category": "Night Lords / Enhanced",
           "type": "Night Lords / Enhanced",
-          "name": "Gnoster (Animus)",
+          "name": "Enhanced Gnoster (Animus)",
           "variant": "Enhanced / Phase",
           "hp": {
             "solo": 6364,
@@ -406,7 +406,7 @@
         {
           "category": "Night Lords / Enhanced",
           "type": "Night Lords / Enhanced",
-          "name": "Gnoster (Moth) Ph.2",
+          "name": "Enhanced Gnoster (Moth) Ph.2",
           "variant": "Enhanced / Phase",
           "hp": {
             "solo": 7816,
@@ -434,23 +434,23 @@
             }
           },
           "damageResistance": {
-            "phys": "",
-            "slash": "",
-            "strike": "",
-            "pierce": "",
-            "magic": "",
-            "fire": "",
-            "lightning": "",
-            "holy": ""
+            "phys": -15,
+            "slash": -25,
+            "strike": -15,
+            "pierce": -25,
+            "magic": 50,
+            "fire": -40,
+            "lightning": 10,
+            "holy": 10
           },
           "affinityResistance": {
-            "poison": "",
-            "rot": "",
-            "bleed": "",
-            "frostbite": "",
-            "sleep": "",
-            "madness": "",
-            "deathBlight": ""
+            "poison": 543,
+            "rot": 155,
+            "bleed": 155,
+            "frostbite": 155,
+            "sleep": 543,
+            "madness": "Immune",
+            "deathBlight": "Immune"
           },
           "weakDamageType": {
             "gravityVoid": "No",
@@ -462,7 +462,7 @@
         {
           "category": "Night Lords / Enhanced",
           "type": "Night Lords / Enhanced",
-          "name": "Gnoster (Faurtis) Ph.2",
+          "name": "Enhanced Gnoster (Faurtis) Ph.2",
           "variant": "Enhanced / Phase",
           "hp": {
             "solo": 8564,
@@ -490,23 +490,23 @@
             }
           },
           "damageResistance": {
-            "phys": "",
-            "slash": "",
-            "strike": "",
-            "pierce": "",
-            "magic": "",
-            "fire": "",
-            "lightning": "",
-            "holy": ""
+            "phys": 10,
+            "slash": 20,
+            "strike": -20,
+            "pierce": -10,
+            "magic": 10,
+            "fire": -35,
+            "lightning": 10,
+            "holy": 10
           },
           "affinityResistance": {
-            "poison": "",
-            "rot": "",
-            "bleed": "",
-            "frostbite": "",
-            "sleep": "",
-            "madness": "",
-            "deathBlight": ""
+            "poison": 253,
+            "rot": 155,
+            "bleed": 155,
+            "frostbite": 155,
+            "sleep": 155,
+            "madness": "Immune",
+            "deathBlight": "Immune"
           },
           "weakDamageType": {
             "gravityVoid": "No",
@@ -574,7 +574,7 @@
         {
           "category": "Night Lords / Enhanced",
           "type": "Night Lords / Enhanced",
-          "name": "Maris ph.1",
+          "name": "Enhanced Augur ph.1",
           "variant": "Enhanced / Phase",
           "hp": {
             "solo": 3172,
@@ -602,26 +602,26 @@
             }
           },
           "damageResistance": {
-            "phys": "",
-            "slash": "",
-            "strike": "",
-            "pierce": "",
-            "magic": "",
-            "fire": "",
-            "lightning": "",
-            "holy": ""
+            "phys": 0,
+            "slash": -15,
+            "strike": 20,
+            "pierce": 10,
+            "magic": 20,
+            "fire": 50,
+            "lightning": -40,
+            "holy": 15
           },
           "affinityResistance": {
-            "poison": "",
-            "rot": "",
-            "bleed": "",
-            "frostbite": "",
-            "sleep": "",
-            "madness": "",
-            "deathBlight": ""
+            "poison": "Immune",
+            "rot": 253,
+            "bleed": "Immune",
+            "frostbite": "253",
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
           },
           "weakDamageType": {
-            "gravityVoid": "No",
+            "gravityVoid": "Yes",
             "liveInDeath": "No",
             "ancientDragon": "No",
             "dragonWyrm": "No"
@@ -630,7 +630,7 @@
         {
           "category": "Night Lords / Enhanced",
           "type": "Night Lords / Enhanced",
-          "name": "Maris ph.2",
+          "name": "Enhanced Augur ph.2",
           "variant": "Enhanced / Phase",
           "hp": {
             "solo": 25771,
@@ -658,26 +658,26 @@
             }
           },
           "damageResistance": {
-            "phys": "",
-            "slash": "",
-            "strike": "",
-            "pierce": "",
-            "magic": "",
-            "fire": "",
-            "lightning": "",
-            "holy": ""
+            "phys": 0,
+            "slash": -15,
+            "strike": 20,
+            "pierce": 10,
+            "magic": 20,
+            "fire": 50,
+            "lightning": -40,
+            "holy": 15
           },
           "affinityResistance": {
-            "poison": "",
-            "rot": "",
-            "bleed": "",
-            "frostbite": "",
-            "sleep": "",
-            "madness": "",
-            "deathBlight": ""
+            "poison": "Immune",
+            "rot": 253,
+            "bleed": "Immune",
+            "frostbite": "253",
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
           },
           "weakDamageType": {
-            "gravityVoid": "No",
+            "gravityVoid": "Yes",
             "liveInDeath": "No",
             "ancientDragon": "No",
             "dragonWyrm": "No"
@@ -686,7 +686,7 @@
         {
           "category": "Night Lords / Enhanced",
           "type": "Night Lords / Enhanced",
-          "name": "Equilibrious Beast",
+          "name": "Libra",
           "variant": "Normal",
           "hp": {
             "solo": 13048,
@@ -742,7 +742,7 @@
         {
           "category": "Night Lords / Enhanced",
           "type": "Night Lords / Enhanced",
-          "name": "Enhanced Equilibrious Beast",
+          "name": "Enhanced Libra",
           "variant": "Enhanced / Phase",
           "hp": {
             "solo": 18268,
@@ -798,7 +798,7 @@
         {
           "category": "Night Lords / Enhanced",
           "type": "Night Lords / Enhanced",
-          "name": "Darkdrift Knight",
+          "name": "Fulghor",
           "variant": "Normal",
           "hp": {
             "solo": 11894,
@@ -854,7 +854,7 @@
         {
           "category": "Night Lords / Enhanced",
           "type": "Night Lords / Enhanced",
-          "name": "Enhanced Darkdrift Knight",
+          "name": "Enhanced Fulghor",
           "variant": "Enhanced / Phase",
           "hp": {
             "solo": 14273,
@@ -910,7 +910,7 @@
         {
           "category": "Night Lords / Enhanced",
           "type": "Night Lords / Enhanced",
-          "name": "Fissure in the Fog",
+          "name": "Caligo",
           "variant": "Normal",
           "hp": {
             "solo": 12008,
@@ -966,7 +966,7 @@
         {
           "category": "Night Lords / Enhanced",
           "type": "Night Lords / Enhanced",
-          "name": "Enhanced Fissure in the Fog",
+          "name": "Enhanced Caligo",
           "variant": "Enhanced / Phase",
           "hp": {
             "solo": 16811,
