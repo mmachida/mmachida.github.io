@@ -14,14 +14,40 @@ document.write(`<link rel="stylesheet" href="css/style.css?v=${window.APP_VERSIO
 <body data-page="about">
 
 <div id="header"></div>
-
+<main class="page-content">
 <div class="container">
     <h1>About</h1>
 
-    <div class="box">
-        <p>Created by GrandeMOficial</p>
-    </div>
-</div>
+		<p>
+			Hi! This is a fan-made project I created for the game. I've been really enjoying it, and I wanted to build something useful for other players as well.
+		</p>
 
+		<p>
+			I plan to keep updating the site as I continue playing. My goal is to help players better understand the game and make more informed decisions during their runs.
+		</p>
+
+		<p>
+			If you find this project helpful or use it often, consider supporting it — it really means a lot.
+		</p>
+
+		<p>— M</p>
+	
+		<div class="about-support">
+			<a href="https://ko-fi.com/mmachida" target="_blank" class="support-button">
+				<span class="support-icon">💜</span>
+				Support
+			</a>
+		</div>
+
+</div>
+</main>
+<div id="footer"></div>
+<script>
+fetch(`components/footer.html?v=${window.APP_VERSION}`)
+    .then(res => res.text())
+    .then(data => {
+        document.getElementById("footer").innerHTML = data;
+    });
+</script>
 </body>
 </html>

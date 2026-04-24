@@ -15,6 +15,7 @@ document.write(`<link rel="stylesheet" href="css/style.css?v=${window.APP_VERSIO
 <body data-page="bosses">
 
 <div id="header"></div>
+<main class="page-content">
 
 <div class="container">
     <h1>Bosses</h1>
@@ -62,5 +63,15 @@ document.write(`<link rel="stylesheet" href="css/style.css?v=${window.APP_VERSIO
 
     <div id="bossCategories"></div>
 </div>
+</main>
+<div id="footer"></div>
+
+<script>
+fetch(`components/footer.html?v=${window.APP_VERSION}`)
+    .then(res => res.text())
+    .then(data => {
+        document.getElementById("footer").innerHTML = data;
+    });
+</script>
 </body>
 </html>

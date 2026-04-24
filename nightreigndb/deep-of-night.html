@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>NightReign DB - Deep of Night</title>
+
+<script src="js/version.js"></script>
+<script>
+document.write(`<link rel="stylesheet" href="css/style.css?v=${window.APP_VERSION}">`);
+</script>
+
+<script src="js/shared.js" defer></script>
+<script src="js/deep-of-night.js" defer></script>
+</head>
+
+<body data-page="deep-of-night">
+
+<div id="header"></div>
+
+<main class="page-content">
+    <div class="container">
+        <h1>Deep of Night</h1>
+        <p class="page-subtitle">
+            Exclusive mechanics, scaling, rewards, and progression details for Deep of Night expeditions.
+        </p>
+
+        <div class="deep-layout">
+            <aside class="deep-sidebar">
+                <button class="deep-tab active" data-tab="overview">Overview</button>
+                <button class="deep-tab" data-tab="rating-system">Rating System</button>
+                <button class="deep-tab" data-tab="difficulty-scaling">Difficulty Scaling</button>
+                <button class="deep-tab" data-tab="weapon-effects">Deep Weapon Effects</button>
+                <button class="deep-tab" data-tab="relic-effects">Deep Relic Effects</button>
+            </aside>
+
+            <section class="deep-content">
+
+                <article id="overview" class="box deep-section active">
+					<div class="overview-hero">
+						<div>
+							<h2>Deep of Night Overview</h2>
+							<p>
+								A harder expedition mode with stronger enemies, exclusive rewards, and a ranking system built around Depth progression.
+							</p>
+						</div>
+
+						<div class="overview-badge">
+							High Difficulty Mode
+						</div>
+					</div>
+
+					<div class="overview-card-grid">
+
+						<div class="overview-card primary">
+							<div class="overview-icon">⚔️</div>
+							<div>
+								<h3>Harder Expeditions</h3>
+								<p>
+									Enemies have more health, deal more damage, and may appear as stronger variants.
+								</p>
+							</div>
+						</div>
+
+						<div class="overview-card">
+							<div class="overview-icon">🏆</div>
+							<div>
+								<h3>Rating System</h3>
+								<p>
+									Your Depth rating increases as you complete expeditions. Higher ratings result in greater difficulty.
+								</p>
+							</div>
+						</div>
+
+						<div class="overview-card">
+							<div class="overview-icon">👁️</div>
+							<div>
+								<h3>Random Nightlord</h3>
+								<p>
+									The Nightlord is randomly selected each run. You can see which one it is at the start of the expedition on the character selection screen.
+								</p>
+							</div>
+						</div>
+
+						<div class="overview-card">
+							<div class="overview-icon">🌍</div>
+							<div>
+								<h3>No Shifting Earth</h3>
+								<p>
+									You cannot choose the Shifting Earth in Deep of Night. It is generated randomly for each expedition.
+								</p>
+							</div>
+						</div>
+
+						<div class="overview-card">
+							<div class="overview-icon">🗡️</div>
+							<div>
+								<h3>Deep Weapons</h3>
+								<p>
+									Special weapons can appear with exclusive effects, usually balanced by drawbacks.
+								</p>
+							</div>
+						</div>
+
+						<div class="overview-card">
+							<div class="overview-icon">🔮</div>
+							<div>
+								<h3>Depths Relics</h3>
+								<p>
+									Earn relics exclusive to Deep of Night, often combining powerful bonuses with trade-offs.
+								</p>
+							</div>
+						</div>
+
+						<div class="overview-card dlc">
+							<div class="overview-icon">🧩</div>
+							<div>
+								<h3>Forsaken Hollows DLC</h3>
+								<p>
+									If you own the DLC, new Night Lords can appear as a possible Deep of Night target.
+								</p>
+							</div>
+						</div>
+
+						<div class="overview-card dlc">
+							<div class="overview-icon">🤝</div>
+							<div>
+								<h3>DLC Matchmaking</h3>
+								<p>
+									DLC bosses can only appear when matched with players who also own The Forsaken Hollows.
+								</p>
+							</div>
+						</div>
+
+					</div>
+				</article>
+
+				<article id="rating-system" class="deep-section">
+
+					<div class="box rating-intro-box">
+						<h2>Rating System</h2>
+						<p class="overview-intro">
+							Your <strong>Depth rating</strong> changes based on how well you do in each expedition.
+							The higher your Depth, the harder future runs become.
+						</p>
+						<p class="overview-intro">
+							Losses are based on how far you reached. Winning always grants points.
+						</p>
+					</div>
+
+					<div class="rating-grid">
+
+						<div class="box rating-card">
+							<h2>Base Point Changes</h2>
+							<p class="overview-intro">
+								These are the base point values before any special modifiers are applied.
+							</p>
+
+							<div class="table-wrap compact-table-wrap">
+								<table class="deep-table compact-deep-table">
+									<thead>
+										<tr>
+											<th>Depth</th>
+											<th>Day 1 Loss</th>
+											<th>Day 2 Loss</th>
+											<th>Final Loss</th>
+											<th>Victory</th>
+										</tr>
+									</thead>
+									<tbody id="depthPointsTable"></tbody>
+								</table>
+							</div>
+						</div>
+
+						<div class="box rating-card">
+							<h2>Modifiers</h2>
+							<p class="overview-intro">
+								Some conditions can change how many points you gain or lose.
+							</p>
+
+							<div class="table-wrap compact-table-wrap">
+								<table class="deep-table compact-deep-table">
+									<thead>
+										<tr>
+											<th>Condition</th>
+											<th>Loss</th>
+											<th>Win</th>
+										</tr>
+									</thead>
+									<tbody id="modifiersTable"></tbody>
+								</table>
+							</div>
+						</div>
+
+						<div class="box rank-protection-card">
+							<h2>🛡️ Rank Protection</h2>
+
+							<p class="overview-intro">
+								Starting at <strong>Depth 3</strong>, Rank Protection can prevent a loss from dropping you to a lower Depth.
+							</p>
+
+							<div class="rank-protection-grid">
+								<div class="rank-mini-card">
+									<strong>Depth 3</strong>
+									<span>1 protection per entry</span>
+								</div>
+
+								<div class="rank-mini-card">
+									<strong>Depth 4–5</strong>
+									<span>2 protections per entry</span>
+								</div>
+							</div>
+
+							<p>
+								If a loss would drop you below the current Depth threshold, the penalty is reduced so you stay at the minimum points for that Depth.
+							</p>
+
+							<p>
+								If you drop a rank and climb back again, your protections reset.
+							</p>
+						</div>
+
+					</div>
+
+				</article>
+				
+				<article id="difficulty-scaling" class="deep-section">
+					<div class="box">
+						<h2>Difficulty Scaling</h2>
+						<p class="overview-intro">
+							Deep of Night increases enemy stats based on the current Depth. The table below shows the scaling values for HP, damage, stance, stamina damage, and runes.
+						</p>
+						<div class="scaling-legend">
+							<span class="hp">HP</span>
+							<span class="damage">Damage</span>
+							<span class="stance">Stance</span>
+							<span class="stamina">Stamina Damage</span>
+							<span class="runes">Runes</span>
+						</div>
+						<div class="table-wrap">
+							<table class="deep-table scaling-table">
+								<thead>
+									<tr>
+										<th rowspan="2" class="enemy-col">Enemy Type</th>
+										<th colspan="6" class="scale-head hp-group">HP</th>
+										<th colspan="6" class="scale-head damage-group">Damage</th>
+										<th colspan="5" class="scale-head stance-group">Stance</th>
+										<th colspan="5" class="scale-head stamina-group">Stamina Damage</th>
+										<th colspan="1" class="scale-head runes-group">Runes</th>
+									</tr>
+									<tr>
+										<th class="hp-group">D1</th>
+										<th class="hp-group">D2</th>
+										<th class="hp-group">D3</th>
+										<th class="hp-group">D4</th>
+										<th class="hp-group">D5</th>
+										<th class="hp-group red-col">Red</th>
+
+										<th class="damage-group">D1</th>
+										<th class="damage-group">D2</th>
+										<th class="damage-group">D3</th>
+										<th class="damage-group">D4</th>
+										<th class="damage-group">D5</th>
+										<th class="damage-group red-col">Red</th>
+
+										<th class="stance-group">D1</th>
+										<th class="stance-group">D2</th>
+										<th class="stance-group">D3</th>
+										<th class="stance-group">D4</th>
+										<th class="stance-group">D5</th>
+
+										<th class="stamina-group">D1</th>
+										<th class="stamina-group">D2</th>
+										<th class="stamina-group">D3</th>
+										<th class="stamina-group">D4</th>
+										<th class="stamina-group">D5</th>
+										
+										<th class="runes-group red-col">Red</th>
+									</tr>
+								</thead>
+								<tbody id="difficultyScalingTable"></tbody>
+							</table>
+							
+							<div class="table-notes">
+								<p><strong>Note 1:</strong> "Red" values apply to mutated (red) enemies at all Depth levels.</p>
+								<p><strong>Note 2:</strong> The Red bonus is applied <strong>multiplicatively</strong> with other values.</p>
+							</div>
+						</div>
+					</div>
+				</article>
+
+				<article id="weapon-effects" class="deep-section">
+
+					<div class="box">
+						<h2>Deep Weapon Effects</h2>
+
+						<p class="overview-intro">
+							Deep of Night weapons can appear with special effects that change how the weapon performs during an expedition.
+						</p>
+
+						<p class="overview-intro">
+							These effects can be powerful, but some weapons may also roll a negative third modifier called a <strong>Curse</strong>.
+						</p>
+					</div>
+
+	
+						<div class="box">
+							<h2>Positive Effects</h2>
+
+							<div id="positiveWeaponEffectsGrid" class="effects-grid"></div>
+						</div>
+
+						<div class="box curse-card">
+							<h2>Curse Effects</h2>
+
+							<div id="curseWeaponEffectsGrid" class="effects-grid"></div>
+						</div>
+
+				</article>
+				
+				<article id="relic-effects" class="deep-section">
+
+					<div class="box">
+						<h2>Deep Relic Effects</h2>
+
+						<p class="overview-intro">
+							Deep Relics are special relics exclusive to Deep of Night. They can provide powerful bonuses, but may also include a negative modifier called a <strong>Curse</strong>.
+						</p>
+					</div>
+
+					<div class="box">
+						<h2>Positive Effects</h2>
+						<div id="positiveRelicEffectsGrid" class="effects-grid"></div>
+					</div>
+
+					<div class="box curse-card">
+						<h2>Curse Effects</h2>
+						<div id="curseRelicEffectsGrid" class="effects-grid"></div>
+					</div>
+
+				</article>
+
+            </section>
+        </div>
+    </div>
+</main>
+<div id="footer"></div>
+<script>
+fetch(`components/footer.html?v=${window.APP_VERSION}`)
+    .then(res => res.text())
+    .then(data => {
+        document.getElementById("footer").innerHTML = data;
+    });
+</script>
+</body>
+</html>
