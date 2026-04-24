@@ -406,7 +406,7 @@
         {
           "category": "Night Lords / Enhanced",
           "type": "Night Lords / Enhanced",
-          "name": "Gnoster (Moth) 2",
+          "name": "Gnoster (Moth) Ph.2",
           "variant": "Enhanced / Phase",
           "hp": {
             "solo": 7816,
@@ -462,7 +462,7 @@
         {
           "category": "Night Lords / Enhanced",
           "type": "Night Lords / Enhanced",
-          "name": "Gnoster (Faurtis) 2",
+          "name": "Gnoster (Faurtis) Ph.2",
           "variant": "Enhanced / Phase",
           "hp": {
             "solo": 8564,
@@ -1121,6 +1121,286 @@
             "bleed": "Immune",
             "frostbite": "Immune",
             "sleep": 543,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+		{
+          "category": "Night Lords / Enhanced",
+          "type": "Night Lords / Enhanced",
+          "name": "(DLC) Balancers (white valk) Ph.1",
+          "variant": "Normal",
+          "hp": {
+            "solo": 708,
+            "duo": 1416,
+            "trio": 2124
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": 8,
+            "strike": -10,
+            "pierce": 0,
+            "magic": 0,
+            "fire": 8,
+            "lightning": 10,
+            "holy": 30
+          },
+          "affinityResistance": {
+            "poison": 252,
+            "rot": 252,
+            "bleed": 252,
+            "frostbite": 252,
+            "sleep": 154,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+		{
+          "category": "Night Lords / Enhanced",
+          "type": "Night Lords / Enhanced",
+          "name": "(DLC) Balancers (Pink valk) Ph.2",
+          "variant": "Normal",
+          "hp": {
+            "solo": 2655,
+            "duo": 5310,
+            "trio": 7965
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": 8,
+            "strike": -10,
+            "pierce": 0,
+            "magic": 0,
+            "fire": 8,
+            "lightning": 10,
+            "holy": 30
+          },
+          "affinityResistance": {
+            "poison": 252,
+            "rot": 252,
+            "bleed": 252,
+            "frostbite": 252,
+            "sleep": 154,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+		{
+          "category": "Night Lords / Enhanced",
+          "type": "Night Lords / Enhanced",
+          "name": "(DLC) Balancers (Bloody valk) Ph.2",
+          "variant": "Enhanced / Phase",
+          "hp": {
+            "solo": 1048,
+            "duo": 2096,
+            "trio": 3144
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": 8,
+            "strike": -10,
+            "pierce": 0,
+            "magic": 0,
+            "fire": 8,
+            "lightning": 10,
+            "holy": 30
+          },
+          "affinityResistance": {
+            "poison": 252,
+            "rot": 252,
+            "bleed": 252,
+            "frostbite": 252,
+            "sleep": 154,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+		{
+          "category": "Night Lords / Enhanced",
+          "type": "Night Lords / Enhanced",
+          "name": "(DLC) Dreglord Ph.1",
+          "variant": "Normal",
+          "hp": {
+            "solo": 7080,
+            "duo": 14160,
+            "trio": 21240
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": -10,
+            "strike": 0,
+            "pierce": -10,
+            "magic": 0,
+            "fire": -20,
+            "lightning": 10,
+            "holy": -25
+          },
+          "affinityResistance": {
+            "poison": 542,
+            "rot": 542,
+            "bleed": 542,
+            "frostbite": 542,
+            "sleep": 542,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+		{
+          "category": "Night Lords / Enhanced",
+          "type": "Night Lords / Enhanced",
+          "name": "(DLC) Dreglord Ph.2",
+          "variant": "Normal",
+          "hp": {
+            "solo": 14443,
+            "duo": 28886,
+            "trio": 43329
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": -10,
+            "strike": 0,
+            "pierce": -10,
+            "magic": 0,
+            "fire": -20,
+            "lightning": 10,
+            "holy": -25
+          },
+          "affinityResistance": {
+            "poison": 542,
+            "rot": 542,
+            "bleed": 252,
+            "frostbite": 252,
+            "sleep": 252,
             "madness": "Immune",
             "deathBlight": "Immune"
           },
@@ -4477,16 +4757,16 @@
               "madness": 0.5
             },
             "duo": {
-              "bleed": 0.75,
-              "frost": 0.75,
-              "sleep": 0.75,
-              "madness": 0.75
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
             },
             "trio": {
-              "bleed": 0.5,
-              "frost": 0.5,
-              "sleep": 0.5,
-              "madness": 0.5
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
             }
           },
           "damageResistance": {
@@ -4533,16 +4813,16 @@
               "madness": 0.5
             },
             "duo": {
-              "bleed": 0.75,
-              "frost": 0.75,
-              "sleep": 0.75,
-              "madness": 0.75
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
             },
             "trio": {
-              "bleed": 0.5,
-              "frost": 0.5,
-              "sleep": 0.5,
-              "madness": 0.5
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
             }
           },
           "damageResistance": {
@@ -4589,16 +4869,16 @@
               "madness": 0.5
             },
             "duo": {
-              "bleed": 0.75,
-              "frost": 0.75,
-              "sleep": 0.75,
-              "madness": 0.75
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
             },
             "trio": {
-              "bleed": 0.5,
-              "frost": 0.5,
-              "sleep": 0.5,
-              "madness": 0.5
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
             }
           },
           "damageResistance": {
@@ -4645,16 +4925,16 @@
               "madness": 0.5
             },
             "duo": {
-              "bleed": 0.75,
-              "frost": 0.75,
-              "sleep": 0.75,
-              "madness": 0.75
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
             },
             "trio": {
-              "bleed": 0.5,
-              "frost": 0.5,
-              "sleep": 0.5,
-              "madness": 0.5
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
             }
           },
           "damageResistance": {
@@ -4701,16 +4981,16 @@
               "madness": 0.5
             },
             "duo": {
-              "bleed": 0.75,
-              "frost": 0.75,
-              "sleep": 0.75,
-              "madness": 0.75
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
             },
             "trio": {
-              "bleed": 0.5,
-              "frost": 0.5,
-              "sleep": 0.5,
-              "madness": 0.5
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
             }
           },
           "damageResistance": {
@@ -4757,16 +5037,16 @@
               "madness": 0.5
             },
             "duo": {
-              "bleed": 0.75,
-              "frost": 0.75,
-              "sleep": 0.75,
-              "madness": 0.75
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
             },
             "trio": {
-              "bleed": 0.5,
-              "frost": 0.5,
-              "sleep": 0.5,
-              "madness": 0.5
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
             }
           },
           "damageResistance": {
@@ -4795,6 +5075,286 @@
             "dragonWyrm": "No"
           }
         },
+		{
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "(DLC) Curseblade",
+          "variant": "Day 1",
+          "hp": {
+            "solo": "WIP",
+            "duo": "WIP",
+            "trio": "WIP"
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": -20,
+            "strike": 0,
+            "pierce": 0,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0
+          },
+          "affinityResistance": {
+            "poison": 112,
+            "rot": 112,
+            "bleed": 112,
+            "frostbite": 112,
+            "sleep": 63,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+		{
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "(DLC) Divine Beast Warrior",
+          "variant": "Day 1",
+          "hp": {
+            "solo": "WIP",
+            "duo": "WIP",
+            "trio": "WIP"
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": 40,
+            "slash": 40,
+            "strike": 40,
+            "pierce": 0,
+            "magic": 20,
+            "fire": 20,
+            "lightning": 20,
+            "holy": 0
+          },
+          "affinityResistance": {
+            "poison": 112,
+            "rot": 112,
+            "bleed": 112,
+            "frostbite": 112,
+            "sleep": 63,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+		{
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "(DLC) Demon Price Duo",
+          "variant": "Day 1",
+          "hp": {
+            "solo": "WIP",
+            "duo": "WIP",
+            "trio": "WIP"
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": -18,
+            "strike": 1,
+            "pierce": -2,
+            "magic": 20,
+            "fire": 78,
+            "lightning": 22,
+            "holy": 17
+          },
+          "affinityResistance": {
+            "poison": "Immune",
+            "rot": 545,
+            "bleed": 252,
+            "frostbite": "Immune",
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },		
+		{
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "(DLC) Great Red Bear",
+          "variant": "Day 1",
+          "hp": {
+            "solo": "WIP",
+            "duo": "WIP",
+            "trio": "WIP"
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": -10,
+            "strike": 0,
+            "pierce": 0,
+            "magic": 0,
+            "fire": -20,
+            "lightning": 0,
+            "holy": 0
+          },
+          "affinityResistance": {
+            "poison": 154,
+            "rot": 154,
+            "bleed": 252,
+            "frostbite": 252,
+            "sleep": 84,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+		{
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "(DLC) Dark Knight",
+          "variant": "Day 1",
+          "hp": {
+            "solo": "WIP",
+            "duo": "WIP",
+            "trio": "WIP"
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": 40,
+            "slash": 40,
+            "strike": 40,
+            "pierce": 20,
+            "magic": 40,
+            "fire": 20,
+            "lightning": 40,
+            "holy": 0
+          },
+          "affinityResistance": {
+            "poison": 252,
+            "rot": 252,
+            "bleed": "Immune",
+            "frostbite": 252,
+            "sleep": 252,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
         {
           "category": "Day 1-2 Bosses",
           "type": "Day 1-2 Bosses",
@@ -4813,16 +5373,16 @@
               "madness": 0.5
             },
             "duo": {
-              "bleed": 0.75,
-              "frost": 0.75,
-              "sleep": 0.75,
-              "madness": 0.75
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
             },
             "trio": {
-              "bleed": 0.5,
-              "frost": 0.5,
-              "sleep": 0.5,
-              "madness": 0.5
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
             }
           },
           "damageResistance": {
@@ -4869,16 +5429,16 @@
               "madness": 0.5
             },
             "duo": {
-              "bleed": 0.75,
-              "frost": 0.75,
-              "sleep": 0.75,
-              "madness": 0.75
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
             },
             "trio": {
-              "bleed": 0.5,
-              "frost": 0.5,
-              "sleep": 0.5,
-              "madness": 0.5
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
             }
           },
           "damageResistance": {
@@ -4925,16 +5485,16 @@
               "madness": 0.5
             },
             "duo": {
-              "bleed": 0.75,
-              "frost": 0.75,
-              "sleep": 0.75,
-              "madness": 0.75
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
             },
             "trio": {
-              "bleed": 0.5,
-              "frost": 0.5,
-              "sleep": 0.5,
-              "madness": 0.5
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
             }
           },
           "damageResistance": {
@@ -4981,16 +5541,16 @@
               "madness": 0.5
             },
             "duo": {
-              "bleed": 0.75,
-              "frost": 0.75,
-              "sleep": 0.75,
-              "madness": 0.75
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
             },
             "trio": {
-              "bleed": 0.5,
-              "frost": 0.5,
-              "sleep": 0.5,
-              "madness": 0.5
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
             }
           },
           "damageResistance": {
@@ -5037,16 +5597,16 @@
               "madness": 0.5
             },
             "duo": {
-              "bleed": 0.75,
-              "frost": 0.75,
-              "sleep": 0.75,
-              "madness": 0.75
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
             },
             "trio": {
-              "bleed": 0.5,
-              "frost": 0.5,
-              "sleep": 0.5,
-              "madness": 0.5
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
             }
           },
           "damageResistance": {
@@ -5093,16 +5653,16 @@
               "madness": 0.5
             },
             "duo": {
-              "bleed": 0.75,
-              "frost": 0.75,
-              "sleep": 0.75,
-              "madness": 0.75
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
             },
             "trio": {
-              "bleed": 0.5,
-              "frost": 0.5,
-              "sleep": 0.5,
-              "madness": 0.5
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
             }
           },
           "damageResistance": {
@@ -5149,16 +5709,16 @@
               "madness": 0.5
             },
             "duo": {
-              "bleed": 0.75,
-              "frost": 0.75,
-              "sleep": 0.75,
-              "madness": 0.75
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
             },
             "trio": {
-              "bleed": 0.5,
-              "frost": 0.5,
-              "sleep": 0.5,
-              "madness": 0.5
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
             }
           },
           "damageResistance": {
@@ -5205,16 +5765,16 @@
               "madness": 0.5
             },
             "duo": {
-              "bleed": 0.75,
-              "frost": 0.75,
-              "sleep": 0.75,
-              "madness": 0.75
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
             },
             "trio": {
-              "bleed": 0.5,
-              "frost": 0.5,
-              "sleep": 0.5,
-              "madness": 0.5
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
             }
           },
           "damageResistance": {
@@ -5261,16 +5821,16 @@
               "madness": 0.5
             },
             "duo": {
-              "bleed": 0.75,
-              "frost": 0.75,
-              "sleep": 0.75,
-              "madness": 0.75
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
             },
             "trio": {
-              "bleed": 0.5,
-              "frost": 0.5,
-              "sleep": 0.5,
-              "madness": 0.5
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
             }
           },
           "damageResistance": {
@@ -5317,16 +5877,16 @@
               "madness": 0.5
             },
             "duo": {
-              "bleed": 0.75,
-              "frost": 0.75,
-              "sleep": 0.75,
-              "madness": 0.75
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
             },
             "trio": {
-              "bleed": 0.5,
-              "frost": 0.5,
-              "sleep": 0.5,
-              "madness": 0.5
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
             }
           },
           "damageResistance": {
@@ -5373,16 +5933,16 @@
               "madness": 0.5
             },
             "duo": {
-              "bleed": 0.75,
-              "frost": 0.75,
-              "sleep": 0.75,
-              "madness": 0.75
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
             },
             "trio": {
-              "bleed": 0.5,
-              "frost": 0.5,
-              "sleep": 0.5,
-              "madness": 0.5
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
             }
           },
           "damageResistance": {
@@ -5429,16 +5989,16 @@
               "madness": 0.5
             },
             "duo": {
-              "bleed": 0.75,
-              "frost": 0.75,
-              "sleep": 0.75,
-              "madness": 0.75
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
             },
             "trio": {
-              "bleed": 0.5,
-              "frost": 0.5,
-              "sleep": 0.5,
-              "madness": 0.5
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
             }
           },
           "damageResistance": {
@@ -5485,16 +6045,16 @@
               "madness": 0.5
             },
             "duo": {
-              "bleed": 0.75,
-              "frost": 0.75,
-              "sleep": 0.75,
-              "madness": 0.75
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
             },
             "trio": {
-              "bleed": 0.5,
-              "frost": 0.5,
-              "sleep": 0.5,
-              "madness": 0.5
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
             }
           },
           "damageResistance": {
@@ -5541,16 +6101,16 @@
               "madness": 0.5
             },
             "duo": {
-              "bleed": 0.75,
-              "frost": 0.75,
-              "sleep": 0.75,
-              "madness": 0.75
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
             },
             "trio": {
-              "bleed": 0.5,
-              "frost": 0.5,
-              "sleep": 0.5,
-              "madness": 0.5
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
             }
           },
           "damageResistance": {
@@ -5597,16 +6157,16 @@
               "madness": 0.5
             },
             "duo": {
-              "bleed": 0.75,
-              "frost": 0.75,
-              "sleep": 0.75,
-              "madness": 0.75
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
             },
             "trio": {
-              "bleed": 0.5,
-              "frost": 0.5,
-              "sleep": 0.5,
-              "madness": 0.5
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
             }
           },
           "damageResistance": {
@@ -5653,16 +6213,16 @@
               "madness": 0.5
             },
             "duo": {
-              "bleed": 0.75,
-              "frost": 0.75,
-              "sleep": 0.75,
-              "madness": 0.75
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
             },
             "trio": {
-              "bleed": 0.5,
-              "frost": 0.5,
-              "sleep": 0.5,
-              "madness": 0.5
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
             }
           },
           "damageResistance": {
@@ -5681,6 +6241,230 @@
             "bleed": 154,
             "frostbite": 154,
             "sleep": 252,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+		{
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "(DLC) Mohg",
+          "variant": "Day 2",
+          "hp": {
+            "solo": "WIP",
+            "duo": "WIP",
+            "trio": "WIP"
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": 10,
+            "slash": 10,
+            "strike": 10,
+            "pierce": 10,
+            "magic": 40,
+            "fire": 80,
+            "lightning": 40,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": 252,
+            "rot": 252,
+            "bleed": 112,
+            "frostbite": 252,
+            "sleep": 542,
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+		{
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "(DLC) Demon Prince",
+          "variant": "Day 2",
+          "hp": {
+            "solo": "WIP",
+            "duo": "WIP",
+            "trio": "WIP"
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": -18,
+            "strike": 1,
+            "pierce": -2,
+            "magic": 20,
+            "fire": 78,
+            "lightning": 22,
+            "holy": 17
+          },
+          "affinityResistance": {
+            "poison": "Immune",
+            "rot": 542,
+            "bleed": 252,
+            "frostbite": "Immune",
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+		{
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "(DLC) Artorias",
+          "variant": "Day 2",
+          "hp": {
+            "solo": "WIP",
+            "duo": "WIP",
+            "trio": "WIP"
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": 0,
+            "slash": 10,
+            "strike": -10,
+            "pierce": 0,
+            "magic": 15,
+            "fire": 10,
+            "lightning": -10,
+            "holy": -10
+          },
+          "affinityResistance": {
+            "poison": 542,
+            "rot": 542,
+            "bleed": 542,
+            "frostbite": 542,
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
+          },
+          "weakDamageType": {
+            "gravityVoid": "No",
+            "liveInDeath": "No",
+            "ancientDragon": "No",
+            "dragonWyrm": "No"
+          }
+        },
+		{
+          "category": "Day 1-2 Bosses",
+          "type": "Day 1-2 Bosses",
+          "name": "(DLC) Dancing Lion",
+          "variant": "Day 2",
+          "hp": {
+            "solo": "WIP",
+            "duo": "WIP",
+            "trio": "WIP"
+          },
+          "statusMultiplier": {
+            "solo": {
+              "bleed": 0.5,
+              "frost": 0.5,
+              "sleep": 0.5,
+              "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
+            }
+          },
+          "damageResistance": {
+            "phys": 30,
+            "slash": 20,
+            "strike": 30,
+            "pierce": 0,
+            "magic": 40,
+            "fire": 0,
+            "lightning": 40,
+            "holy": 40
+          },
+          "affinityResistance": {
+            "poison": 154,
+            "rot": 112,
+            "bleed": 112,
+            "frostbite": 252,
+            "sleep": 9,
             "madness": "Immune",
             "deathBlight": "Immune"
           },
