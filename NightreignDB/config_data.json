@@ -2,10 +2,11 @@
   "header": "Nightreign Boss Prediction (Unknown Night Lord)",
   "sub_header": "Depth 3 and above can run unknown bosses, see the combinations below to identify which boss you are going to fight",
   "app_ver": "v1.0 - sep 30/2025",
-  "fields": ["Night Lord","Shifting Earth","Day 1 Boss","Day 2 Boss","Extra Boss","Event","Merchant?"],
+  "fields": ["Night Lord","Map","Shifting Earth","Day 1 Boss","Day 2 Boss","Extra Boss","Event","Merchant?"],
   "data": [
     [
       "Gladius",
+	  "Normal",
       "Default",
       "Demi-Human Queen and Swordmaster",
       "Tree Sentinel and Royal Cavalrymen",
@@ -15,6 +16,7 @@
     ],
     [
       "Gladius",
+	  "Normal",
       "Default",
       "Demi-Human Queen and Swordmaster",
       "Tree Sentinel and Royal Cavalrymen",
@@ -24,6 +26,7 @@
     ],
     [
       "Gladius",
+	  "Normal",
       "Default",
       "Bell Bearing Hunter",
       "Morgott",
@@ -33,6 +36,7 @@
     ],
     [
       "Gladius",
+	  "Normal",
       "Default",
       "Bell Bearing Hunter",
       "Morgott",
@@ -42,6 +46,7 @@
     ],
     [
       "Gladius",
+	  "Normal",
       "Default",
       "Demi-Human Queen and Swordmaster",
       "Tree Sentinel and Royal Cavalrymen",
@@ -51,6 +56,7 @@
     ],
     [
       "Gladius",
+	  "Normal",
       "Default",
       "Demi-Human Queen and Swordmaster",
       "Morgott",
@@ -60,6 +66,7 @@
     ],
     [
       "Gladius",
+	  "Normal",
       "Default",
       "Demi-Human Queen and Swordmaster",
       "Morgott",
@@ -69,6 +76,7 @@
     ],
     [
       "Gladius",
+	  "Normal",
       "Default",
       "Bell Bearing Hunter",
       "Morgott",
@@ -78,24 +86,7 @@
     ],
     [
       "Gladius",
-      "Default",
-      "Bell Bearing Hunter",
-      "Morgott",
-      "No",
-      "Day 2 Night Horde",
-      "No"
-    ],
-    [
-      "Gladius",
-      "Default",
-      "Bell Bearing Hunter",
-      "Morgott",
-      "No",
-      "No",
-      "No"
-    ],
-    [
-      "Gladius",
+	  "Normal",
       "Default",
       "Bell Bearing Hunter",
       "Morgott",
@@ -105,6 +96,27 @@
     ],
     [
       "Gladius",
+	  "Normal",
+      "Default",
+      "Bell Bearing Hunter",
+      "Morgott",
+      "No",
+      "No",
+      "No"
+    ],
+    [
+      "Gladius",
+	  "Normal",
+      "Default",
+      "Bell Bearing Hunter",
+      "Morgott",
+      "No",
+      "Day 2 Night Horde",
+      "No"
+    ],
+    [
+      "Gladius",
+	  "Normal",
       "Default",
       "Demi-Human Queen and Swordmaster",
       "Tree Sentinel and Royal Cavalrymen",
@@ -114,6 +126,7 @@
     ],
     [
       "Gladius",
+	  "Normal",
       "Default",
       "Demi-Human Queen and Swordmaster",
       "Tree Sentinel and Royal Cavalrymen",
@@ -123,6 +136,7 @@
     ],
     [
       "Gladius",
+	  "Normal",
       "Default",
       "Demi-Human Queen and Swordmaster",
       "Morgott",
@@ -132,6 +146,7 @@
     ],
     [
       "Gladius",
+	  "Normal",
       "Default",
       "Bell Bearing Hunter",
       "Tree Sentinel and Royal Cavalrymen",
@@ -141,6 +156,7 @@
     ],
     [
       "Gladius",
+	  "Normal",
       "Default",
       "Bell Bearing Hunter",
       "Tree Sentinel and Royal Cavalrymen",
@@ -150,6 +166,7 @@
     ],
     [
       "Gladius",
+	  "Normal",
       "Default",
       "Demi-Human Queen and Swordmaster",
       "Tree Sentinel and Royal Cavalrymen",
@@ -159,6 +176,7 @@
     ],
     [
       "Gladius",
+	  "Normal",
       "Default",
       "Bell Bearing Hunter",
       "Tree Sentinel and Royal Cavalrymen",
@@ -168,6 +186,7 @@
     ],
     [
       "Gladius",
+	  "Normal",
       "Default",
       "Bell Bearing Hunter",
       "Tree Sentinel and Royal Cavalrymen",
@@ -177,6 +196,7 @@
     ],
     [
       "Gladius",
+	  "Normal",
       "Default",
       "Demi-Human Queen and Swordmaster",
       "Morgott",
@@ -186,6 +206,7 @@
     ],
     [
       "Gladius",
+	  "Normal",
       "Mountaintop",
       "Bell Bearing Hunter",
       "Tree Sentinel and Royal Cavalrymen",
@@ -195,6 +216,7 @@
     ],
     [
       "Gladius",
+	  "Normal",
       "Mountaintop",
       "Bell Bearing Hunter",
       "Morgott",
@@ -204,6 +226,7 @@
     ],
     [
       "Gladius",
+	  "Normal",
       "Mountaintop",
       "Demi-Human Queen and Swordmaster",
       "Tree Sentinel and Royal Cavalrymen",
@@ -213,6 +236,7 @@
     ],
     [
       "Gladius",
+	  "Normal",
       "Mountaintop",
       "Bell Bearing Hunter",
       "Morgott",
@@ -222,6 +246,7 @@
     ],
     [
       "Gladius",
+	  "Normal",
       "Mountaintop",
       "Demi-Human Queen and Swordmaster",
       "Morgott",
@@ -231,6 +256,7 @@
     ],
     [
       "Gladius",
+	  "Normal",
       "Crater",
       "Bell Bearing Hunter",
       "Tree Sentinel and Royal Cavalrymen",
@@ -240,6 +266,7 @@
     ],
     [
       "Gladius",
+	  "Normal",
       "Crater",
       "Demi-Human Queen and Swordmaster",
       "Tree Sentinel and Royal Cavalrymen",
@@ -249,6 +276,7 @@
     ],
     [
       "Gladius",
+	  "Normal",
       "Crater",
       "Demi-Human Queen and Swordmaster",
       "Morgott",
@@ -258,6 +286,7 @@
     ],
     [
       "Gladius",
+	  "Normal",
       "Crater",
       "Bell Bearing Hunter",
       "Morgott",
@@ -267,6 +296,7 @@
     ],
     [
       "Gladius",
+	  "Normal",
       "Crater",
       "Bell Bearing Hunter",
       "Morgott",
@@ -276,6 +306,7 @@
     ],
     [
       "Gladius",
+	  "Normal",
       "Rotted Woods",
       "Demi-Human Queen and Swordmaster",
       "Morgott",
@@ -285,6 +316,7 @@
     ],
     [
       "Gladius",
+	  "Normal",
       "Rotted Woods",
       "Demi-Human Queen and Swordmaster",
       "Morgott",
@@ -294,6 +326,7 @@
     ],
     [
       "Gladius",
+	  "Normal",
       "Rotted Woods",
       "Bell Bearing Hunter",
       "Tree Sentinel and Royal Cavalrymen",
@@ -303,6 +336,7 @@
     ],
     [
       "Gladius",
+	  "Normal",
       "Rotted Woods",
       "Demi-Human Queen and Swordmaster",
       "Morgott",
@@ -312,6 +346,7 @@
     ],
     [
       "Gladius",
+	  "Normal",
       "Rotted Woods",
       "Bell Bearing Hunter",
       "Tree Sentinel and Royal Cavalrymen",
@@ -321,6 +356,7 @@
     ],
     [
       "Gladius",
+	  "Normal",
       "Noklateo",
       "Demi-Human Queen and Swordmaster",
       "Morgott",
@@ -330,6 +366,7 @@
     ],
     [
       "Gladius",
+	  "Normal",
       "Noklateo",
       "Bell Bearing Hunter",
       "Morgott",
@@ -339,6 +376,7 @@
     ],
     [
       "Gladius",
+	  "Normal",
       "Noklateo",
       "Bell Bearing Hunter",
       "Tree Sentinel and Royal Cavalrymen",
@@ -348,6 +386,7 @@
     ],
     [
       "Gladius",
+	  "Normal",
       "Noklateo",
       "Demi-Human Queen and Swordmaster",
       "Tree Sentinel and Royal Cavalrymen",
@@ -357,6 +396,7 @@
     ],
     [
       "Gladius",
+	  "Normal",
       "Noklateo",
       "Demi-Human Queen and Swordmaster",
       "Morgott",
@@ -364,8 +404,14 @@
       "No",
       "No"
     ],
+	["Gladius", "Normal", "None", "Demihuman Queen & Swordmaster", "Morgott", "No", "Day 2 Caligo Raid", "Yes"],
+	["Gladius", "Normal", "None", "Demihuman Queen & Swordmaster", "Morgott", "No", "No", "Yes"],
+	["Gladius", "Normal", "None", "Bell Bearing Hunter", "Tree Sentinel", "No", "Day 1 Caligo Raid", "Yes"],
+	["Gladius", "Normal", "None", "Demihuman Queen & Swordmaster", "Tree Sentinel", "No", "No", "No"],
+	["Gladius", "Normal", "None", "Bell Bearing Hunter", "Morgott", "No", "Day 1 Balancers Raid", "No"],
     [
       "Adel",
+	  "Normal",
       "Default",
       "Night's Cavalry Duo",
       "Ancient Dragon",
@@ -375,6 +421,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Default",
       "Gaping Dragon",
       "Ancient Dragon",
@@ -384,6 +431,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Default",
       "The Duke's Dear Freja",
       "Crucible Knight and Golden Hippopotamus",
@@ -393,6 +441,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Default",
       "Wormface",
       "Ancient Dragon",
@@ -402,6 +451,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Default",
       "Gaping Dragon",
       "Ancient Dragon",
@@ -411,6 +461,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Default",
       "Night's Cavalry Duo",
       "Outland Commander",
@@ -420,6 +471,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Default",
       "The Duke's Dear Freja",
       "Ancient Dragon",
@@ -429,6 +481,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Default",
       "Gaping Dragon",
       "Ancient Dragon",
@@ -438,6 +491,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Default",
       "Night's Cavalry Duo",
       "Outland Commander",
@@ -447,6 +501,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Default",
       "The Duke's Dear Freja",
       "Crucible Knight and Golden Hippopotamus",
@@ -456,6 +511,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Default",
       "Valiant Gargoyle",
       "Outland Commander",
@@ -465,6 +521,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Default",
       "The Duke's Dear Freja",
       "Ancient Dragon",
@@ -474,6 +531,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Default",
       "Night's Cavalry Duo",
       "Crucible Knight and Golden Hippopotamus",
@@ -483,6 +541,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Default",
       "Valiant Gargoyle",
       "Crucible Knight and Golden Hippopotamus",
@@ -492,6 +551,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Default",
       "Valiant Gargoyle",
       "Ancient Dragon",
@@ -501,6 +561,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Default",
       "Wormface",
       "Outland Commander",
@@ -510,6 +571,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Default",
       "Wormface",
       "Ancient Dragon",
@@ -519,6 +581,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Default",
       "Valiant Gargoyle",
       "Ancient Dragon",
@@ -528,6 +591,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Default",
       "Wormface",
       "Outland Commander",
@@ -537,6 +601,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Default",
       "Gaping Dragon",
       "Crucible Knight and Golden Hippopotamus",
@@ -546,6 +611,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Mountaintop",
       "The Duke's Dear Freja",
       "Ancient Dragon",
@@ -555,6 +621,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Mountaintop",
       "Gaping Dragon",
       "Crucible Knight and Golden Hippopotamus",
@@ -564,6 +631,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Mountaintop",
       "Wormface",
       "Outland Commander",
@@ -573,6 +641,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Mountaintop",
       "Valiant Gargoyle",
       "Crucible Knight and Golden Hippopotamus",
@@ -582,6 +651,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Mountaintop",
       "Night's Cavalry Duo",
       "Ancient Dragon",
@@ -591,6 +661,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Crater",
       "Valiant Gargoyle",
       "Crucible Knight and Golden Hippopotamus",
@@ -600,6 +671,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Crater",
       "Gaping Dragon",
       "Outland Commander",
@@ -609,6 +681,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Crater",
       "Night's Cavalry Duo",
       "Ancient Dragon",
@@ -618,6 +691,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Crater",
       "The Duke's Dear Freja",
       "Ancient Dragon",
@@ -627,6 +701,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Crater",
       "Wormface",
       "Crucible Knight and Golden Hippopotamus",
@@ -636,6 +711,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Rotted Woods",
       "Valiant Gargoyle",
       "Ancient Dragon",
@@ -645,6 +721,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Rotted Woods",
       "The Duke's Dear Freja",
       "Outland Commander",
@@ -654,6 +731,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Rotted Woods",
       "Wormface",
       "Outland Commander",
@@ -663,6 +741,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Rotted Woods",
       "Gaping Dragon",
       "Ancient Dragon",
@@ -672,6 +751,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Rotted Woods",
       "Night's Cavalry Duo",
       "Crucible Knight and Golden Hippopotamus",
@@ -681,6 +761,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Noklateo",
       "Valiant Gargoyle",
       "Outland Commander",
@@ -690,6 +771,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Noklateo",
       "Night's Cavalry Duo",
       "Ancient Dragon",
@@ -699,6 +781,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Noklateo",
       "The Duke's Dear Freja",
       "Crucible Knight and Golden Hippopotamus",
@@ -708,6 +791,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Noklateo",
       "Wormface",
       "Outland Commander",
@@ -717,6 +801,7 @@
     ],
     [
       "Adel",
+	  "Normal",
       "Noklateo",
       "Gaping Dragon",
       "Ancient Dragon",
@@ -724,8 +809,14 @@
       "No",
       "Yes"
     ],
+	["Adel", "Normal", "None", "Valiant Gargoyle", "Ancient Dragon", "No", "Day 2 Caligo Raid", "No"],
+	["Adel", "Normal", "None", "Night's Cavalries", "Crucible Knight & Hippo", "No", "Day 2 Gladius Raid", "No"],
+	["Adel", "Normal", "None", "Night's Cavalries", "Crucible Knight & Hippo", "No", "Day 1 Gladius Raid", "No"],
+	["Adel", "Normal", "None", "Valiant Gargoyle", "Crucible Knight & Hippo", "No", "No", "No"],
+	["Adel", "Normal", "None", "Valiant Gargoyle", "Ancient Dragon", "No", "No", "No"],
     [
       "Sentient Pest",
+	  "Normal",
       "Default",
       "Tibia Mariner",
       "Great Wyrm",
@@ -735,6 +826,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Default",
       "Smelter Demon",
       "Dragonkin Soldier",
@@ -744,6 +836,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Default",
       "Smelter Demon",
       "Dragonkin Soldier",
@@ -753,6 +846,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Default",
       "Battlefield Commander",
       "Draconic Tree Sentinel and Royal Cavalrymen",
@@ -762,6 +856,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Default",
       "Tibia Mariner",
       "Draconic Tree Sentinel and Royal Cavalrymen",
@@ -771,6 +866,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Default",
       "Tibia Mariner",
       "Dragonkin Soldier",
@@ -780,6 +876,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Default",
       "Smelter Demon",
       "Draconic Tree Sentinel and Royal Cavalrymen",
@@ -789,6 +886,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Default",
       "Battlefield Commander",
       "Draconic Tree Sentinel and Royal Cavalrymen",
@@ -798,6 +896,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Default",
       "Ulcerated Tree Spirit",
       "Great Wyrm",
@@ -807,6 +906,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Default",
       "Smelter Demon",
       "Dragonkin Soldier",
@@ -816,6 +916,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Default",
       "Centipede Demon",
       "Dragonkin Soldier",
@@ -825,6 +926,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Default",
       "Centipede Demon",
       "Great Wyrm",
@@ -834,6 +936,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Default",
       "Battlefield Commander",
       "Dragonkin Soldier",
@@ -843,6 +946,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Default",
       "Ulcerated Tree Spirit",
       "Great Wyrm",
@@ -852,6 +956,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Default",
       "Battlefield Commander",
       "Great Wyrm",
@@ -861,6 +966,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Default",
       "Ulcerated Tree Spirit",
       "Draconic Tree Sentinel and Royal Cavalrymen",
@@ -870,6 +976,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Default",
       "Ulcerated Tree Spirit",
       "Great Wyrm",
@@ -879,6 +986,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Default",
       "Centipede Demon",
       "Great Wyrm",
@@ -888,6 +996,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Default",
       "Tibia Mariner",
       "Great Wyrm",
@@ -897,6 +1006,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Default",
       "Centipede Demon",
       "Draconic Tree Sentinel and Royal Cavalrymen",
@@ -906,6 +1016,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Mountaintop",
       "Smelter Demon",
       "Draconic Tree Sentinel and Royal Cavalrymen",
@@ -915,6 +1026,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Mountaintop",
       "Centipede Demon",
       "Great Wyrm",
@@ -924,6 +1036,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Mountaintop",
       "Tibia Mariner",
       "Draconic Tree Sentinel and Royal Cavalrymen",
@@ -933,6 +1046,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Mountaintop",
       "Battlefield Commander",
       "Great Wyrm",
@@ -942,6 +1056,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Mountaintop",
       "Ulcerated Tree Spirit",
       "Dragonkin Soldier",
@@ -951,6 +1066,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Crater",
       "Centipede Demon",
       "Dragonkin Soldier",
@@ -960,6 +1076,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Crater",
       "Tibia Mariner",
       "Dragonkin Soldier",
@@ -969,6 +1086,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Crater",
       "Smelter Demon",
       "Draconic Tree Sentinel and Royal Cavalrymen",
@@ -978,6 +1096,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Crater",
       "Ulcerated Tree Spirit",
       "Draconic Tree Sentinel and Royal Cavalrymen",
@@ -987,6 +1106,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Crater",
       "Battlefield Commander",
       "Draconic Tree Sentinel and Royal Cavalrymen",
@@ -996,6 +1116,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Rotted Woods",
       "Smelter Demon",
       "Great Wyrm",
@@ -1005,6 +1126,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Rotted Woods",
       "Centipede Demon",
       "Great Wyrm",
@@ -1014,6 +1136,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Rotted Woods",
       "Ulcerated Tree Spirit",
       "Dragonkin Soldier",
@@ -1023,6 +1146,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Rotted Woods",
       "Tibia Mariner",
       "Draconic Tree Sentinel and Royal Cavalrymen",
@@ -1032,6 +1156,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Rotted Woods",
       "Battlefield Commander",
       "Dragonkin Soldier",
@@ -1041,6 +1166,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Noklateo",
       "Ulcerated Tree Spirit",
       "Draconic Tree Sentinel and Royal Cavalrymen",
@@ -1050,6 +1176,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Noklateo",
       "Centipede Demon",
       "Dragonkin Soldier",
@@ -1059,6 +1186,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Noklateo",
       "Battlefield Commander",
       "Great Wyrm",
@@ -1068,6 +1196,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Noklateo",
       "Tibia Mariner",
       "Great Wyrm",
@@ -1077,6 +1206,7 @@
     ],
     [
       "Sentient Pest",
+	  "Normal",
       "Noklateo",
       "Smelter Demon",
       "Dragonkin Soldier",
@@ -1084,8 +1214,14 @@
       "No",
       "No"
     ],
+	  ["Sentient Pest", "Normal", "None", "Ulcerated Tree Spirit", "Draconic Tree Sentinel", "No", "No", "No"],
+	  ["Sentient Pest", "Normal", "None", "Ulcerated Tree Spirit", "Great Wyrm", "No", "Day 2 Caligo Raid", "No"],
+	  ["Sentient Pest", "Normal", "None", "Ulcerated Tree Spirit", "Great Wyrm", "No", "No", "No"],
+	  ["Sentient Pest", "Normal", "None", "Battlefield Commander", "Draconic Tree Sentinel", "No", "Day 2 Caligo Raid", "No"],
+	  ["Sentient Pest", "Normal", "None", "Battlefield Commander", "Draconic Tree Sentinel", "No", "Day 1 Gladius Raid", "Yes"],
     [
       "Augur",
+	  "Normal",
       "Default",
       "Gaping Dragon",
       "Godskin Duo",
@@ -1095,6 +1231,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Default",
       "Valiant Gargoyle",
       "Tree Sentinel and Royal Cavalrymen",
@@ -1104,6 +1241,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Default",
       "Wormface",
       "Godskin Duo",
@@ -1113,6 +1251,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Default",
       "Gaping Dragon",
       "Tree Sentinel and Royal Cavalrymen",
@@ -1122,6 +1261,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Default",
       "Wormface",
       "Fallingstar Beast",
@@ -1131,6 +1271,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Default",
       "Smelter Demon",
       "Fallingstar Beast",
@@ -1140,6 +1281,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Default",
       "Valiant Gargoyle",
       "Tree Sentinel and Royal Cavalrymen",
@@ -1149,6 +1291,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Default",
       "Grafted Monarch",
       "Fallingstar Beast",
@@ -1158,6 +1301,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Default",
       "Smelter Demon",
       "Tree Sentinel and Royal Cavalrymen",
@@ -1167,6 +1311,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Default",
       "Grafted Monarch",
       "Tree Sentinel and Royal Cavalrymen",
@@ -1176,6 +1321,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Default",
       "Smelter Demon",
       "Fallingstar Beast",
@@ -1185,6 +1331,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Default",
       "Gaping Dragon",
       "Fallingstar Beast",
@@ -1194,6 +1341,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Default",
       "Smelter Demon",
       "Godskin Duo",
@@ -1203,6 +1351,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Default",
       "Valiant Gargoyle",
       "Fallingstar Beast",
@@ -1212,6 +1361,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Default",
       "Wormface",
       "Tree Sentinel and Royal Cavalrymen",
@@ -1221,6 +1371,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Default",
       "Gaping Dragon",
       "Fallingstar Beast",
@@ -1230,6 +1381,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Default",
       "Wormface",
       "Godskin Duo",
@@ -1239,6 +1391,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Default",
       "Valiant Gargoyle",
       "Godskin Duo",
@@ -1248,6 +1401,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Default",
       "Grafted Monarch",
       "Godskin Duo",
@@ -1257,6 +1411,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Default",
       "Grafted Monarch",
       "Fallingstar Beast",
@@ -1266,6 +1421,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Mountaintop",
       "Valiant Gargoyle",
       "Tree Sentinel and Royal Cavalrymen",
@@ -1275,6 +1431,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Mountaintop",
       "Grafted Monarch",
       "Godskin Duo",
@@ -1284,6 +1441,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Mountaintop",
       "Smelter Demon",
       "Fallingstar Beast",
@@ -1293,6 +1451,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Mountaintop",
       "Wormface",
       "Tree Sentinel and Royal Cavalrymen",
@@ -1302,6 +1461,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Mountaintop",
       "Gaping Dragon",
       "Fallingstar Beast",
@@ -1311,6 +1471,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Crater",
       "Wormface",
       "Godskin Duo",
@@ -1320,6 +1481,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Crater",
       "Smelter Demon",
       "Fallingstar Beast",
@@ -1329,6 +1491,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Crater",
       "Grafted Monarch",
       "Fallingstar Beast",
@@ -1338,6 +1501,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Crater",
       "Gaping Dragon",
       "Tree Sentinel and Royal Cavalrymen",
@@ -1347,6 +1511,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Crater",
       "Valiant Gargoyle",
       "Godskin Duo",
@@ -1356,6 +1521,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Rotted Woods",
       "Wormface",
       "Tree Sentinel and Royal Cavalrymen",
@@ -1365,6 +1531,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Rotted Woods",
       "Gaping Dragon",
       "Fallingstar Beast",
@@ -1374,6 +1541,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Rotted Woods",
       "Grafted Monarch",
       "Fallingstar Beast",
@@ -1383,6 +1551,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Rotted Woods",
       "Smelter Demon",
       "Godskin Duo",
@@ -1392,6 +1561,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Rotted Woods",
       "Valiant Gargoyle",
       "Godskin Duo",
@@ -1401,6 +1571,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Noklateo",
       "Grafted Monarch",
       "Godskin Duo",
@@ -1410,6 +1581,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Noklateo",
       "Gaping Dragon",
       "Fallingstar Beast",
@@ -1419,6 +1591,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Noklateo",
       "Valiant Gargoyle",
       "Tree Sentinel and Royal Cavalrymen",
@@ -1428,6 +1601,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Noklateo",
       "Smelter Demon",
       "Fallingstar Beast",
@@ -1437,6 +1611,7 @@
     ],
     [
       "Augur",
+	  "Normal",
       "Noklateo",
       "Wormface",
       "Godskin Duo",
@@ -1444,8 +1619,14 @@
       "No",
       "No"
     ],
+	["Augur", "Normal", "None", "Valiant Gargoyle", "Godskin Duo", "No", "No", "No"],
+	["Augur", "Normal", "None", "Grafted Monarch", "Fallingstar Beast", "No", "No", "No"],
+	["Augur", "Normal", "None", "Grafted Monarch", "Godskin Duo", "No", "Day 1 Balancers Raid", "No"],
+	["Augur", "Normal", "None", "Valiant Gargoyle", "Godskin Duo", "No", "Day 2 Caligo Raid", "Yes"],
+	["Augur", "Normal", "None", "Grafted Monarch", "Fallingstar Beast", "No", "Day 1 Balancers Raid", "No"],
     [
       "Libra",
+	  "Normal",
       "Default",
       "Battlefield Commander",
       "Crucible Knight and Golden Hippopotamus",
@@ -1455,6 +1636,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Default",
       "Tibia Mariner",
       "Death Rite Bird",
@@ -1464,6 +1646,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Default",
       "Centipede Demon",
       "Death Rite Bird",
@@ -1473,6 +1656,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Default",
       "Tibia Mariner",
       "Crucible Knight and Golden Hippopotamus",
@@ -1482,6 +1666,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Default",
       "Centipede Demon",
       "Godskin Duo",
@@ -1491,6 +1676,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Default",
       "Battlefield Commander",
       "Death Rite Bird",
@@ -1500,6 +1686,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Default",
       "The Duke's Dear Freja",
       "Crucible Knight and Golden Hippopotamus",
@@ -1509,6 +1696,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Default",
       "The Duke's Dear Freja",
       "Death Rite Bird",
@@ -1518,6 +1706,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Default",
       "Royal Revenant",
       "Death Rite Bird",
@@ -1527,6 +1716,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Default",
       "Tibia Mariner",
       "Godskin Duo",
@@ -1536,6 +1726,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Default",
       "Royal Revenant",
       "Death Rite Bird",
@@ -1545,6 +1736,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Default",
       "The Duke's Dear Freja",
       "Death Rite Bird",
@@ -1554,6 +1746,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Default",
       "Centipede Demon",
       "Godskin Duo",
@@ -1563,6 +1756,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Default",
       "The Duke's Dear Freja",
       "Death Rite Bird",
@@ -1572,6 +1766,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Default",
       "Centipede Demon",
       "Crucible Knight and Golden Hippopotamus",
@@ -1581,6 +1776,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Default",
       "Tibia Mariner",
       "Crucible Knight and Golden Hippopotamus",
@@ -1590,6 +1786,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Default",
       "Battlefield Commander",
       "Godskin Duo",
@@ -1599,6 +1796,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Default",
       "Battlefield Commander",
       "Death Rite Bird",
@@ -1608,6 +1806,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Default",
       "Royal Revenant",
       "Crucible Knight and Golden Hippopotamus",
@@ -1617,6 +1816,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Default",
       "Royal Revenant",
       "Death Rite Bird",
@@ -1626,6 +1826,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Mountaintop",
       "Royal Revenant",
       "Crucible Knight and Golden Hippopotamus",
@@ -1635,6 +1836,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Mountaintop",
       "Centipede Demon",
       "Godskin Duo",
@@ -1644,6 +1846,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Mountaintop",
       "Battlefield Commander",
       "Death Rite Bird",
@@ -1653,6 +1856,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Mountaintop",
       "The Duke's Dear Freja",
       "Crucible Knight and Golden Hippopotamus",
@@ -1662,6 +1866,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Mountaintop",
       "Tibia Mariner",
       "Death Rite Bird",
@@ -1671,6 +1876,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Crater",
       "Centipede Demon",
       "Death Rite Bird",
@@ -1680,6 +1886,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Crater",
       "Royal Revenant",
       "Godskin Duo",
@@ -1689,6 +1896,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Crater",
       "The Duke's Dear Freja",
       "Crucible Knight and Golden Hippopotamus",
@@ -1698,6 +1906,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Crater",
       "Tibia Mariner",
       "Death Rite Bird",
@@ -1707,6 +1916,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Crater",
       "Battlefield Commander",
       "Crucible Knight and Golden Hippopotamus",
@@ -1716,6 +1926,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Rotted Woods",
       "The Duke's Dear Freja",
       "Crucible Knight and Golden Hippopotamus",
@@ -1725,6 +1936,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Rotted Woods",
       "Battlefield Commander",
       "Crucible Knight and Golden Hippopotamus",
@@ -1734,6 +1946,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Rotted Woods",
       "Centipede Demon",
       "Death Rite Bird",
@@ -1743,6 +1956,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Rotted Woods",
       "Royal Revenant",
       "Godskin Duo",
@@ -1752,6 +1966,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Rotted Woods",
       "Tibia Mariner",
       "Death Rite Bird",
@@ -1761,6 +1976,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Noklateo",
       "Battlefield Commander",
       "Godskin Duo",
@@ -1770,6 +1986,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Noklateo",
       "The Duke's Dear Freja",
       "Crucible Knight and Golden Hippopotamus",
@@ -1779,6 +1996,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Noklateo",
       "Centipede Demon",
       "Crucible Knight and Golden Hippopotamus",
@@ -1788,6 +2006,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Noklateo",
       "Tibia Mariner",
       "Death Rite Bird",
@@ -1797,6 +2016,7 @@
     ],
     [
       "Libra",
+	  "Normal",
       "Noklateo",
       "Royal Revenant",
       "Death Rite Bird",
@@ -1804,8 +2024,14 @@
       "No",
       "No"
     ],
+	["Libra", "Normal", "None", "Royal Revenant", "Death Rite Bird", "No", "Day 2 Gladius Raid", "No"],
+	["Libra", "Normal", "None", "Royal Revenant", "Crucible Knight & Hippo", "No", "No", "No"],
+	["Libra", "Normal", "None", "Royal Revenant", "Crucible Knight & Hippo", "No", "Day 1 Balancers Raid", "No"],
+	["Libra", "Normal", "None", "Battlefield Commander", "Crucible Knight & Hippo", "No", "Day 1 Balancers Raid", "Yes"],
+	["Libra", "Normal", "None", "Battlefield Commander", "Death Rite Bird", "No", "No", "No"],
     [
       "Fulghor",
+	  "Normal",
       "Default",
       "Gaping Dragon",
       "Nameless King",
@@ -1815,6 +2041,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Default",
       "Royal Revenant",
       "Outland Commander",
@@ -1824,6 +2051,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Default",
       "Centipede Demon",
       "Outland Commander",
@@ -1833,6 +2061,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Default",
       "Wormface",
       "Nameless King",
@@ -1842,6 +2071,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Default",
       "Night's Cavalry Duo",
       "Outland Commander",
@@ -1851,6 +2081,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Default",
       "Centipede Demon",
       "Nameless King",
@@ -1860,6 +2091,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Default",
       "Night's Cavalry Duo",
       "Dragonkin Soldier",
@@ -1869,6 +2101,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Default",
       "Wormface",
       "Dragonkin Soldier",
@@ -1878,6 +2111,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Default",
       "Wormface",
       "Outland Commander",
@@ -1887,6 +2121,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Default",
       "Centipede Demon",
       "Nameless King",
@@ -1896,6 +2131,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Default",
       "Centipede Demon",
       "Nameless King",
@@ -1905,6 +2141,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Default",
       "Gaping Dragon",
       "Dragonkin Soldier",
@@ -1914,6 +2151,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Default",
       "Gaping Dragon",
       "Nameless King",
@@ -1923,6 +2161,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Default",
       "Royal Revenant",
       "Dragonkin Soldier",
@@ -1932,6 +2171,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Default",
       "Night's Cavalry Duo",
       "Nameless King",
@@ -1941,6 +2181,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Default",
       "Night's Cavalry Duo",
       "Nameless King",
@@ -1950,6 +2191,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Default",
       "Gaping Dragon",
       "Dragonkin Soldier",
@@ -1959,6 +2201,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Default",
       "Royal Revenant",
       "Outland Commander",
@@ -1968,6 +2211,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Default",
       "Wormface",
       "Nameless King",
@@ -1977,6 +2221,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Default",
       "Royal Revenant",
       "Nameless King",
@@ -1986,6 +2231,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Mountaintop",
       "Wormface",
       "Dragonkin Soldier",
@@ -1995,6 +2241,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Mountaintop",
       "Gaping Dragon",
       "Outland Commander",
@@ -2004,6 +2251,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Mountaintop",
       "Royal Revenant",
       "Nameless King",
@@ -2013,6 +2261,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Mountaintop",
       "Centipede Demon",
       "Nameless King",
@@ -2022,6 +2271,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Mountaintop",
       "Night's Cavalry Duo",
       "Dragonkin Soldier",
@@ -2031,6 +2281,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Crater",
       "Centipede Demon",
       "Outland Commander",
@@ -2040,6 +2291,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Crater",
       "Royal Revenant",
       "Dragonkin Soldier",
@@ -2049,6 +2301,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Crater",
       "Gaping Dragon",
       "Nameless King",
@@ -2058,6 +2311,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Crater",
       "Wormface",
       "Dragonkin Soldier",
@@ -2067,6 +2321,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Crater",
       "Night's Cavalry Duo",
       "Nameless King",
@@ -2076,6 +2331,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Rotted Woods",
       "Centipede Demon",
       "Dragonkin Soldier",
@@ -2085,6 +2341,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Rotted Woods",
       "Wormface",
       "Nameless King",
@@ -2094,6 +2351,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Rotted Woods",
       "Gaping Dragon",
       "Outland Commander",
@@ -2103,6 +2361,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Rotted Woods",
       "Royal Revenant",
       "Nameless King",
@@ -2112,6 +2371,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Rotted Woods",
       "Night's Cavalry Duo",
       "Outland Commander",
@@ -2121,6 +2381,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Noklateo",
       "Wormface",
       "Dragonkin Soldier",
@@ -2130,6 +2391,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Noklateo",
       "Gaping Dragon",
       "Nameless King",
@@ -2139,6 +2401,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Noklateo",
       "Royal Revenant",
       "Outland Commander",
@@ -2148,6 +2411,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Noklateo",
       "Night's Cavalry Duo",
       "Nameless King",
@@ -2157,6 +2421,7 @@
     ],
     [
       "Fulghor",
+	  "Normal",
       "Noklateo",
       "Centipede Demon",
       "Outland Commander",
@@ -2164,8 +2429,14 @@
       "Day 2 Libra Curse",
       "No"
     ],
+	["Fulghor", "Normal", "None", "Royal Revenant", "Outland Commander", "No", "Day 2 Gladius Raid", "No"],
+	["Fulghor", "Normal", "None", "Night's Cavalries", "Outland Commander", "No", "No", "No"],
+	["Fulghor", "Normal", "None", "Royal Revenant", "Nameless King", "No", "No", "No"],
+	["Fulghor", "Normal", "None", "Night's Cavalries", "Outland Commander", "No", "Day 1 Balancers Raid", "Yes"],
+	["Fulghor", "Normal", "None", "Royal Revenant", "Nameless King", "No", "Day 1 Balancers Raid", "No"],
     [
       "Caligo",
+	  "Normal",
       "Default",
       "Ulcerated Tree Spirit",
       "Dancer of the Boreal Valley",
@@ -2175,6 +2446,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Default",
       "Ulcerated Tree Spirit",
       "Dancer of the Boreal Valley",
@@ -2184,6 +2456,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Default",
       "Smelter Demon",
       "Dancer of the Boreal Valley",
@@ -2193,6 +2466,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Default",
       "Grafted Monarch",
       "Dancer of the Boreal Valley",
@@ -2202,6 +2476,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Default",
       "Smelter Demon",
       "Draconic Tree Sentinel and Royal Cavalrymen",
@@ -2211,6 +2486,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Default",
       "The Duke's Dear Freja",
       "Godskin Duo",
@@ -2220,6 +2496,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Default",
       "Grafted Monarch",
       "Dancer of the Boreal Valley",
@@ -2229,6 +2506,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Default",
       "The Duke's Dear Freja",
       "Draconic Tree Sentinel and Royal Cavalrymen",
@@ -2238,6 +2516,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Default",
       "Tibia Mariner",
       "Draconic Tree Sentinel and Royal Cavalrymen",
@@ -2247,6 +2526,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Default",
       "Smelter Demon",
       "Dancer of the Boreal Valley",
@@ -2256,6 +2536,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Default",
       "Grafted Monarch",
       "Draconic Tree Sentinel and Royal Cavalrymen",
@@ -2265,6 +2546,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Default",
       "Ulcerated Tree Spirit",
       "Dancer of the Boreal Valley",
@@ -2274,6 +2556,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Default",
       "Grafted Monarch",
       "Godskin Duo",
@@ -2283,6 +2566,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Default",
       "Smelter Demon",
       "Dancer of the Boreal Valley",
@@ -2292,6 +2576,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Default",
       "Tibia Mariner",
       "Godskin Duo",
@@ -2301,6 +2586,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Default",
       "The Duke's Dear Freja",
       "Draconic Tree Sentinel and Royal Cavalrymen",
@@ -2310,6 +2596,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Default",
       "Ulcerated Tree Spirit",
       "Godskin Duo",
@@ -2319,6 +2606,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Default",
       "The Duke's Dear Freja",
       "Dancer of the Boreal Valley",
@@ -2328,6 +2616,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Default",
       "Tibia Mariner",
       "Draconic Tree Sentinel and Royal Cavalrymen",
@@ -2337,6 +2626,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Default",
       "Tibia Mariner",
       "Dancer of the Boreal Valley",
@@ -2346,6 +2636,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Mountaintop",
       "Ulcerated Tree Spirit",
       "Godskin Duo",
@@ -2355,6 +2646,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Mountaintop",
       "Smelter Demon",
       "Dancer of the Boreal Valley",
@@ -2364,6 +2656,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Mountaintop",
       "Grafted Monarch",
       "Draconic Tree Sentinel and Royal Cavalrymen",
@@ -2373,6 +2666,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Mountaintop",
       "Tibia Mariner",
       "Dancer of the Boreal Valley",
@@ -2382,6 +2676,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Mountaintop",
       "The Duke's Dear Freja",
       "Draconic Tree Sentinel and Royal Cavalrymen",
@@ -2391,6 +2686,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Crater",
       "Grafted Monarch",
       "Dancer of the Boreal Valley",
@@ -2400,6 +2696,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Crater",
       "The Duke's Dear Freja",
       "Dancer of the Boreal Valley",
@@ -2409,6 +2706,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Crater",
       "Smelter Demon",
       "Godskin Duo",
@@ -2418,6 +2716,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Crater",
       "Ulcerated Tree Spirit",
       "Draconic Tree Sentinel and Royal Cavalrymen",
@@ -2427,6 +2726,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Crater",
       "Tibia Mariner",
       "Draconic Tree Sentinel and Royal Cavalrymen",
@@ -2436,6 +2736,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Rotted Woods",
       "The Duke's Dear Freja",
       "Dancer of the Boreal Valley",
@@ -2445,6 +2746,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Rotted Woods",
       "Smelter Demon",
       "Godskin Duo",
@@ -2454,6 +2756,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Rotted Woods",
       "Tibia Mariner",
       "Draconic Tree Sentinel and Royal Cavalrymen",
@@ -2463,6 +2766,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Rotted Woods",
       "Ulcerated Tree Spirit",
       "Draconic Tree Sentinel and Royal Cavalrymen",
@@ -2472,6 +2776,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Rotted Woods",
       "Grafted Monarch",
       "Dancer of the Boreal Valley",
@@ -2481,6 +2786,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Noklateo",
       "Grafted Monarch",
       "Godskin Duo",
@@ -2490,6 +2796,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Noklateo",
       "The Duke's Dear Freja",
       "Dancer of the Boreal Valley",
@@ -2499,6 +2806,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Noklateo",
       "Tibia Mariner",
       "Draconic Tree Sentinel and Royal Cavalrymen",
@@ -2508,6 +2816,7 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Noklateo",
       "Ulcerated Tree Spirit",
       "Draconic Tree Sentinel and Royal Cavalrymen",
@@ -2517,15 +2826,22 @@
     ],
     [
       "Caligo",
+	  "Normal",
       "Noklateo",
       "Smelter Demon",
       "Dancer of the Boreal Valley",
       "No",
       "No",
       "No"
-    ],
+    ],  
+	["Caligo", "Normal", "None", "Grafted Monarch", "Draconic Tree Sentinel", "No", "Day 1 Balancers Raid", "Yes"],
+	["Caligo", "Normal", "None", "Grafted Monarch", "Draconic Tree Sentinel", "No", "Day 1 Gladius Raid", "No"],
+	["Caligo", "Normal", "None", "Ulcerated Tree Spirit", "Dancer", "No", "No", "No"],
+	["Caligo", "Normal", "None", "Ulcerated Tree Spirit", "Dancer", "No", "No", "No"],
+	["Caligo", "Normal", "None", "Grafted Monarch", "Draconic Tree Sentinel", "No", "Day 1 Balancers Raid", "No"],
     [
       "Heolstor",
+	  "Normal",
       "Default",
       "Valiant Gargoyle",
       "Death Rite Bird",
@@ -2535,6 +2851,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Default",
       "Smelter Demon",
       "Great Wyrm",
@@ -2544,6 +2861,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Default",
       "The Duke's Dear Freja",
       "Ancient Dragon",
@@ -2553,6 +2871,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Default",
       "Valiant Gargoyle",
       "Dancer of the Boreal Valley",
@@ -2562,6 +2881,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Default",
       "Battlefield Commander",
       "Crucible Knight and Golden Hippopotamus",
@@ -2571,6 +2891,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Default",
       "Wormface",
       "Morgott",
@@ -2580,6 +2901,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Default",
       "Ulcerated Tree Spirit",
       "Death Rite Bird",
@@ -2589,6 +2911,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Default",
       "Royal Revenant",
       "Nameless King",
@@ -2598,6 +2921,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Default",
       "Demi-Human Queen and Swordmaster",
       "Draconic Tree Sentinel and Royal Cavalrymen",
@@ -2607,6 +2931,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Default",
       "Bell Bearing Hunter",
       "Dragonkin Soldier",
@@ -2616,6 +2941,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Default",
       "Night's Cavalry Duo",
       "Fallingstar Beast",
@@ -2625,6 +2951,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Default",
       "Gaping Dragon",
       "Ancient Dragon",
@@ -2634,6 +2961,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Default",
       "Centipede Demon",
       "Nameless King",
@@ -2643,6 +2971,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Default",
       "Ulcerated Tree Spirit",
       "Outland Commander",
@@ -2652,6 +2981,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Default",
       "Royal Revenant",
       "Great Wyrm",
@@ -2661,6 +2991,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Default",
       "Grafted Monarch",
       "Godskin Duo",
@@ -2670,6 +3001,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Default",
       "Tibia Mariner",
       "Tree Sentinel and Royal Cavalrymen",
@@ -2679,6 +3011,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Default",
       "Night's Cavalry Duo",
       "Outland Commander",
@@ -2688,6 +3021,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Default",
       "Battlefield Commander",
       "Fallingstar Beast",
@@ -2697,6 +3031,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Default",
       "Grafted Monarch",
       "Dancer of the Boreal Valley",
@@ -2706,6 +3041,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Mountaintop",
       "Valiant Gargoyle",
       "Great Wyrm",
@@ -2715,6 +3051,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Mountaintop",
       "Night's Cavalry Duo",
       "Dragonkin Soldier",
@@ -2724,6 +3061,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Mountaintop",
       "Tibia Mariner",
       "Fallingstar Beast",
@@ -2733,6 +3071,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Mountaintop",
       "Battlefield Commander",
       "Great Wyrm",
@@ -2742,6 +3081,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Mountaintop",
       "Wormface",
       "Death Rite Bird",
@@ -2751,6 +3091,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Crater",
       "Grafted Monarch",
       "Crucible Knight and Golden Hippopotamus",
@@ -2760,6 +3101,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Crater",
       "Bell Bearing Hunter",
       "Morgott",
@@ -2769,6 +3111,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Crater",
       "Royal Revenant",
       "Draconic Tree Sentinel and Royal Cavalrymen",
@@ -2778,6 +3121,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Crater",
       "Demi-Human Queen and Swordmaster",
       "Outland Commander",
@@ -2787,6 +3131,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Crater",
       "Ulcerated Tree Spirit",
       "Tree Sentinel and Royal Cavalrymen",
@@ -2796,6 +3141,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Rotted Woods",
       "Gaping Dragon",
       "Nameless King",
@@ -2805,6 +3151,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Rotted Woods",
       "Demi-Human Queen and Swordmaster",
       "Ancient Dragon",
@@ -2814,6 +3161,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Rotted Woods",
       "The Duke's Dear Freja",
       "Dancer of the Boreal Valley",
@@ -2823,6 +3171,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Rotted Woods",
       "Smelter Demon",
       "Great Wyrm",
@@ -2832,6 +3181,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Rotted Woods",
       "Centipede Demon",
       "Morgott",
@@ -2841,6 +3191,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Noklateo",
       "Valiant Gargoyle",
       "Dancer of the Boreal Valley",
@@ -2850,6 +3201,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Noklateo",
       "Royal Revenant",
       "Ancient Dragon",
@@ -2859,6 +3211,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Noklateo",
       "Bell Bearing Hunter",
       "Fallingstar Beast",
@@ -2868,6 +3221,7 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Noklateo",
       "Ulcerated Tree Spirit",
       "Death Rite Bird",
@@ -2877,12 +3231,180 @@
     ],
     [
       "Heolstor",
+	  "Normal",
       "Noklateo",
       "Grafted Monarch",
       "Nameless King",
       "No",
       "Day 2 Libra Curse",
       "No"
-    ]
+    ],
+	["Heolstor", "Normal", "None", "Battlefield Commander", "Tree Sentinel", "No", "Day 2 Gladius Raid", "No"],
+	["Heolstor", "Normal", "None", "Night's Cavalries", "Crucible Knight & Hippo", "No", "No", "No"],
+	["Heolstor", "Normal", "None", "Night's Cavalries", "Tree Sentinel", "No", "Day 1 Caligo Raid", "No"],
+	["Heolstor", "Normal", "None", "Valiant Gargoyle", "Draconic Tree Sentinel", "No", "No", "No"],
+	["Heolstor", "Normal", "None", "Valiant Gargoyle", "Crucible Knight & Hippo", "No", "Day 1 Balancers Raid", "No"],
+	
+	["Balancers", "Normal", "None", "DBW & Curseblade", "Mohg", "No", "Frenzy Tower", "Yes"],
+	["Balancers", "Normal", "None", "DBW & Curseblade", "Mohg", "No", "Day 2 Gladius Raid", "Yes"],
+	["Balancers", "Normal", "None", "Demons", "Demon Prince", "No", "Day 1 Gladius Raid", "No"],
+	["Balancers", "Normal", "None", "Demons", "Demon Prince", "No", "No", "No"],
+	["Balancers", "Normal", "None", "Demons", "Demon Prince", "No", "No", "No"],
+	["Balancers", "Normal", "None", "DBW & Curseblade", "Mohg", "No", "No", "Yes"],
+	["Balancers", "Normal", "None", "DBW & Curseblade", "Mohg", "No", "Day 2 Gladius Raid", "Yes"],
+	["Balancers", "Normal", "None", "DBW & Curseblade", "Mohg", "Yes", "Extra Night 2 Boss", "Yes"],
+	["Balancers", "Normal", "None", "Demons", "Demon Prince", "No", "Day 1 Gladius Raid", "No"],
+	["Balancers", "Normal", "None", "DBW & Curseblade", "Mohg", "No", "Day 1 Caligo Raid", "Yes"],
+	["Balancers", "Normal", "None", "DBW & Curseblade", "Mohg", "No", "No", "Yes"],
+	["Balancers", "Normal", "None", "Demons", "Demon Prince", "No", "No", "No"],
+	["Balancers", "Normal", "None", "DBW & Curseblade", "Mohg", "No", "Day 2 Gladius Raid", "Yes"],
+	["Balancers", "Normal", "None", "Demons", "Demon Prince", "No", "Walking Mausoleum", "No"],
+	["Balancers", "Normal", "None", "Demons", "Demon Prince", "No", "Day 2 Caligo Raid", "Yes"],
+	["Balancers", "Normal", "None", "Demons", "Demon Prince", "No", "Day 1 Caligo Raid", "No"],
+	["Balancers", "Normal", "None", "DBW & Curseblade", "Mohg", "No", "Day 2 Meteor", "Yes"],
+	["Balancers", "Normal", "None", "Demons", "Demon Prince", "No", "No", "No"],
+	["Balancers", "Normal", "None", "DBW & Curseblade", "Mohg", "No", "Day 1 Gladius Raid", "Yes"],
+	["Balancers", "Normal", "None", "Demons", "Demon Prince", "No", "No", "Yes"],
+	["Balancers", "Normal", "Mountaintops", "Demons", "Demon Prince", "No", "Day 2 Night Horde", "Yes"],
+	["Balancers", "Normal", "Mountaintops", "DBW & Curseblade", "Mohg", "No", "Day 2 Gladius Raid", "Yes"],
+	["Balancers", "Normal", "Mountaintops", "DBW & Curseblade", "Mohg", "Yes", "Extra Night 1 Boss", "Yes"],
+	["Balancers", "Normal", "Mountaintops", "DBW & Curseblade", "Mohg", "No", "No", "Yes"],
+	["Balancers", "Normal", "Mountaintops", "Demons", "Demon Prince", "No", "No", "No"],
+	["Balancers", "Normal", "Crater", "DBW & Curseblade", "Mohg", "No", "Day 1 Gladius Raid", "Yes"],
+	["Balancers", "Normal", "Crater", "Demons", "Demon Prince", "No", "No", "No"],
+	["Balancers", "Normal", "Crater", "Demons", "Demon Prince", "No", "Day 1 Caligo Raid", "No"],
+	["Balancers", "Normal", "Crater", "DBW & Curseblade", "Mohg", "No", "No", "Yes"],
+	["Balancers", "Normal", "Crater", "Demons", "Demon Prince", "No", "Walking Mausoleum", "No"],
+	["Balancers", "Normal", "Rotted Woods", "Demons", "Demon Prince", "No", "Day 2 Caligo Raid", "No"],
+	["Balancers", "Normal", "Rotted Woods", "DBW & Curseblade", "Mohg", "No", "Day 1 Gladius Raid", "Yes"],
+	["Balancers", "Normal", "Rotted Woods", "Demons", "Demon Prince", "No", "No", "No"],
+	["Balancers", "Normal", "Rotted Woods", "DBW & Curseblade", "Mohg", "No", "No", "Yes"],
+	["Balancers", "Normal", "Rotted Woods", "DBW & Curseblade", "Mohg", "No", "Day 2 Meteor", "Yes"],
+	["Balancers", "Normal", "Noklateo", "Demons", "Demon Prince", "No", "Day 2 Gladius Raid", "Yes"],
+	["Balancers", "Normal", "Noklateo", "Demons", "Demon Prince", "No", "No", "No"],
+	["Balancers", "Normal", "Noklateo", "DBW & Curseblade", "Mohg", "No", "No", "Yes"],
+	["Balancers", "Normal", "Noklateo", "DBW & Curseblade", "Mohg", "No", "Day 2 Caligo Raid", "Yes"],
+	["Balancers", "Normal", "Noklateo", "Demons", "Demon Prince", "No", "No", "No"],
+	["Dreglord", "Normal", "None", "Great Red Bear", "Dancing Lion", "No", "Day 1 Gnoster Raid", "No"],
+	["Dreglord", "Normal", "None", "Great Red Bear", "Dancing Lion", "No", "No", "No"],
+	["Dreglord", "Normal", "None", "Great Red Bear", "Dancing Lion", "No", "Day 1 Balancers Raid", "No"],
+	["Dreglord", "Normal", "None", "Great Red Bear", "Dancing Lion", "No", "No", "No"],
+	["Dreglord", "Normal", "None", "Death Knights", "Artorias", "No", "No", "No"],
+	["Dreglord", "Normal", "None", "Death Knights", "Artorias", "No", "No", "No"],
+	["Dreglord", "Normal", "None", "Death Knights", "Artorias", "No", "Day 2 Caligo Raid", "No"],
+	["Dreglord", "Normal", "None", "Death Knights", "Dancing Lion", "No", "Day 1 Balancers Raid", "No"],
+	["Dreglord", "Normal", "None", "Great Red Bear", "Dancing Lion", "No", "Day 2 Libra Raid", "No"],
+	["Dreglord", "Normal", "None", "Death Knights", "Dancing Lion", "No", "Day 1 Caligo Raid", "No"],
+	["Dreglord", "Normal", "None", "Great Red Bear", "Artorias", "No", "No", "No"],
+	["Dreglord", "Normal", "None", "Great Red Bear", "Dancing Lion", "No", "Day 1 Balancers Raid", "Yes"],
+	["Dreglord", "Normal", "None", "Death Knights", "Artorias", "No", "Day 1 Morgott Raid", "Yes"],
+	["Dreglord", "Normal", "None", "Death Knights", "Artorias", "No", "No", "Yes"],
+	["Dreglord", "Normal", "None", "Death Knights", "Artorias", "No", "Day 2 Maris Raid", "Yes"],
+	["Dreglord", "Normal", "None", "Great Red Bear", "Dancing Lion", "No", "Day 2 Gladius Raid", "Yes"],
+	["Dreglord", "Normal", "None", "Death Knights", "Artorias", "No", "Day 1 Balancers Raid", "Yes"],
+	["Dreglord", "Normal", "None", "Death Knights", "Artorias", "No", "No", "Yes"],
+	["Dreglord", "Normal", "None", "Great Red Bear", "Artorias", "No", "Day 1 Balancers Raid", "No"],
+	["Dreglord", "Normal", "None", "Great Red Bear", "Dancing Lion", "No", "Day 1 Gladius Raid", "No"],
+	["Dreglord", "Normal", "Mountaintops", "Great Red Bear", "Dancing Lion", "No", "Day 2 Libra Raid", "No"],
+	["Dreglord", "Normal", "Mountaintops", "Great Red Bear", "Artorias", "No", "Day 1 Morgott Raid", "No"],
+	["Dreglord", "Normal", "Mountaintops", "Death Knights", "Dancing Lion", "No", "Day 1 Balancers Raid", "No"],
+	["Dreglord", "Normal", "Mountaintops", "Death Knights", "Artorias", "No", "No", "Yes"],
+	["Dreglord", "Normal", "Mountaintops", "Death Knights", "Artorias", "No", "No", "No"],
+	["Dreglord", "Normal", "Crater", "Great Red Bear", "Dancing Lion", "No", "Day 1 Balancers Raid", "No"],
+	["Dreglord", "Normal", "Crater", "Death Knights", "Dancing Lion", "No", "Day 1 Maris Raid", "No"],
+	["Dreglord", "Normal", "Crater", "Death Knights", "Artorias", "No", "Day 2 Caligo Raid", "No"],
+	["Dreglord", "Normal", "Crater", "Great Red Bear", "Dancing Lion", "No", "No", "No"],
+	["Dreglord", "Normal", "Crater", "Great Red Bear", "Artorias", "No", "No", "Yes"],
+	["Dreglord", "Normal", "Rotted Woods", "Death Knights", "Artorias", "No", "Day 1 Balancers Raid", "No"],
+	["Dreglord", "Normal", "Rotted Woods", "Death Knights", "Artorias", "No", "Day 2 Gnoster Raid", "No"],
+	["Dreglord", "Normal", "Rotted Woods", "Death Knights", "Artorias", "No", "Day 2 Caligo Raid", "No"],
+	["Dreglord", "Normal", "Rotted Woods", "Great Red Bear", "Dancing Lion", "No", "No", "Yes"],
+	["Dreglord", "Normal", "Rotted Woods", "Great Red Bear", "Dancing Lion", "No", "No", "No"],
+	["Dreglord", "Normal", "Noklateo", "Great Red Bear", "Artorias", "No", "No", "Yes"],
+	["Dreglord", "Normal", "Noklateo", "Great Red Bear", "Artorias", "No", "Day 2 Morgott Raid", "No"],
+	["Dreglord", "Normal", "Noklateo", "Death Knights", "Dancing Lion", "No", "Day 1 Balancers Raid", "No"],
+	["Dreglord", "Normal", "Noklateo", "Great Red Bear", "Dancing Lion", "No", "No", "No"],
+	["Dreglord", "Normal", "Noklateo", "Death Knights", "Dancing Lion", "No", "Day 2 Caligo Raid", "No"],
+	
+	["Gladius", "DLC", "None", "Bell Bearing Hunter", "Morgott", "No", "No", "No"],
+	["Gladius", "DLC", "None", "Demihuman Queen & Swordmaster", "Morgott", "No", "Day 1 Caligo Raid", "No"],
+	["Gladius", "DLC", "None", "Bell Bearing Hunter", "Morgott", "No", "Frenzy Tower", "No"],
+	["Gladius", "DLC", "None", "Bell Bearing Hunter", "Tree Sentinel", "Yes", "Extra Night 1 Boss", "No"],
+	["Gladius", "DLC", "None", "Demihuman Queen & Swordmaster", "Tree Sentinel", "No", "No", "No"],
+	["Adel", "DLC", "None", "Night's Cavalries", "Ancient Dragon", "No", "Day 2 Gladius Raid", "Yes"],
+	["Adel", "DLC", "None", "Wormface", "Crucible Knight & Hippo", "Yes", "Extra Night 1 Boss", "No"],
+	["Adel", "DLC", "None", "Night's Cavalries", "Outland Commander", "No", "No", "No"],
+	["Adel", "DLC", "None", "Valiant Gargoyle", "Outland Commander", "No", "No", "No"],
+	["Adel", "DLC", "None", "Valiant Gargoyle", "Ancient Dragon", "No", "Day 2 Caligo Raid", "No"],
+	["Sentient Pest", "DLC", "None", "Smelter Demon", "Draconic Tree Sentinel", "No", "No", "No"],
+	["Sentient Pest", "DLC", "None", "Tibia Mariner", "Great Wyrm", "No", "Frenzy Tower", "No"],
+	["Sentient Pest", "DLC", "None", "Ulcerated Tree Spirit", "Dragonkin Soldier", "No", "Day 2 Gladius Raid", "Yes"],
+	["Sentient Pest", "DLC", "None", "Battlefield Commander", "Dragonkin Soldier", "No", "No", "Yes"],
+	["Sentient Pest", "DLC", "None", "Centipede Demon", "Great Wyrm", "No", "Day 2 Maris Raid", "Yes"],
+	["Augur", "DLC", "None", "Wormface", "Godskin Duo", "Yes", "Extra Night 2 Boss", "Yes"],
+	["Augur", "DLC", "None", "Valiant Gargoyle", "Fallingstar Beast", "No", "No", "No"],
+	["Augur", "DLC", "None", "Gaping Dragon", "Tree Sentinel", "No", "Day 1 Gnoster Raid", "Yes"],
+	["Augur", "DLC", "None", "Grafted Monarch", "Fallingstar Beast", "No", "Day 1 Caligo Raid", "No"],
+	["Augur", "DLC", "None", "Smelter Demon", "Godskin Duo", "No", "No", "No"],
+	["Libra", "DLC", "None", "Centipede Demon", "Death Rite Bird", "No", "Day 2 Gnoster Raid", "No"],
+	["Libra", "DLC", "None", "Battlefield Commander", "Crucible Knight & Hippo", "No", "Frenzy Tower", "No"],
+	["Libra", "DLC", "None", "Royal Revenant", "Godskin Duo", "No", "Frenzy Tower", "No"],
+	["Libra", "DLC", "None", "Tibia Mariner", "Death Rite Bird", "No", "No", "No"],
+	["Libra", "DLC", "None", "Duke's Dear Freja", "Crucible Knight & Hippo", "No", "No", "No"],
+	["Fulghor", "DLC", "None", "Night's Cavalries", "Dragonkin Soldier", "No", "Day 1 Libra Raid", "No"],
+	["Fulghor", "DLC", "None", "Wormface", "Nameless King", "No", "No", "Yes"],
+	["Fulghor", "DLC", "None", "Gaping Dragon", "Nameless King", "No", "Day 2 Gladius Raid", "No"],
+	["Fulghor", "DLC", "None", "Royal Revenant", "Outland Commander", "No", "No", "No"],
+	["Fulghor", "DLC", "None", "Centipede Demon", "Dragonkin Soldier", "Yes", "Extra Night 2 Boss", "No"],
+	["Caligo", "DLC", "None", "Ulcerated Tree Spirit", "Dancer", "Yes", "Extra Night 2 Boss", "No"],
+	["Caligo", "DLC", "None", "Tibia Mariner", "Godskin Duo", "No", "Day 2 Libra Raid", "No"],
+	["Caligo", "DLC", "None", "Grafted Monarch", "Draconic Tree Sentinel", "No", "Day 1 Maris Raid", "No"],
+	["Caligo", "DLC", "None", "Smelter Demon", "Draconic Tree Sentinel", "No", "No", "No"],
+	["Caligo", "DLC", "None", "Duke's Dear Freja", "Dancer", "No", "No", "No"],
+	["Heolstor", "DLC", "None", "Wormface", "Draconic Tree Sentinel", "No", "No", "No"],
+	["Heolstor", "DLC", "None", "Battlefield Commander", "Crucible Knight & Hippo", "No", "No", "No"],
+	["Heolstor", "DLC", "None", "Night's Cavalries", "Godskin Duo", "No", "Day 2 Gladius Raid", "No"],
+	["Heolstor", "DLC", "None", "Tibia Mariner", "Dragonkin Soldier", "Yes", "Extra Night 2 Boss", "No"],
+	["Heolstor", "DLC", "None", "Gaping Dragon", "Outland Commander", "No", "Day 2 Caligo Raid", "No"],
+	["Balancers", "DLC", "None", "DBW & Curseblade", "Mohg", "No", "No", "Yes"],
+	["Balancers", "DLC", "None", "Demons", "Demon Prince", "No", "Day 2 Gladius Raid", "No"],
+	["Balancers", "DLC", "None", "DBW & Curseblade", "Mohg", "No", "Frenzy Tower", "Yes"],
+	["Balancers", "DLC", "None", "DBW & Curseblade", "Mohg", "Yes", "Extra Night 2 Boss", "Yes"],
+	["Balancers", "DLC", "None", "DBW & Curseblade", "Mohg", "No", "Day 2 Caligo Raid", "Yes"],
+	["Balancers", "DLC", "None", "DBW & Curseblade", "Mohg", "Yes", "Extra Night 1 Boss", "Yes"],
+	["Balancers", "DLC", "None", "Demons", "Demon Prince", "No", "No", "No"],
+	["Balancers", "DLC", "None", "Demons", "Demon Prince", "No", "No", "No"],
+	["Balancers", "DLC", "None", "Demons", "Demon Prince", "No", "No", "No"],
+	["Balancers", "DLC", "None", "DBW & Curseblade", "Mohg", "No", "Frenzy Tower", "Yes"],
+	["Balancers", "DLC", "None", "DBW & Curseblade", "Mohg", "No", "Day 2 Gladius Raid", "Yes"],
+	["Balancers", "DLC", "None", "Demons", "Demon Prince", "No", "Day 2 Caligo Raid", "No"],
+	["Balancers", "DLC", "None", "Demons", "Demon Prince", "No", "No", "No"],
+	["Balancers", "DLC", "None", "Demons", "Demon Prince", "No", "No", "No"],
+	["Balancers", "DLC", "None", "Demons", "Demon Prince", "No", "Day 2 Gladius Raid", "No"],
+	["Balancers", "DLC", "None", "Demons", "Demon Prince", "No", "No", "Yes"],
+	["Balancers", "DLC", "None", "DBW & Curseblade", "Mohg", "No", "Day 2 Gladius Raid", "Yes"],
+	["Balancers", "DLC", "None", "Demons", "Demon Prince", "No", "Day 2 Gladius Raid", "No"],
+	["Balancers", "DLC", "None", "DBW & Curseblade", "Mohg", "No", "Day 2 Gladius Raid", "Yes"],
+	["Balancers", "DLC", "None", "DBW & Curseblade", "Mohg", "No", "Day 1 Caligo Raid", "Yes"],
+	["Dreglord", "DLC", "None", "Death Knights", "Dancing Lion", "No", "Frenzy Tower", "Yes"],
+	["Dreglord", "DLC", "None", "Great Red Bear", "Dancing Lion", "No", "Day 2 Maris Raid", "No"],
+	["Dreglord", "DLC", "None", "Great Red Bear", "Dancing Lion", "No", "No", "No"],
+	["Dreglord", "DLC", "None", "Death Knights", "Artorias", "No", "Day 2 Caligo Raid", "No"],
+	["Dreglord", "DLC", "None", "Death Knights", "Artorias", "No", "Day 2 Gladius Raid", "No"],
+	["Dreglord", "DLC", "None", "Death Knights", "Artorias", "No", "Day 2 Libra Raid", "No"],
+	["Dreglord", "DLC", "None", "Death Knights", "Dancing Lion", "No", "No", "Yes"],
+	["Dreglord", "DLC", "None", "Great Red Bear", "Dancing Lion", "Yes", "Extra Night 1 Boss", "No"],
+	["Dreglord", "DLC", "None", "Death Knights", "Dancing Lion", "No", "No", "No"],
+	["Dreglord", "DLC", "None", "Great Red Bear", "Artorias", "No", "No", "Yes"],
+	["Dreglord", "DLC", "None", "Death Knights", "Artorias", "Yes", "Extra Night 1 Boss", "No"],
+	["Dreglord", "DLC", "None", "Death Knights", "Artorias", "No", "Day 2 Libra Raid", "No"],
+	["Dreglord", "DLC", "None", "Great Red Bear", "Dancing Lion", "No", "Day 2 Caligo Raid", "No"],
+	["Dreglord", "DLC", "None", "Great Red Bear", "Artorias", "No", "Day 1 Maris Raid", "Yes"],
+	["Dreglord", "DLC", "None", "Great Red Bear", "Dancing Lion", "No", "No", "No"],
+	["Dreglord", "DLC", "None", "Death Knights", "Dancing Lion", "Yes", "Extra Night 2 Boss", "Yes"],
+	["Dreglord", "DLC", "None", "Great Red Bear", "Artorias", "No", "No", "No"],
+	["Dreglord", "DLC", "None", "Great Red Bear", "Dancing Lion", "No", "Day 1 Gnoster Raid", "No"],
+	["Dreglord", "DLC", "None", "Death Knights", "Artorias", "No", "No", "Yes"],
+	["Dreglord", "DLC", "None", "Great Red Bear", "Artorias", "No", "No", "No"]
   ]
 }
