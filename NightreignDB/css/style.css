@@ -27,6 +27,25 @@ body {
     margin-left: auto;
 }
 
+#filters {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}
+
+.filter-field {
+    display: flex;
+    flex-direction: column;
+}
+
+.filter-label {
+    margin-bottom: 6px;
+}
+
+#filters select {
+    margin-top: 0;
+}
+
 .brand {
     display: flex;
     align-items: center;
