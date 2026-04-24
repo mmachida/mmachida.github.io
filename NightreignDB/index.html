@@ -273,7 +273,7 @@ button:hover {
 }
 
 .boss-name {
-    font-weight: 900;
+    font-weight: 600;
     color: #f8fafc;
     text-align: left;
     overflow: hidden;
@@ -548,9 +548,10 @@ async function loadData() {
     fields = config.fields;
     rawData = config.data;
     fields.slice(1).forEach(f => filters[f] = "(all)");
-
+	const VERSION = "1.1"; // 👈 você muda isso quando atualizar
+	
     try {
-        const bossesRes = await fetch("./bosses_data.json");
+        const bossesRes = await fetch("./bosses_data.json?v=${VERSION}");
         bossesData = await bossesRes.json();
     } catch (err) {
         console.error("Could not load bosses_data.json", err);
