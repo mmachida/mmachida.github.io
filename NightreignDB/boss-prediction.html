@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>NightReign DB - Boss Prediction</title>
+<link rel="stylesheet" href="css/style.css">
+<script src="js/version.js"></script>
+<script>
+document.write(`<link rel="stylesheet" href="css/style.css?v=${window.APP_VERSION}">`);
+</script>
+<script src="js/shared.js" defer></script>
+<script src="js/boss-prediction.js" defer></script>
+</head>
+
+<body data-page="boss-prediction">
+
+<div id="header"></div>
+
+<div class="container">
+    <h1>Boss Prediction</h1>
+    <p class="page-subtitle">
+        Depth 3 and above can run unknown bosses, see the combinations below to identify which boss you are going to fight
+    </p>
+
+    <div class="grid">
+        <div class="box">
+            <h3>Conditions</h3>
+            <div id="filters"></div>
+            <button onclick="resetFilters()">Reset</button>
+        </div>
+
+        <div class="box">
+            <h3>Probability</h3>
+            <div id="probability"></div>
+        </div>
+    </div>
+
+    <div class="box">
+        <h3>Possible Combinations</h3>
+        <div id="table"></div>
+    </div>
+</div>
+</body>
+</html>
