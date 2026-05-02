@@ -3190,23 +3190,23 @@
             }
           },
           "damageResistance": {
-            "phys": "",
-            "slash": "",
-            "strike": 35,
-            "pierce": "",
-            "magic": "",
-            "fire": "",
-            "lightning": "",
-            "holy": ""
+            "phys": 0,
+            "slash": -10,
+            "strike": 10,
+            "pierce": 0,
+            "magic": 20,
+            "fire": 40,
+            "lightning": 20,
+            "holy": 40
           },
           "affinityResistance": {
-            "poison": "",
-            "rot": "",
-            "bleed": "",
-            "frostbite": "",
-            "sleep": "",
-            "madness": "",
-            "deathBlight": ""
+            "poison": 154,
+            "rot": 154,
+            "bleed": 112,
+            "frostbite": 154,
+            "sleep": 112,
+            "madness": "Immune",
+            "deathBlight": "Immune"
           },
           "weakDamageType": {
             "gravityVoid": "No",
@@ -4695,42 +4695,42 @@
           },
           "statusMultiplier": {
             "solo": {
-              "bleed": 1,
-              "frost": 1,
-              "sleep": 1,
-              "madness": 1
-            },
-            "duo": {
-              "bleed": 0.75,
-              "frost": 0.75,
-              "sleep": 0.75,
-              "madness": 0.75
-            },
-            "trio": {
               "bleed": 0.5,
               "frost": 0.5,
               "sleep": 0.5,
               "madness": 0.5
+            },
+            "duo": {
+              "bleed": 0.375,
+              "frost": 0.375,
+              "sleep": 0.375,
+              "madness": 0.375
+            },
+            "trio": {
+              "bleed": 0.25,
+              "frost": 0.25,
+              "sleep": 0.25,
+              "madness": 0.25
             }
           },
           "damageResistance": {
-            "phys": "",
+            "phys": 0,
             "slash": -20,
-            "strike": "",
-            "pierce": "",
-            "magic": "",
-            "fire": "",
-            "lightning": "",
-            "holy": ""
+            "strike": 0,
+            "pierce": 0,
+            "magic": 0,
+            "fire": -20,
+            "lightning": 0,
+            "holy": 0
           },
           "affinityResistance": {
-            "poison": "",
-            "rot": "",
-            "bleed": "",
-            "frostbite": "",
-            "sleep": "",
-            "madness": "",
-            "deathBlight": ""
+            "poison": 84,
+            "rot": 84,
+            "bleed": 112,
+            "frostbite": 112,
+            "sleep": 112,
+            "madness": "Immune",
+            "deathBlight": "Immune"
           },
           "weakDamageType": {
             "gravityVoid": "No",
@@ -5946,23 +5946,23 @@
             }
           },
           "damageResistance": {
-            "phys": "",
-            "slash": "",
-            "strike": 35,
-            "pierce": "",
-            "magic": "",
-            "fire": "",
-            "lightning": "",
-            "holy": ""
+            "phys": 0,
+            "slash": -10,
+            "strike": 10,
+            "pierce": 0,
+            "magic": 20,
+            "fire": 40,
+            "lightning": 20,
+            "holy": 40
           },
           "affinityResistance": {
-            "poison": "",
-            "rot": "",
-            "bleed": "",
-            "frostbite": "",
-            "sleep": "",
-            "madness": "",
-            "deathBlight": ""
+            "poison": 154,
+            "rot": 154,
+            "bleed": 112,
+            "frostbite": 154,
+            "sleep": 112,
+            "madness": "Immune",
+            "deathBlight": "Immune"
           },
           "weakDamageType": {
             "gravityVoid": "No",
