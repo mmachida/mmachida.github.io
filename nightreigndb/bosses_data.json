@@ -5455,10 +5455,10 @@
             "poison": 154,
             "rot": 154,
             "bleed": 252,
-            "frostbite": "",
+            "frostbite": 252,
             "sleep": "Immune",
-            "madness": "",
-            "deathBlight": ""
+            "madness": "Immune",
+            "deathBlight": "Immune"
           },
           "weakDamageType": {
             "gravityVoid": "No",
@@ -6069,12 +6069,12 @@
           },
           "affinityResistance": {
             "poison": "Immune",
-            "rot": "",
-            "bleed": "",
+            "rot": 252,
+            "bleed": 252,
             "frostbite": 252,
-            "sleep": "",
-            "madness": "",
-            "deathBlight": ""
+            "sleep": "Immune",
+            "madness": "Immune",
+            "deathBlight": "Immune"
           },
           "weakDamageType": {
             "gravityVoid": "No",
